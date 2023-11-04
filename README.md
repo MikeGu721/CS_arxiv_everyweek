@@ -13,5 +13,5 @@
 - 一般来说，是每周五、六、日更新这一周的所有CS Arxiv论文（我也不知道我能坚持多久，之前断断续续整理了一年的内容）。
 - 如果大家喜欢的话，可以给个小小的star或者fork支持一下
 - 如果我当周没有更新的话，也可以去我[知乎账号](https://www.zhihu.com/people/shou-zu-ji-qiang-bing)那边催我一下
-- 主业是做LLM Evaluation的，带的研究组是做LLM Evaluation、LLM Application、Agent相关的内容。你可以去看看我的[Google Scholar](https://www.zhihu.com/people/shou-zu-ji-qiang-bing)，有兴趣的话也欢迎找我们交流：zhgu22@m.fudan.edu.cn
+- 主业是做LLM Evaluation的，带的研究组是做LLM Evaluation、LLM Application、Agent相关的内容。你可以去看看我的[Google Scholar](https://scholar.google.com/citations?user=YCfdAqEAAAAJ&hl=zh-CN)，有兴趣的话也欢迎找我们交流：zhgu22@m.fudan.edu.cn
 - 有什么改进的idea，也欢迎在issue处给我留言
