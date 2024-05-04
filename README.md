@@ -1,5 +1,8 @@
 # CS_arxiv_everyweek
 
+## Updates
+- 2024.05.04: csv files are now available
+
 ## English Introduction
 - Initially, I was crawling the CS papers uploaded to arxiv every week for our research group. Later, I found that everyone seemed to need it, so I simply opened a repository.
 - Generally speaking, I update all the CS Arxiv papers for the week every Friday, Saturday, or Sunday (I don't know how long I can keep it up, I've been intermittently organizing these thing for a year).
