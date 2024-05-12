@@ -20,7 +20,8 @@ while(start_index<len(dirrs)):
         to_dir_file = os.path.join(now_dir, dir_file).replace(from_dir, to_dir).replace('.xls','.csv')
 
         if os.path.isdir(from_dir_file):
-            os.makedirs(to_dir_file)
+            if not os.path.exists:
+                os.makedirs(to_dir_file)
             dirrs.append(from_dir_file)
 
         else:
