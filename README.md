@@ -18,3 +18,14 @@
 - 如果我当周没有更新的话，也可以去我[知乎账号](https://www.zhihu.com/people/shou-zu-ji-qiang-bing)那边催我一下
 - 主业是做LLM Evaluation的，带的研究组是做LLM Evaluation、LLM Application、Agent相关的内容。你可以去看看我的[Google Scholar](https://scholar.google.com/citations?user=YCfdAqEAAAAJ&hl=zh-CN)，有兴趣的话也欢迎找我们交流：zhgu22@m.fudan.edu.cn
 - 有什么改进的idea，也欢迎在issue处给我留言
+## 😉 Citation
+
+```
+@misc{acar_arxiver2024,
+  author = {Zhouhong Gu},
+  title = {CS arxiv everyweek},
+  year = {2023},
+  publisher = {Github},
+  howpublished = {\url{https://github.com/MikeGu721/CS_arxiv_everyweek}}
+}
+```
