@@ -21,7 +21,7 @@
 ## 😉 Citation
 
 ```
-@misc{acar_arxiver2024,
+@misc{csarxiv2023,
   author = {Zhouhong Gu},
   title = {CS arxiv everyweek},
   year = {2023},
