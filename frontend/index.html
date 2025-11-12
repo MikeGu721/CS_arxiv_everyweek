@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <title>CS Arxiv 每周论文汇总</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>CS Arxiv 每周论文镜像</h1>
+      <div class="controls">
+        <label for="date-select">选择日期：</label>
+        <select id="date-select"></select>
+        <input id="search-input" type="search" placeholder="搜索标题 / 作者 / 主题" />
+        <button id="toggle-language" type="button">显示中文标题</button>
+      </div>
+    </header>
+    <main>
+      <aside>
+        <h2>日期列表</h2>
+        <ul id="date-list"></ul>
+      </aside>
+      <section id="content">
+        <div class="summary">
+          <p>共 <span id="paper-count">0</span> 篇论文</p>
+        </div>
+        <div id="paper-list" class="paper-list"></div>
+      </section>
+    </main>
+    <footer>
+      <p>
+        数据源：<a href="https://github.com/MikeGu721/CS_arxiv_everyweek" target="_blank" rel="noopener">CS_arxiv_everyweek</a>
+        ｜ 页面由本仓库自动生成
+      </p>
+    </footer>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
