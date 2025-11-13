@@ -334,6 +334,10 @@ function initDateRange(dates) {
 }
 
 async function bootstrap() {
+  if (window.location.protocol === 'file:') {
+    elements.paperList.innerHTML = '<p>请通过本地 HTTP 服务访问（例如运行 <code>python3 -m http.server</code>），否则浏览器会阻止读取 data/*.json 文件。</p>';
+    return;
+  }
   try {
     const summary = await fetchSummary();
     state.summary = summary;
