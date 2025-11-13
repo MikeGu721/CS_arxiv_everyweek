@@ -1,11 +1,13 @@
 const state = {
-  dataset: null,
+  summary: null,
   currentDate: 'ALL',
   showChinese: true,
   searchText: '',
   startDate: null,
   endDate: null,
 };
+
+const dateCache = new Map();
 
 const elements = {
   dateSelect: document.querySelector('#date-select'),
@@ -20,17 +22,29 @@ const elements = {
   clearRange: document.querySelector('#clear-range'),
 };
 
-async function fetchDataset() {
+async function fetchSummary() {
   const response = await fetch('data/index.json', { cache: 'no-cache' });
   if (!response.ok) {
-    throw new Error('无法加载数据');
+    throw new Error('无法加载 summary 数据');
   }
-  const json = await response.json();
-  return json;
+  return response.json();
+}
+
+async function fetchDateData(dateStr) {
+  if (dateCache.has(dateStr)) {
+    return dateCache.get(dateStr);
+  }
+  const response = await fetch(`data/dates/${dateStr}.json`, { cache: 'no-cache' });
+  if (!response.ok) {
+    throw new Error(`无法加载 ${dateStr} 的数据`);
+  }
+  const data = await response.json();
+  dateCache.set(dateStr, data);
+  return data;
 }
 
 function getAllDates() {
-  return state.dataset ? state.dataset.dates : [];
+  return state.summary ? state.summary.dates : [];
 }
 
 function getTotalPaperCount(dates) {
@@ -74,7 +88,7 @@ function initDateSelectors(dates) {
     state.currentDate = event.target.value;
     syncRangeWithSelection();
     updateActiveDateButton();
-    renderPapers();
+    safeRender();
   });
 
   elements.dateList.querySelectorAll('button').forEach((button) => {
@@ -82,7 +96,7 @@ function initDateSelectors(dates) {
       state.currentDate = button.dataset.date;
       syncRangeWithSelection();
       updateActiveDateButton();
-      renderPapers();
+      safeRender();
     });
   });
 }
@@ -123,12 +137,6 @@ function getSelectedDates() {
     return dates.filter((item) => isWithinRange(item.date));
   }
   return dates.filter((item) => item.date === state.currentDate);
-}
-
-function getCurrentPapers() {
-  const selectedDates = getSelectedDates();
-  const papers = selectedDates.flatMap((item) => item.papers);
-  return { dates: selectedDates, papers };
 }
 
 function filterPapers(papers) {
@@ -216,36 +224,69 @@ function updateRangeSummary(selectedDates) {
   elements.rangeSummary.textContent = parts.join(' ｜ ');
 }
 
-function renderPapers() {
-  const { dates, papers } = getCurrentPapers();
-  const filtered = filterPapers(papers);
-
+async function renderPapers() {
+  const placeholder = document.createElement('p');
+  placeholder.className = 'loading';
+  placeholder.textContent = '加载中...';
   elements.paperList.innerHTML = '';
-  elements.paperCount.textContent = filtered.length.toString();
-  updateRangeSummary(dates);
+  elements.paperList.appendChild(placeholder);
 
-  if (filtered.length === 0) {
-    const empty = document.createElement('p');
-    empty.textContent = '没有匹配的论文。';
-    elements.paperList.appendChild(empty);
+  const selectedDates = getSelectedDates();
+  if (selectedDates.length === 0) {
+    elements.paperList.innerHTML = '<p>所选范围内没有数据。</p>';
+    elements.paperCount.textContent = '0';
+    elements.rangeSummary.textContent = '';
     return;
   }
 
-  filtered.forEach((paper) => {
-    elements.paperList.appendChild(createPaperCard(paper));
+  try {
+    const datasets = [];
+    for (const item of selectedDates) {
+      const data = await fetchDateData(item.date);
+      datasets.push(data);
+    }
+    const papers = datasets.flatMap((data) => data.papers || []);
+    const filtered = filterPapers(papers);
+
+    elements.paperList.innerHTML = '';
+    elements.paperCount.textContent = filtered.length.toString();
+    updateRangeSummary(selectedDates);
+
+    if (filtered.length === 0) {
+      const empty = document.createElement('p');
+      empty.textContent = '没有匹配的论文。';
+      elements.paperList.appendChild(empty);
+      return;
+    }
+
+    filtered.forEach((paper) => {
+      elements.paperList.appendChild(createPaperCard(paper));
+    });
+  } catch (error) {
+    console.error(error);
+    elements.paperList.innerHTML = '<p>加载数据失败，请稍后重试。</p>';
+    elements.paperCount.textContent = '0';
+  }
+}
+
+function safeRender() {
+  renderPapers().catch((error) => {
+    console.error(error);
+    elements.paperList.innerHTML = '<p>加载数据失败，请稍后重试。</p>';
+    elements.paperCount.textContent = '0';
   });
 }
 
 function bindInteractions() {
   elements.searchInput.addEventListener('input', (event) => {
     state.searchText = event.target.value.trim();
-    renderPapers();
+    safeRender();
   });
 
   elements.toggleLanguage.addEventListener('click', () => {
     state.showChinese = !state.showChinese;
     elements.toggleLanguage.textContent = state.showChinese ? '显示英文标题' : '显示中文标题';
-    renderPapers();
+    safeRender();
   });
 
   elements.startDate.addEventListener('change', (event) => {
@@ -256,7 +297,7 @@ function bindInteractions() {
         updateActiveDateButton();
       }
     }
-    renderPapers();
+    safeRender();
   });
 
   elements.endDate.addEventListener('change', (event) => {
@@ -267,7 +308,7 @@ function bindInteractions() {
         updateActiveDateButton();
       }
     }
-    renderPapers();
+    safeRender();
   });
 
   elements.clearRange.addEventListener('click', () => {
@@ -279,7 +320,7 @@ function bindInteractions() {
       state.currentDate = 'ALL';
       updateActiveDateButton();
     }
-    renderPapers();
+    safeRender();
   });
 }
 
@@ -294,8 +335,8 @@ function initDateRange(dates) {
 
 async function bootstrap() {
   try {
-    const dataset = await fetchDataset();
-    state.dataset = dataset;
+    const summary = await fetchSummary();
+    state.summary = summary;
     const dates = getAllDates();
     if (dates.length === 0) {
       elements.paperList.textContent = '暂无数据，请先运行爬取脚本。';
@@ -306,7 +347,7 @@ async function bootstrap() {
     syncRangeWithSelection();
     updateActiveDateButton();
     bindInteractions();
-    renderPapers();
+    safeRender();
   } catch (error) {
     console.error(error);
     elements.paperList.textContent = '加载数据失败，请检查浏览器控制台日志。';
