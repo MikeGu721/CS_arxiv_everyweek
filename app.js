@@ -1,8 +1,10 @@
 const state = {
   dataset: null,
-  currentDate: null,
+  currentDate: 'ALL',
   showChinese: true,
   searchText: '',
+  startDate: null,
+  endDate: null,
 };
 
 const elements = {
@@ -12,6 +14,10 @@ const elements = {
   toggleLanguage: document.querySelector('#toggle-language'),
   paperList: document.querySelector('#paper-list'),
   paperCount: document.querySelector('#paper-count'),
+  rangeSummary: document.querySelector('#range-summary'),
+  startDate: document.querySelector('#start-date'),
+  endDate: document.querySelector('#end-date'),
+  clearRange: document.querySelector('#clear-range'),
 };
 
 async function fetchDataset() {
@@ -23,11 +29,33 @@ async function fetchDataset() {
   return json;
 }
 
+function getAllDates() {
+  return state.dataset ? state.dataset.dates : [];
+}
+
+function getTotalPaperCount(dates) {
+  return dates.reduce((acc, item) => acc + item.count, 0);
+}
+
 function initDateSelectors(dates) {
   elements.dateSelect.innerHTML = '';
   elements.dateList.innerHTML = '';
 
-  dates.forEach((item, index) => {
+  const totalCount = getTotalPaperCount(dates);
+  const allOption = document.createElement('option');
+  allOption.value = 'ALL';
+  allOption.textContent = `全部日期（${totalCount} 篇）`;
+  elements.dateSelect.appendChild(allOption);
+
+  const allLi = document.createElement('li');
+  const allBtn = document.createElement('button');
+  allBtn.type = 'button';
+  allBtn.dataset.date = 'ALL';
+  allBtn.textContent = `全部日期（${totalCount}）`;
+  allLi.appendChild(allBtn);
+  elements.dateList.appendChild(allLi);
+
+  dates.forEach((item) => {
     const option = document.createElement('option');
     option.value = item.date;
     option.textContent = `${item.date}（${item.count} 篇）`;
@@ -38,14 +66,6 @@ function initDateSelectors(dates) {
     button.type = 'button';
     button.textContent = `${item.date}（${item.count}）`;
     button.dataset.date = item.date;
-    if (index === 0) {
-      button.classList.add('active');
-    }
-    button.addEventListener('click', () => {
-      state.currentDate = item.date;
-      updateActiveDateButton();
-      renderPapers();
-    });
     li.appendChild(button);
     elements.dateList.appendChild(li);
   });
@@ -54,6 +74,14 @@ function initDateSelectors(dates) {
     state.currentDate = event.target.value;
     updateActiveDateButton();
     renderPapers();
+  });
+
+  elements.dateList.querySelectorAll('button').forEach((button) => {
+    button.addEventListener('click', () => {
+      state.currentDate = button.dataset.date;
+      updateActiveDateButton();
+      renderPapers();
+    });
   });
 }
 
@@ -64,9 +92,32 @@ function updateActiveDateButton() {
   elements.dateSelect.value = state.currentDate;
 }
 
-function getCurrentDateData() {
-  if (!state.dataset) return null;
-  return state.dataset.dates.find((item) => item.date === state.currentDate) || null;
+function isWithinRange(dateStr) {
+  const dateValue = new Date(dateStr);
+  if (Number.isNaN(dateValue.valueOf())) return true;
+  if (state.startDate) {
+    const start = new Date(state.startDate);
+    if (dateValue < start) return false;
+  }
+  if (state.endDate) {
+    const end = new Date(state.endDate);
+    if (dateValue > end) return false;
+  }
+  return true;
+}
+
+function getSelectedDates() {
+  const dates = getAllDates();
+  if (state.currentDate === 'ALL') {
+    return dates.filter((item) => isWithinRange(item.date));
+  }
+  return dates.filter((item) => item.date === state.currentDate);
+}
+
+function getCurrentPapers() {
+  const selectedDates = getSelectedDates();
+  const papers = selectedDates.flatMap((item) => item.papers);
+  return { dates: selectedDates, papers };
 }
 
 function filterPapers(papers) {
@@ -87,6 +138,10 @@ function createPaperCard(paper) {
   const title = document.createElement('h3');
   const displayTitle = state.showChinese && paper.title_zh ? paper.title_zh : paper.title;
   title.textContent = displayTitle;
+
+  const originalTitle = document.createElement('p');
+  originalTitle.className = 'original-title';
+  originalTitle.textContent = `原标题：${paper.title}`;
 
   const link = document.createElement('a');
   link.href = paper.url;
@@ -114,6 +169,7 @@ function createPaperCard(paper) {
   subjects.textContent = paper.subjects;
 
   article.appendChild(title);
+  article.appendChild(originalTitle);
   article.appendChild(link);
   article.appendChild(meta);
   if (tags.children.length > 0) {
@@ -125,17 +181,37 @@ function createPaperCard(paper) {
   return article;
 }
 
-function renderPapers() {
-  const dateData = getCurrentDateData();
-  elements.paperList.innerHTML = '';
-
-  if (!dateData) {
-    elements.paperCount.textContent = '0';
+function updateRangeSummary(selectedDates) {
+  if (state.currentDate !== 'ALL' && !state.startDate && !state.endDate) {
+    elements.rangeSummary.textContent = '';
     return;
   }
 
-  const filtered = filterPapers(dateData.papers);
+  const parts = [];
+  if (state.currentDate === 'ALL') {
+    parts.push('模式：全部日期');
+  } else {
+    parts.push(`模式：${state.currentDate}`);
+  }
+  if (state.startDate) {
+    parts.push(`开始 ≥ ${state.startDate}`);
+  }
+  if (state.endDate) {
+    parts.push(`结束 ≤ ${state.endDate}`);
+  }
+  if (selectedDates.length > 0) {
+    parts.push(`覆盖 ${selectedDates.length} 个日期`);
+  }
+  elements.rangeSummary.textContent = parts.join(' ｜ ');
+}
+
+function renderPapers() {
+  const { dates, papers } = getCurrentPapers();
+  const filtered = filterPapers(papers);
+
+  elements.paperList.innerHTML = '';
   elements.paperCount.textContent = filtered.length.toString();
+  updateRangeSummary(dates);
 
   if (filtered.length === 0) {
     const empty = document.createElement('p');
@@ -160,18 +236,47 @@ function bindInteractions() {
     elements.toggleLanguage.textContent = state.showChinese ? '显示英文标题' : '显示中文标题';
     renderPapers();
   });
+
+  elements.startDate.addEventListener('change', (event) => {
+    state.startDate = event.target.value || null;
+    renderPapers();
+  });
+
+  elements.endDate.addEventListener('change', (event) => {
+    state.endDate = event.target.value || null;
+    renderPapers();
+  });
+
+  elements.clearRange.addEventListener('click', () => {
+    state.startDate = null;
+    state.endDate = null;
+    elements.startDate.value = '';
+    elements.endDate.value = '';
+    renderPapers();
+  });
+}
+
+function initDateRange(dates) {
+  if (dates.length === 0) return;
+  const sortedDates = [...dates].sort((a, b) => (a.date < b.date ? -1 : 1));
+  elements.startDate.min = sortedDates[0].date;
+  elements.startDate.max = sortedDates[sortedDates.length - 1].date;
+  elements.endDate.min = sortedDates[0].date;
+  elements.endDate.max = sortedDates[sortedDates.length - 1].date;
 }
 
 async function bootstrap() {
   try {
     const dataset = await fetchDataset();
     state.dataset = dataset;
-    if (dataset.dates.length === 0) {
+    const dates = getAllDates();
+    if (dates.length === 0) {
       elements.paperList.textContent = '暂无数据，请先运行爬取脚本。';
       return;
     }
-    initDateSelectors(dataset.dates);
-    state.currentDate = dataset.dates[0].date;
+    initDateSelectors(dates);
+    initDateRange(dates);
+    updateActiveDateButton();
     bindInteractions();
     renderPapers();
   } catch (error) {

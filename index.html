@@ -12,6 +12,17 @@
       <div class="controls">
         <label for="date-select">选择日期：</label>
         <select id="date-select"></select>
+        <div class="date-range">
+          <label>
+            开始日期
+            <input id="start-date" type="date" />
+          </label>
+          <label>
+            结束日期
+            <input id="end-date" type="date" />
+          </label>
+          <button id="clear-range" type="button">清除范围</button>
+        </div>
         <input id="search-input" type="search" placeholder="搜索标题 / 作者 / 主题" />
         <button id="toggle-language" type="button">显示中文标题</button>
       </div>
@@ -24,6 +35,7 @@
       <section id="content">
         <div class="summary">
           <p>共 <span id="paper-count">0</span> 篇论文</p>
+          <p id="range-summary"></p>
         </div>
         <div id="paper-list" class="paper-list"></div>
       </section>
