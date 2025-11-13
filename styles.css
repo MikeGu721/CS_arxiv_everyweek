@@ -24,16 +24,25 @@ header h1 {
 .controls {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
-  align-items: center;
+  gap: 16px;
+  align-items: flex-end;
 }
 
-.controls label {
-  font-weight: 600;
+.control {
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  gap: 6px;
+  min-width: 220px;
+}
+
+.control > label {
+  font-weight: 600;
   font-size: 14px;
+}
+
+.toggle-control .placeholder-label {
+  visibility: hidden;
+  height: 18px;
 }
 
 .controls select,
@@ -59,13 +68,25 @@ header h1 {
   background: rgba(0, 0, 0, 0.15);
 }
 
-.date-range {
+.control-range .date-range {
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   gap: 12px;
 }
 
-#clear-range {
+.control-range .date-range label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 14px;
+  color: #f0f5ff;
+}
+
+.control-range .date-range input[type="date"] {
+  min-width: 180px;
+}
+
+.control-range #clear-range {
   background: rgba(0, 0, 0, 0.12);
 }
 

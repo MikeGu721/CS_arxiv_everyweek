@@ -10,21 +10,32 @@
     <header>
       <h1>CS Arxiv 每周论文镜像</h1>
       <div class="controls">
-        <label for="date-select">选择日期：</label>
-        <select id="date-select"></select>
-        <div class="date-range">
-          <label>
-            开始日期
-            <input id="start-date" type="date" />
-          </label>
-          <label>
-            结束日期
-            <input id="end-date" type="date" />
-          </label>
-          <button id="clear-range" type="button">清除范围</button>
+        <div class="control">
+          <label for="date-select">选择日期</label>
+          <select id="date-select"></select>
         </div>
-        <input id="search-input" type="search" placeholder="搜索标题 / 作者 / 主题" />
-        <button id="toggle-language" type="button">显示中文标题</button>
+        <div class="control control-range">
+          <label>时间范围</label>
+          <div class="date-range">
+            <label>
+              开始日期
+              <input id="start-date" type="date" />
+            </label>
+            <label>
+              结束日期
+              <input id="end-date" type="date" />
+            </label>
+            <button id="clear-range" type="button">清除范围</button>
+          </div>
+        </div>
+        <div class="control">
+          <label for="search-input">搜索关键词</label>
+          <input id="search-input" type="search" placeholder="搜索标题 / 作者 / 主题" />
+        </div>
+        <div class="control toggle-control">
+          <label class="placeholder-label" aria-hidden="true"></label>
+          <button id="toggle-language" type="button">显示中文标题</button>
+        </div>
       </div>
     </header>
     <main>
