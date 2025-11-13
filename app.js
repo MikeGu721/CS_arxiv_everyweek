@@ -1,6 +1,9 @@
+const CUSTOM_VALUE = 'CUSTOM';
+
 const state = {
   summary: null,
-  currentDate: 'ALL',
+  mode: 'single', // 'single' | 'range'
+  currentDate: null,
   showChinese: true,
   searchText: '',
   startDate: null,
@@ -8,6 +11,7 @@ const state = {
 };
 
 const dateCache = new Map();
+let customButtonRef = null;
 
 const elements = {
   dateSelect: document.querySelector('#date-select'),
@@ -55,26 +59,27 @@ function initDateSelectors(dates) {
   elements.dateSelect.innerHTML = '';
   elements.dateList.innerHTML = '';
 
-  const totalCount = getTotalPaperCount(dates);
-  const allOption = document.createElement('option');
-  allOption.value = 'ALL';
-  allOption.textContent = `全部日期（${totalCount} 篇）`;
-  elements.dateSelect.appendChild(allOption);
-
-  const allLi = document.createElement('li');
-  const allBtn = document.createElement('button');
-  allBtn.type = 'button';
-  allBtn.dataset.date = 'ALL';
-  allBtn.textContent = `全部日期（${totalCount}）`;
-  allLi.appendChild(allBtn);
-  elements.dateList.appendChild(allLi);
+  const customOption = document.createElement('option');
+  customOption.value = CUSTOM_VALUE;
+  customOption.textContent = '自定义时间';
+  elements.dateSelect.appendChild(customOption);
 
   dates.forEach((item) => {
     const option = document.createElement('option');
     option.value = item.date;
     option.textContent = `${item.date}（${item.count} 篇）`;
     elements.dateSelect.appendChild(option);
+  });
 
+  const customLi = document.createElement('li');
+  customButtonRef = document.createElement('button');
+  customButtonRef.type = 'button';
+  customButtonRef.textContent = '自定义时间';
+  customButtonRef.dataset.mode = 'range';
+  customLi.appendChild(customButtonRef);
+  elements.dateList.appendChild(customLi);
+
+  dates.forEach((item) => {
     const li = document.createElement('li');
     const button = document.createElement('button');
     button.type = 'button';
@@ -85,41 +90,74 @@ function initDateSelectors(dates) {
   });
 
   elements.dateSelect.addEventListener('change', (event) => {
-    state.currentDate = event.target.value;
-    syncRangeWithSelection();
-    updateActiveDateButton();
-    safeRender();
+    const value = event.target.value;
+    if (value === CUSTOM_VALUE) {
+      enterRangeMode();
+    } else {
+      enterSingleMode(value);
+    }
   });
 
   elements.dateList.querySelectorAll('button').forEach((button) => {
-    button.addEventListener('click', () => {
-      state.currentDate = button.dataset.date;
-      syncRangeWithSelection();
-      updateActiveDateButton();
-      safeRender();
-    });
+    if (button.dataset.mode === 'range') {
+      button.addEventListener('click', () => {
+        enterRangeMode();
+      });
+    } else {
+      button.addEventListener('click', () => {
+        enterSingleMode(button.dataset.date);
+      });
+    }
   });
 }
 
-function syncRangeWithSelection() {
-  if (state.currentDate !== 'ALL') {
-    state.startDate = state.currentDate;
-    state.endDate = state.currentDate;
-    elements.startDate.value = state.currentDate;
-    elements.endDate.value = state.currentDate;
+function ensureRangeInitialized() {
+  const dates = getAllDates();
+  if (dates.length === 0) return;
+  const latest = dates[0].date;
+  if (!state.startDate) {
+    state.startDate = latest;
+    elements.startDate.value = latest;
   }
+  if (!state.endDate) {
+    state.endDate = latest;
+    elements.endDate.value = latest;
+  }
+}
+
+function enterSingleMode(dateStr) {
+  state.mode = 'single';
+  state.currentDate = dateStr;
+  state.startDate = dateStr;
+  state.endDate = dateStr;
+  elements.startDate.value = dateStr;
+  elements.endDate.value = dateStr;
+  updateActiveDateButton();
+  safeRender();
+}
+
+function enterRangeMode() {
+  state.mode = 'range';
+  state.currentDate = null;
+  ensureRangeInitialized();
+  updateActiveDateButton();
+  safeRender();
 }
 
 function updateActiveDateButton() {
   elements.dateList.querySelectorAll('button').forEach((button) => {
-    button.classList.toggle('active', button.dataset.date === state.currentDate);
+    if (button.dataset.mode === 'range') {
+      button.classList.toggle('active', state.mode === 'range');
+    } else {
+      button.classList.toggle('active', state.mode === 'single' && button.dataset.date === state.currentDate);
+    }
   });
-  elements.dateSelect.value = state.currentDate;
+  elements.dateSelect.value = state.mode === 'range' ? CUSTOM_VALUE : state.currentDate;
 }
 
 function isWithinRange(dateStr) {
   const dateValue = new Date(dateStr);
-  if (Number.isNaN(dateValue.valueOf())) return true;
+  if (Number.isNaN(dateValue.valueOf())) return false;
   if (state.startDate) {
     const start = new Date(state.startDate);
     if (dateValue < start) return false;
@@ -133,10 +171,11 @@ function isWithinRange(dateStr) {
 
 function getSelectedDates() {
   const dates = getAllDates();
-  if (state.currentDate === 'ALL') {
-    return dates.filter((item) => isWithinRange(item.date));
+  if (state.mode === 'single') {
+    return dates.filter((item) => item.date === state.currentDate);
   }
-  return dates.filter((item) => item.date === state.currentDate);
+  ensureRangeInitialized();
+  return dates.filter((item) => isWithinRange(item.date));
 }
 
 function filterPapers(papers) {
@@ -201,16 +240,11 @@ function createPaperCard(paper) {
 }
 
 function updateRangeSummary(selectedDates) {
-  if (state.currentDate !== 'ALL' && !state.startDate && !state.endDate) {
-    elements.rangeSummary.textContent = '';
-    return;
-  }
-
   const parts = [];
-  if (state.currentDate === 'ALL') {
-    parts.push('模式：全部日期');
-  } else {
+  if (state.mode === 'single') {
     parts.push(`模式：${state.currentDate}`);
+  } else {
+    parts.push('模式：自定义时间');
   }
   if (state.startDate) {
     parts.push(`开始 ≥ ${state.startDate}`);
@@ -291,23 +325,25 @@ function bindInteractions() {
 
   elements.startDate.addEventListener('change', (event) => {
     state.startDate = event.target.value || null;
-    if (state.startDate || state.endDate) {
-      if (state.currentDate !== 'ALL') {
-        state.currentDate = 'ALL';
-        updateActiveDateButton();
-      }
+    if (state.endDate && state.startDate && state.startDate > state.endDate) {
+      state.endDate = state.startDate;
+      elements.endDate.value = state.startDate;
     }
+    state.mode = 'range';
+    state.currentDate = null;
+    updateActiveDateButton();
     safeRender();
   });
 
   elements.endDate.addEventListener('change', (event) => {
     state.endDate = event.target.value || null;
-    if (state.startDate || state.endDate) {
-      if (state.currentDate !== 'ALL') {
-        state.currentDate = 'ALL';
-        updateActiveDateButton();
-      }
+    if (state.endDate && state.startDate && state.endDate < state.startDate) {
+      state.startDate = state.endDate;
+      elements.startDate.value = state.endDate;
     }
+    state.mode = 'range';
+    state.currentDate = null;
+    updateActiveDateButton();
     safeRender();
   });
 
@@ -316,10 +352,9 @@ function bindInteractions() {
     state.endDate = null;
     elements.startDate.value = '';
     elements.endDate.value = '';
-    if (state.currentDate !== 'ALL') {
-      state.currentDate = 'ALL';
-      updateActiveDateButton();
-    }
+    state.mode = 'range';
+    state.currentDate = null;
+    updateActiveDateButton();
     safeRender();
   });
 }
@@ -346,9 +381,11 @@ async function bootstrap() {
       elements.paperList.textContent = '暂无数据，请先运行爬取脚本。';
       return;
     }
+    state.currentDate = dates[0].date;
+    state.startDate = dates[0].date;
+    state.endDate = dates[0].date;
     initDateSelectors(dates);
     initDateRange(dates);
-    syncRangeWithSelection();
     updateActiveDateButton();
     bindInteractions();
     safeRender();
