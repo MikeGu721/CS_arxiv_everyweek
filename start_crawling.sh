@@ -7,7 +7,7 @@ PYTHON_BIN=${PYTHON_BIN:-python3}
 SCRIPT_ARGS=("$@")
 GIT_BRANCH=${GIT_BRANCH:-main}
 GIT_AUTO_PUSH=${GIT_AUTO_PUSH:-true}
-GIT_PATHS=${GIT_PATHS:-"csv_file xls_file src"}
+GIT_PATHS=${GIT_PATHS:-"csv_file xls_file data"}
 
 cd "${ROOT_DIR}" || exit 1
 
@@ -30,10 +30,10 @@ if run_update; then
   ${PYTHON_BIN} src/build_frontend_data.py || log "生成前端数据失败"
 
   if [[ "${GIT_AUTO_PUSH}" == "true" ]]; then
-    if git status --porcelain -- ${GIT_PATHS} frontend | grep -q "."; then
+    if git status --porcelain -- ${GIT_PATHS} | grep -q "."; then
       log "检测到变更，准备提交"
       # shellcheck disable=SC2086
-      git add ${GIT_PATHS} frontend
+      git add ${GIT_PATHS}
       if git commit -m "update" >/dev/null 2>&1; then
         if git push origin "${GIT_BRANCH}"; then
           log "提交并推送完成"

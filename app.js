@@ -72,6 +72,7 @@ function initDateSelectors(dates) {
 
   elements.dateSelect.addEventListener('change', (event) => {
     state.currentDate = event.target.value;
+    syncRangeWithSelection();
     updateActiveDateButton();
     renderPapers();
   });
@@ -79,10 +80,20 @@ function initDateSelectors(dates) {
   elements.dateList.querySelectorAll('button').forEach((button) => {
     button.addEventListener('click', () => {
       state.currentDate = button.dataset.date;
+      syncRangeWithSelection();
       updateActiveDateButton();
       renderPapers();
     });
   });
+}
+
+function syncRangeWithSelection() {
+  if (state.currentDate !== 'ALL') {
+    state.startDate = state.currentDate;
+    state.endDate = state.currentDate;
+    elements.startDate.value = state.currentDate;
+    elements.endDate.value = state.currentDate;
+  }
 }
 
 function updateActiveDateButton() {
@@ -239,11 +250,23 @@ function bindInteractions() {
 
   elements.startDate.addEventListener('change', (event) => {
     state.startDate = event.target.value || null;
+    if (state.startDate || state.endDate) {
+      if (state.currentDate !== 'ALL') {
+        state.currentDate = 'ALL';
+        updateActiveDateButton();
+      }
+    }
     renderPapers();
   });
 
   elements.endDate.addEventListener('change', (event) => {
     state.endDate = event.target.value || null;
+    if (state.startDate || state.endDate) {
+      if (state.currentDate !== 'ALL') {
+        state.currentDate = 'ALL';
+        updateActiveDateButton();
+      }
+    }
     renderPapers();
   });
 
@@ -252,6 +275,10 @@ function bindInteractions() {
     state.endDate = null;
     elements.startDate.value = '';
     elements.endDate.value = '';
+    if (state.currentDate !== 'ALL') {
+      state.currentDate = 'ALL';
+      updateActiveDateButton();
+    }
     renderPapers();
   });
 }
@@ -276,6 +303,7 @@ async function bootstrap() {
     }
     initDateSelectors(dates);
     initDateRange(dates);
+    syncRangeWithSelection();
     updateActiveDateButton();
     bindInteractions();
     renderPapers();
