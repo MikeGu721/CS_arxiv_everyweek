@@ -13,6 +13,12 @@ const state = {
 const dateCache = new Map();
 let customButtonRef = null;
 
+function trackEvent(action, params = {}) {
+  if (typeof window.gtag === 'function') {
+    window.gtag('event', action, params);
+  }
+}
+
 const elements = {
   dateSelect: document.querySelector('#date-select'),
   dateList: document.querySelector('#date-list'),
@@ -133,6 +139,7 @@ function enterSingleMode(dateStr) {
   elements.startDate.value = dateStr;
   elements.endDate.value = dateStr;
   updateActiveDateButton();
+  trackEvent('select_date', { date: dateStr });
   safeRender();
 }
 
@@ -141,6 +148,10 @@ function enterRangeMode() {
   state.currentDate = null;
   ensureRangeInitialized();
   updateActiveDateButton();
+  trackEvent('enter_custom_range', {
+    start_date: state.startDate,
+    end_date: state.endDate,
+  });
   safeRender();
 }
 
@@ -206,6 +217,12 @@ function createPaperCard(paper) {
   link.target = '_blank';
   link.rel = 'noopener';
   link.textContent = paper.id;
+  link.addEventListener('click', () => {
+    trackEvent('open_paper', {
+      paper_id: paper.id,
+      date: paper.__date || null,
+    });
+  });
 
   const meta = document.createElement('p');
   meta.className = 'paper-meta';
@@ -279,12 +296,19 @@ async function renderPapers() {
       const data = await fetchDateData(item.date);
       datasets.push(data);
     }
-    const papers = datasets.flatMap((data) => data.papers || []);
+    const papers = datasets.flatMap((data) => (data.papers || []).map((paper) => ({ ...paper, __date: data.date })));
     const filtered = filterPapers(papers);
 
     elements.paperList.innerHTML = '';
     elements.paperCount.textContent = filtered.length.toString();
     updateRangeSummary(selectedDates);
+
+    trackEvent('render_results', {
+      mode: state.mode,
+      start_date: state.startDate,
+      end_date: state.endDate,
+      count: filtered.length,
+    });
 
     if (filtered.length === 0) {
       const empty = document.createElement('p');
@@ -317,9 +341,17 @@ function bindInteractions() {
     safeRender();
   });
 
+  elements.searchInput.addEventListener('change', (event) => {
+    trackEvent('search', {
+      keyword: event.target.value.trim(),
+      mode: state.mode,
+    });
+  });
+
   elements.toggleLanguage.addEventListener('click', () => {
     state.showChinese = !state.showChinese;
     elements.toggleLanguage.textContent = state.showChinese ? '显示英文标题' : '显示中文标题';
+    trackEvent('toggle_language', { show_chinese: state.showChinese });
     safeRender();
   });
 
@@ -332,6 +364,10 @@ function bindInteractions() {
     state.mode = 'range';
     state.currentDate = null;
     updateActiveDateButton();
+    trackEvent('update_range_start', {
+      start_date: state.startDate,
+      end_date: state.endDate,
+    });
     safeRender();
   });
 
@@ -344,6 +380,10 @@ function bindInteractions() {
     state.mode = 'range';
     state.currentDate = null;
     updateActiveDateButton();
+    trackEvent('update_range_end', {
+      start_date: state.startDate,
+      end_date: state.endDate,
+    });
     safeRender();
   });
 
@@ -355,6 +395,7 @@ function bindInteractions() {
     state.mode = 'range';
     state.currentDate = null;
     updateActiveDateButton();
+    trackEvent('clear_range');
     safeRender();
   });
 }
