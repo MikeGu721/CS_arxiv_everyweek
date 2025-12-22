@@ -5,7 +5,7 @@
     {
       "id": "arXiv:2511.00456",
       "title": "Weakly Supervised Pneumonia Localization from Chest X-Rays Using Deep Neural Network and Grad-CAM Explanations",
-      "title_zh": "基于深度神经网络与Grad-CAM解释的弱监督胸部X光肺炎定位",
+      "title_zh": "基于深度神经网络和Grad-CAM解释的弱监督胸部X光肺炎定位",
       "authors": "Kiran Shahi, Anup Bagale",
       "url": "https://arxiv.org/pdf/2511.00456",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -14,7 +14,7 @@
     {
       "id": "arXiv:2512.12767",
       "title": "Random matrix theory of sparse neuronal networks with heterogeneous timescales",
-      "title_zh": "异质时间尺度稀疏神经网络的随机矩阵理论",
+      "title_zh": "具有异质时间尺度的稀疏神经网络的随机矩阵理论",
       "authors": "Thiparat Chotibut, Oleg Evnin, Weerawit Horinouchi",
       "url": "https://arxiv.org/pdf/2512.12767",
       "subjects": "Subjects:\nNeurons and Cognition (q-bio.NC); Disordered Systems and Neural Networks (cond-mat.dis-nn); Machine Learning (cs.LG); High Energy Physics - Theory (hep-th); Probability (math.PR)",
@@ -23,7 +23,7 @@
     {
       "id": "arXiv:2512.14432",
       "title": "Chirp Delay-Doppler Domain Modulation Based Joint Communication and Radar for Autonomous Vehicles",
-      "title_zh": "基于啁啾延迟-多普勒域调制的自主车辆通信与雷达联合系统",
+      "title_zh": "基于啁啾时延-多普勒域调制的自主车辆通信与雷达联合系统",
       "authors": "Zhuoran Li, Zhen Gao, Sheng Chen, Dusit Niyato, Zhaocheng Wan, George K. Karagiannidis",
       "url": "https://arxiv.org/pdf/2512.14432",
       "subjects": "Subjects:\nSignal Processing (eess.SP); Information Theory (cs.IT)",
@@ -41,7 +41,7 @@
     {
       "id": "arXiv:2512.15109",
       "title": "Large Model Enabled Embodied Intelligence for 6G Integrated Perception, Communication, and Computation Network",
-      "title_zh": "面向6G融合感知通信计算网络的大模型赋能具身智能",
+      "title_zh": "面向6G一体化感知通信计算网络的大型模型赋能具身智能",
       "authors": "Zhuoran Li, Zhen Gao, Xinhua Liu, Zheng Wang, Xiaotian Zhou, Lei Liu, Yongpeng Wu, Wei Feng, Yongming Huang",
       "url": "https://arxiv.org/pdf/2512.15109",
       "subjects": "Subjects:\nSignal Processing (eess.SP); Artificial Intelligence (cs.AI); Information Theory (cs.IT)",
@@ -59,7 +59,7 @@
     {
       "id": "arXiv:2512.15719",
       "title": "A Fast Volumetric Capture and Reconstruction Pipeline for Dynamic Point Clouds and Gaussian Splats",
-      "title_zh": "动态点云与高斯斑点的快速体积捕获与重建流水线",
+      "title_zh": "动态点云和高斯斑点的快速体积捕捉与重建流水线",
       "authors": "Athanasios Charisoudis, Simone Croci, Lam Kit Yung, Pascal Frossard, Aljosa Smolic",
       "url": "https://arxiv.org/pdf/2512.15719",
       "subjects": "Subjects:\nGraphics (cs.GR); Image and Video Processing (eess.IV)",
@@ -77,7 +77,7 @@
     {
       "id": "arXiv:2512.15722",
       "title": "Value Lens: Using Large Language Models to Understand Human Values",
-      "title_zh": "价值透镜：利用大语言模型理解人类价值观",
+      "title_zh": "价值透镜：使用大语言模型理解人类价值观",
       "authors": "Eduardo de la Cruz Fernández, Marcelo Karanik, Sascha Ossowski",
       "url": "https://arxiv.org/pdf/2512.15722",
       "subjects": "Subjects:\nComputers and Society (cs.CY); Artificial Intelligence (cs.AI); Computation and Language (cs.CL)",
@@ -86,7 +86,7 @@
     {
       "id": "arXiv:2512.15725",
       "title": "Generative design of stabilizing controllers with diffusion models: the Youla approach",
-      "title_zh": "使用扩散模型生成稳定控制器的设计：Youla方法",
+      "title_zh": "基于扩散模型的稳定控制器生成设计：Youla方法",
       "authors": "Matteo Cercola, Donatello Materassi, Simone Formentin",
       "url": "https://arxiv.org/pdf/2512.15725",
       "subjects": "Subjects:\nSystems and Control (eess.SY)",
@@ -104,7 +104,7 @@
     {
       "id": "arXiv:2512.15729",
       "title": "TinyMyo: a Tiny Foundation Model for Flexible EMG Signal Processing at the Edge",
-      "title_zh": "TinyMyo：一种用于边缘计算的微型基础模型实现柔性肌电信号处理",
+      "title_zh": "TinyMyo：一种用于边缘端灵活肌电信号处理的微型基础模型",
       "authors": "Matteo Fasulo, Giusy Spacone, Thorir Mar Ingolfsson, Yawei Li, Luca Benini, Andrea Cossettini",
       "url": "https://arxiv.org/pdf/2512.15729",
       "subjects": "Subjects:\nSignal Processing (eess.SP); Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)",
@@ -131,7 +131,7 @@
     {
       "id": "arXiv:2512.15734",
       "title": "Run-to-Run Indirect Trajectory Tracking Control of Electromechanical Systems Based on Identifiable and Flat Models",
-      "title_zh": "基于可识别和平坦模型的机电系统运行到运行间接轨迹跟踪控制",
+      "title_zh": "基于可识别和平坦模型的机电系统运行间间接轨迹跟踪控制",
       "authors": "Eloy Serrano-Seco (1), Edgar Ramirez-Laboreo (1), Eduardo Moya-Lasheras (1) ((1) Universidad de Zaragoza)",
       "url": "https://arxiv.org/pdf/2512.15734",
       "subjects": "Subjects:\nSystems and Control (eess.SY)",
@@ -149,7 +149,7 @@
     {
       "id": "arXiv:2512.15736",
       "title": "Anubuddhi: A Multi-Agent AI System for Designing and Simulating Quantum Optics Experiments",
-      "title_zh": "Anubuddhi：用于设计和模拟量子光学实验的多智能体AI系统",
+      "title_zh": "Anubuddhi：用于量子光学实验设计与模拟的多智能体AI系统",
       "authors": "S. K. Rithvik",
       "url": "https://arxiv.org/pdf/2512.15736",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Machine Learning (cs.LG); Quantum Physics (quant-ph)",
@@ -158,7 +158,7 @@
     {
       "id": "arXiv:2512.15738",
       "title": "Hybrid Quantum-Classical Ensemble Learning for S\\&P 500 Directional Prediction",
-      "title_zh": "混合量子-经典集成学习用于标普500方向预测",
+      "title_zh": "混合量子-经典集成学习在标普500方向预测中的应用",
       "authors": "Abraham Itzhak Weinberg",
       "url": "https://arxiv.org/pdf/2512.15738",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Statistical Finance (q-fin.ST)",
@@ -176,7 +176,7 @@
     {
       "id": "arXiv:2512.15740",
       "title": "The Principle of Proportional Duty: A Knowledge-Duty Framework for Ethical Equilibrium in Human and Artificial Systems",
-      "title_zh": "比例责任原则：人类与人工系统中伦理平衡的知识-责任框架",
+      "title_zh": "比例责任原则：面向人与人工系统伦理平衡的知识-责任框架",
       "authors": "Timothy Prescher",
       "url": "https://arxiv.org/pdf/2512.15740",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Optimization and Control (math.OC)",
@@ -194,7 +194,7 @@
     {
       "id": "arXiv:2512.15743",
       "title": "Prompt-to-Parts: Generative AI for Physical Assembly and Scalable Instructions",
-      "title_zh": "Prompt-to-Parts：生成式AI用于物理装配和可扩展指令",
+      "title_zh": "Prompt-to-Parts：用于物理装配和可扩展指令生成的生成式AI",
       "authors": "David Noever",
       "url": "https://arxiv.org/pdf/2512.15743",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -203,7 +203,7 @@
     {
       "id": "arXiv:2512.15744",
       "title": "How Do Graph Signals Affect Recommendation: Unveiling the Mystery of Low and High-Frequency Graph Signals",
-      "title_zh": "图信号如何影响推荐：揭示低频和高频图信号的奥秘",
+      "title_zh": "图信号如何影响推荐：揭示低频与高频图信号的奥秘",
       "authors": "Feng Liu, Hao Cang, Huanhuan Yuan, Jiaqing Fan, Yongjing Hao, Fuzhen Zhuang, Guanfeng Liu, Pengpeng Zhao",
       "url": "https://arxiv.org/pdf/2512.15744",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -221,7 +221,7 @@
     {
       "id": "arXiv:2512.15746",
       "title": "A Unified Generative-Predictive Framework for Deterministic Inverse Design",
-      "title_zh": "用于确定性逆向设计的统一生成-预测框架",
+      "title_zh": "确定性逆向设计的统一生成-预测框架",
       "authors": "Reza T. Batley, Sourav Saha",
       "url": "https://arxiv.org/pdf/2512.15746",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Materials Science (cond-mat.mtrl-sci)",
@@ -230,7 +230,7 @@
     {
       "id": "arXiv:2512.15747",
       "title": "D3G: Diverse Demographic Data Generation Increases Zero-Shot Image Classification Accuracy within Multimodal Models",
-      "title_zh": "D3G：多样化人口统计数据生成提升多模态模型中的零样本图像分类准确率",
+      "title_zh": "D3G：多样化人口数据生成可提升多模态模型零样本图像分类准确率",
       "authors": "Javon Hickmon",
       "url": "https://arxiv.org/pdf/2512.15747",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV); Computers and Society (cs.CY)",
@@ -239,7 +239,7 @@
     {
       "id": "arXiv:2512.15748",
       "title": "Surely Large Multimodal Models (Don't) Excel in Visual Species Recognition?",
-      "title_zh": "大型多模态模型（是否）擅长视觉物种识别？",
+      "title_zh": "大型多模态模型（真的）擅长视觉物种识别吗？",
       "authors": "Tian Liu, Anwesha Basu, James Caverlee, Shu Kong",
       "url": "https://arxiv.org/pdf/2512.15748",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV)",
@@ -257,7 +257,7 @@
     {
       "id": "arXiv:2512.15751",
       "title": "GLOW: Graph-Language Co-Reasoning for Agentic Workflow Performance Prediction",
-      "title_zh": "GLOW：用于智能体工作流性能预测的图-语言协同推理",
+      "title_zh": "GLOW：基于图-语言协同推理的智能体工作流性能预测",
       "authors": "Wei Guan, Jian Cao, Jinyu Cai, Qiqi Cai, Jianqi Gao, See-Kiong Ng",
       "url": "https://arxiv.org/pdf/2512.15751",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Multiagent Systems (cs.MA)",
@@ -266,7 +266,7 @@
     {
       "id": "arXiv:2512.15753",
       "title": "TAO-Net: Two-stage Adaptive OOD Classification Network for Fine-grained Encrypted Traffic Classification",
-      "title_zh": "TAO-Net：用于细粒度加密流量分类的两阶段自适应分布外分类网络",
+      "title_zh": "TAO-Net：用于细粒度加密流量分类的两阶段自适应异常分类网络",
       "authors": "Zihao Wang, Wei Peng, Junming Zhang, Jian Li, Wenxin Fang",
       "url": "https://arxiv.org/pdf/2512.15753",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -275,7 +275,7 @@
     {
       "id": "arXiv:2512.15754",
       "title": "A Survey on Reconfigurable Intelligent Surfaces in Practical Systems: Security and Privacy Perspectives",
-      "title_zh": "面向实际系统的可重构智能表面综述：安全与隐私视角",
+      "title_zh": "可重构智能表面在实际系统中的研究综述：安全与隐私视角",
       "authors": "Ziyu Chen, Yitong Shen, Jingzhe Zhang, Yao Zheng, Yili Ren, Xuyu Wang, Shiwen Mao, Hanqing Guo",
       "url": "https://arxiv.org/pdf/2512.15754",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Networking and Internet Architecture (cs.NI); Signal Processing (eess.SP)",
@@ -284,7 +284,7 @@
     {
       "id": "arXiv:2512.15755",
       "title": "KAN-Matrix: Visualizing Nonlinear Pairwise and Multivariate Contributions for Physical Insight",
-      "title_zh": "KAN-Matrix：可视化非线性成对和多元贡献以获得物理洞察",
+      "title_zh": "KAN-矩阵：可视化非线性成对和多元贡献以获得物理洞察",
       "authors": "Luis A. De la Fuente, Hernan A. Moreno, Laura V. Alvarez, Hoshin V. Gupta",
       "url": "https://arxiv.org/pdf/2512.15755",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Applied Physics (physics.app-ph); Data Analysis, Statistics and Probability (physics.data-an)",
@@ -293,7 +293,7 @@
     {
       "id": "arXiv:2512.15756",
       "title": "ReactorFold: Generative discovery of nuclear reactor cores via emergent physical reasoning",
-      "title_zh": "ReactorFold：通过涌现的物理推理生成式发现核反应堆堆芯",
+      "title_zh": "ReactorFold：通过涌现的物理推理生成式发现核反应堆核心",
       "authors": "Yoonpyo Lee",
       "url": "https://arxiv.org/pdf/2512.15756",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -302,7 +302,7 @@
     {
       "id": "arXiv:2512.15757",
       "title": "Twin Restricted Kernel Machines for Multiview Classification",
-      "title_zh": "用于多视角分类的孪生受限核机器",
+      "title_zh": "双视图分类的受限核机方法",
       "authors": "A. Quadir, M. Sajid, Mushir Akhtar, M. Tanveer",
       "url": "https://arxiv.org/pdf/2512.15757",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -311,7 +311,7 @@
     {
       "id": "arXiv:2512.15758",
       "title": "Yantra AI -- An intelligence platform which interacts with manufacturing operations",
-      "title_zh": "Yantra AI：一个与制造操作交互的智能平台",
+      "title_zh": "Yantra AI——与制造操作交互的智能平台",
       "authors": "Varshini Krishnamurthy",
       "url": "https://arxiv.org/pdf/2512.15758",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -320,7 +320,7 @@
     {
       "id": "arXiv:2512.15759",
       "title": "Semantic-Constrained Federated Aggregation: Convergence Theory and Privacy-Utility Bounds for Knowledge-Enhanced Distributed Learning",
-      "title_zh": "语义约束联邦聚合：面向知识增强分布式学习的收敛理论与隐私-效用边界",
+      "title_zh": "语义约束联邦聚合：知识增强分布式学习的收敛理论与隐私-效用边界",
       "authors": "Jahidul Arafat",
       "url": "https://arxiv.org/pdf/2512.15759",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -347,7 +347,7 @@
     {
       "id": "arXiv:2512.15762",
       "title": "Cross-Sample Augmented Test-Time Adaptation for Personalized Intraoperative Hypotension Prediction",
-      "title_zh": "面向个性化术中低血压预测的跨样本增强测试时自适应方法",
+      "title_zh": "跨样本增强的测试时自适应方法用于个性化术中低血压预测",
       "authors": "Kanxue Li, Yibing Zhan, Hua Jin, Chongchong Qi, Xu Lin, Baosheng Yu",
       "url": "https://arxiv.org/pdf/2512.15762",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -356,7 +356,7 @@
     {
       "id": "arXiv:2512.15764",
       "title": "AdaGradSelect: An adaptive gradient-guided layer selection method for efficient fine-tuning of SLMs",
-      "title_zh": "AdaGradSelect：面向小型语言模型高效微调的自适应梯度引导层选择方法",
+      "title_zh": "AdaGradSelect：一种自适应梯度引导的层选择方法用于小型语言模型的高效微调",
       "authors": "Anshul Kumar, Gagan Raj Gupta, Manisha Chawla",
       "url": "https://arxiv.org/pdf/2512.15764",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Performance (cs.PF)",
@@ -365,7 +365,7 @@
     {
       "id": "arXiv:2512.15765",
       "title": "Data Valuation for LLM Fine-Tuning: Efficient Shapley Value Approximation via Language Model Arithmetic",
-      "title_zh": "面向大语言模型微调的数据价值评估：基于语言模型算术的高效夏普利值近似",
+      "title_zh": "大语言模型微调中的数据价值评估：基于语言模型算术的高效夏普利值近似",
       "authors": "Mélissa Tamine, Otmane Sakhi, Benjamin Heymann",
       "url": "https://arxiv.org/pdf/2512.15765",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Computer Science and Game Theory (cs.GT); Machine Learning (stat.ML)",
@@ -374,7 +374,7 @@
     {
       "id": "arXiv:2512.15766",
       "title": "LOOPRAG: Enhancing Loop Transformation Optimization with Retrieval-Augmented Large Language Models",
-      "title_zh": "LOOPRAG：基于检索增强大语言模型的循环变换优化增强",
+      "title_zh": "LOOPRAG：通过检索增强大语言模型提升循环变换优化",
       "authors": "Yijie Zhi, Yayu Cao, Jianhua Dai, Xiaoyang Han, Jingwen Pu, Qingran Wu, Sheng Cheng, Ming Cai",
       "url": "https://arxiv.org/pdf/2512.15766",
       "subjects": "Subjects:\nProgramming Languages (cs.PL); Artificial Intelligence (cs.AI); Distributed, Parallel, and Cluster Computing (cs.DC); Performance (cs.PF)",
@@ -392,7 +392,7 @@
     {
       "id": "arXiv:2512.15768",
       "title": "PHANTOM: Progressive High-fidelity Adversarial Network for Threat Object Modeling",
-      "title_zh": "PHANTOM：面向威胁对象建模的渐进式高保真对抗网络",
+      "title_zh": "PHANTOM：用于威胁对象建模的渐进式高保真对抗网络",
       "authors": "Jamal Al-Karaki, Muhammad Al-Zafar Khan, Rand Derar Mohammad Al Athamneh",
       "url": "https://arxiv.org/pdf/2512.15768",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)",
@@ -419,7 +419,7 @@
     {
       "id": "arXiv:2512.15773",
       "title": "TS-DP: Reinforcement Speculative Decoding For Temporal Adaptive Diffusion Policy Acceleration",
-      "title_zh": "TS-DP：面向时序自适应扩散策略加速的强化推测解码",
+      "title_zh": "TS-DP：用于时序自适应扩散策略加速的强化推测解码",
       "authors": "Ye Li, Jiahe Feng, Yuan Meng, Kangye Ji, Chen Tang, Xinwan Wen, Shutao Xia, Zhi Wang, Wenwu Zhu",
       "url": "https://arxiv.org/pdf/2512.15773",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -428,7 +428,7 @@
     {
       "id": "arXiv:2512.15774",
       "title": "Two-Step Data Augmentation for Masked Face Detection and Recognition: Turning Fake Masks to Real",
-      "title_zh": "面向戴口罩人脸检测与识别的两步数据增强：将假口罩转化为真实",
+      "title_zh": "面向遮挡面部检测与识别的两阶段数据增强：将假面具转化为真实面具",
       "authors": "Yan Yang, George Bebis, Mircea Nicolescu",
       "url": "https://arxiv.org/pdf/2512.15774",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)",
@@ -446,7 +446,7 @@
     {
       "id": "arXiv:2512.15776",
       "title": "Emergence: Overcoming Privileged Information Bias in Asymmetric Embodied Agents via Active Querying",
-      "title_zh": "涌现：通过主动查询克服非对称具身智能体的特权信息偏差",
+      "title_zh": "Emergence：通过主动查询克服不对称具身智能体中的特权信息偏差",
       "authors": "Shaun Baek, Sam Liu, Joseph Ukpong",
       "url": "https://arxiv.org/pdf/2512.15776",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Multiagent Systems (cs.MA); Robotics (cs.RO)",
@@ -455,7 +455,7 @@
     {
       "id": "arXiv:2512.15777",
       "title": "Variable Record Table: A Unified Hardware-Assisted Framework for Runtime Security",
-      "title_zh": "变量记录表：面向运行时安全的统一硬件辅助框架",
+      "title_zh": "变量记录表：一种统一的硬件辅助运行时安全框架",
       "authors": "Suraj Kumar Sah, Love Kumar Sah",
       "url": "https://arxiv.org/pdf/2512.15777",
       "subjects": "Subjects:\nCryptography and Security (cs.CR)",
@@ -464,7 +464,7 @@
     {
       "id": "arXiv:2512.15778",
       "title": "RAMBO: Reliability Analysis for Mamba through Bit-flip attack Optimization",
-      "title_zh": "RAMBO：通过位翻转攻击优化实现Mamba的可靠性分析",
+      "title_zh": "RAMBO：通过位翻转攻击优化实现Mamba系统的可靠性分析",
       "authors": "Sanjay Das, Swastik Bhattacharya, Shamik Kundu, Arnab Raha, Souvik Kundu, Kanad Basu",
       "url": "https://arxiv.org/pdf/2512.15778",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Machine Learning (cs.LG)",
@@ -473,7 +473,7 @@
     {
       "id": "arXiv:2512.15779",
       "title": "Hyperparameter Tuning-Based Optimized Performance Analysis of Machine Learning Algorithms for Network Intrusion Detection",
-      "title_zh": "基于超参数调优的机器学习算法网络入侵检测性能优化分析",
+      "title_zh": "基于超参数调优的机器学习算法在网络安全入侵检测中的性能优化分析",
       "authors": "Sudhanshu Sekhar Tripathy, Bichitrananda Behera",
       "url": "https://arxiv.org/pdf/2512.15779",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Machine Learning (cs.LG); Networking and Internet Architecture (cs.NI)",
@@ -482,7 +482,7 @@
     {
       "id": "arXiv:2512.15780",
       "title": "Adversarial Robustness in Financial Machine Learning: Defenses, Economic Impact, and Governance Evidence",
-      "title_zh": "金融机器学习中的对抗鲁棒性：防御方法、经济影响与治理证据",
+      "title_zh": "金融机器学习中的对抗鲁棒性：防御、经济影响与治理证据",
       "authors": "Samruddhi Baviskar",
       "url": "https://arxiv.org/pdf/2512.15780",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Cryptography and Security (cs.CR)",
@@ -491,7 +491,7 @@
     {
       "id": "arXiv:2512.15781",
       "title": "Detecting Malicious Entra OAuth Apps with LLM-Based Permission Risk Scoring",
-      "title_zh": "基于LLM权限风险评分检测恶意Entra OAuth应用",
+      "title_zh": "基于大语言模型的权限风险评分检测恶意Entra OAuth应用",
       "authors": "Ashim Mahara",
       "url": "https://arxiv.org/pdf/2512.15781",
       "subjects": "Subjects:\nCryptography and Security (cs.CR)",
@@ -500,7 +500,7 @@
     {
       "id": "arXiv:2512.15782",
       "title": "Auto-Tuning Safety Guardrails for Black-Box Large Language Models",
-      "title_zh": "自动调优黑盒大语言模型的安全护栏",
+      "title_zh": "黑箱大语言模型的安全护栏自动调优",
       "authors": "Perry Abdulkadir",
       "url": "https://arxiv.org/pdf/2512.15782",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Computation and Language (cs.CL); Machine Learning (cs.LG)",
@@ -518,7 +518,7 @@
     {
       "id": "arXiv:2512.15784",
       "title": "Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM",
-      "title_zh": "超越训练：通过MOBIMEM实现智能体的自进化",
+      "title_zh": "超越训练：通过MOBIMEM实现智能体的自我进化",
       "authors": "Zibin Liu, Cheng Zhang, Xi Zhao, Yunfei Feng, Bingyu Bai, Dahu Feng, Erhu Feng, Yubin Xia, Haibo Chen",
       "url": "https://arxiv.org/pdf/2512.15784",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Machine Learning (cs.LG)",
@@ -536,7 +536,7 @@
     {
       "id": "arXiv:2512.15787",
       "title": "Toward Agentic Environments: GenAI and the Convergence of AI, Sustainability, and Human-Centric Spaces",
-      "title_zh": "迈向智能体环境：生成式AI与AI、可持续性及以人为本空间的融合",
+      "title_zh": "迈向智能体环境：生成式AI与人工智能、可持续性及以人为本空间的融合",
       "authors": "Przemek Pospieszny, Dominika P. Brodowicz",
       "url": "https://arxiv.org/pdf/2512.15787",
       "subjects": "Subjects:\nComputers and Society (cs.CY); Artificial Intelligence (cs.AI)",
@@ -554,7 +554,7 @@
     {
       "id": "arXiv:2512.15790",
       "title": "Bilevel Optimization for Covert Memory Tampering in Heterogeneous Multi-Agent Architectures (XAMT)",
-      "title_zh": "异构多智能体架构中的双层优化用于隐蔽内存篡改（XAMT）",
+      "title_zh": "异构多智能体架构（XAMT）中的隐蔽内存篡改双层优化",
       "authors": "Akhil Sharma, Shaikh Yaser Arafat, Jai Kumar Sharma, Ken Huang",
       "url": "https://arxiv.org/pdf/2512.15790",
       "subjects": "Subjects:\nCryptography and Security (cs.CR)",
@@ -572,7 +572,7 @@
     {
       "id": "arXiv:2512.15792",
       "title": "A Systematic Analysis of Biases in Large Language Models",
-      "title_zh": "大型语言模型中的系统性偏差分析",
+      "title_zh": "大型语言模型中的偏见系统分析",
       "authors": "Xulang Zhang, Rui Mao, Erik Cambria",
       "url": "https://arxiv.org/pdf/2512.15792",
       "subjects": "Subjects:\nComputers and Society (cs.CY); Artificial Intelligence (cs.AI); Computation and Language (cs.CL)",
@@ -581,7 +581,7 @@
     {
       "id": "arXiv:2512.15793",
       "title": "Explainable Ethical Assessment on Human Behaviors by Generating Conflicting Social Norms",
-      "title_zh": "通过生成冲突社会规范实现人类行为的可解释伦理评估",
+      "title_zh": "通过生成冲突的社会规范对人类行为进行可解释的伦理评估",
       "authors": "Yuxi Sun, Wei Gao, Hongzhan Lin, Jing Ma, Wenxuan Zhang",
       "url": "https://arxiv.org/pdf/2512.15793",
       "subjects": "Subjects:\nComputers and Society (cs.CY); Artificial Intelligence (cs.AI); Computation and Language (cs.CL)",
@@ -590,7 +590,7 @@
     {
       "id": "arXiv:2512.15794",
       "title": "Data Protection and Corporate Reputation Management in the Digital Era",
-      "title_zh": "数字时代中的数据保护与企业声誉管理",
+      "title_zh": "数字时代的数据保护与企业声誉管理",
       "authors": "Gabriela Wojak, Ernest Górka, Michał Ćwiąkała, Dariusz Baran, Dariusz Reśko, Monika Wyrzykowska-Antkiewicz, Robert Marczuk, Marcin Agaciński, Daniel Zawadzki, Jan Piwnik",
       "url": "https://arxiv.org/pdf/2512.15794",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Computers and Society (cs.CY)",
@@ -599,7 +599,7 @@
     {
       "id": "arXiv:2512.15798",
       "title": "DP-Bench: A Benchmark for Evaluating Data Product Creation Systems",
-      "title_zh": "DP-Bench：评估数据产品创建系统的基准",
+      "title_zh": "DP-Bench：用于评估数据产品创建系统的基准",
       "authors": "Faisal Chowdhury, Sola Shirai, Sarthak Dash, Nandana Mihindukulasooriya, Horst Samulowitz",
       "url": "https://arxiv.org/pdf/2512.15798",
       "subjects": "Subjects:\nDatabases (cs.DB); Computation and Language (cs.CL)",
@@ -635,7 +635,7 @@
     {
       "id": "arXiv:2512.15803",
       "title": "An empirical analysis of zero-day vulnerabilities disclosed by the zero day initiative",
-      "title_zh": "零日漏洞的实证分析：基于零日计划披露的数据",
+      "title_zh": "对零日计划披露的零日漏洞的实证分析",
       "authors": "Apurva Shet, Izzat Alsmadi",
       "url": "https://arxiv.org/pdf/2512.15803",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Machine Learning (cs.LG)",
@@ -644,7 +644,7 @@
     {
       "id": "arXiv:2512.15804",
       "title": "XBIDetective: Leveraging Vision Language Models for Identifying Cross-Browser Visual Inconsistencies",
-      "title_zh": "XBIDetective：利用视觉语言模型识别跨浏览器视觉不一致",
+      "title_zh": "XBIDetective：利用视觉语言模型识别跨浏览器的视觉不一致性",
       "authors": "Balreet Grewal, James Graham, Jeff Muizelaar, Jan Honza Odvarko, Suhaib Mujahid, Marco Castelluccio, Cor-Paul Bezemer",
       "url": "https://arxiv.org/pdf/2512.15804",
       "subjects": "Subjects:\nSoftware Engineering (cs.SE)",
@@ -653,7 +653,7 @@
     {
       "id": "arXiv:2512.15807",
       "title": "HiLTS: Human in the Loop Therapeutic System: A Wireless-enabled Precision Medicine Platform for Brainwave Entrainment",
-      "title_zh": "HiLTS：人机协同治疗系统——一种支持无线通信的脑波同步精准医疗平台",
+      "title_zh": "HiLTS：人机交互治疗系统：一种用于脑波同步的无线精准医疗平台",
       "authors": "Arfan Ghani",
       "url": "https://arxiv.org/pdf/2512.15807",
       "subjects": "Subjects:\nSignal Processing (eess.SP); Emerging Technologies (cs.ET)",
@@ -671,7 +671,7 @@
     {
       "id": "arXiv:2512.15813",
       "title": "CodeMem: Architecting Reproducible Agents via Dynamic MCP and Procedural Memory",
-      "title_zh": "CodeMem：通过动态MCP和程序性记忆构建可复现智能体",
+      "title_zh": "CodeMem：通过动态MCP和程序性记忆构建可复现的智能体",
       "authors": "Nishant Gaurav, Adit Akarsh, Tejas Ravishankar, Manoj Bajaj",
       "url": "https://arxiv.org/pdf/2512.15813",
       "subjects": "Subjects:\nSoftware Engineering (cs.SE); Artificial Intelligence (cs.AI)",
@@ -680,7 +680,7 @@
     {
       "id": "arXiv:2512.15815",
       "title": "Implementing a Scalable, Redeployable and Multitiered Repository for FAIR and Secure Scientific Data Sharing: The BIG-MAP Archive",
-      "title_zh": "构建可扩展、可重新部署且多层级的科学数据共享存储库：BIG-MAP档案的实现",
+      "title_zh": "实现一个可扩展、可重新部署且多层级的存储库以实现符合FAIR原则和安全的科学数据共享：BIG-MAP档案库",
       "authors": "Valeria Granata, Francois Liot, Xing Wang, Steen Lysgaard, Ivano E. Castelli, Tejs Vegge, Nicola Marzari, Giovanni Pizzi",
       "url": "https://arxiv.org/pdf/2512.15815",
       "subjects": "Subjects:\nDatabases (cs.DB); Cryptography and Security (cs.CR)",
@@ -689,7 +689,7 @@
     {
       "id": "arXiv:2512.15816",
       "title": "A Neurosymbolic Approach to Loop Invariant Generation via Weakest Precondition Reasoning",
-      "title_zh": "通过最弱前提推理的神经符号方法生成循环不变式",
+      "title_zh": "通过最弱前提条件推理的神经符号循环不变量生成方法",
       "authors": "Daragh King, Vasileios Koutavas, Laura Kovacs",
       "url": "https://arxiv.org/pdf/2512.15816",
       "subjects": "Subjects:\nProgramming Languages (cs.PL); Artificial Intelligence (cs.AI); Logic in Computer Science (cs.LO)",
@@ -716,7 +716,7 @@
     {
       "id": "arXiv:2512.15820",
       "title": "BioimageAIpub: a toolbox for AI-ready bioimaging data publishing",
-      "title_zh": "BioimageAIpub：人工智能就绪生物成像数据发布的工具箱",
+      "title_zh": "BioimageAIpub：一个用于AI就绪生物成像数据发布的工具箱",
       "authors": "Stefan Dvoretskii, Anwai Archit, Constantin Pape, Josh Moore, Marco Nolden",
       "url": "https://arxiv.org/pdf/2512.15820",
       "subjects": "Subjects:\nImage and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV)",
@@ -734,7 +734,7 @@
     {
       "id": "arXiv:2512.15824",
       "title": "State-Augmented Graphs for Circular Economy Triage",
-      "title_zh": "面向循环经济分拣的增强状态图",
+      "title_zh": "用于循环经济分诊的状态增强图",
       "authors": "Richard Fox, Rui Li, Gustav Jonsson, Farzaneh Goli, Miying Yang, Emel Aktas, Yongjing Wang",
       "url": "https://arxiv.org/pdf/2512.15824",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -761,7 +761,7 @@
     {
       "id": "arXiv:2512.15829",
       "title": "Human-like Working Memory from Artificial Intrinsic Plasticity Neurons",
-      "title_zh": "人工内在可塑性神经元实现类人工作记忆",
+      "title_zh": "基于人工内在可塑性神经元的人类工作记忆",
       "authors": "Jingli Liu, Huannan Zheng, Bohao Zou, Kezhou Yang",
       "url": "https://arxiv.org/pdf/2512.15829",
       "subjects": "Subjects:\nEmerging Technologies (cs.ET); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Neural and Evolutionary Computing (cs.NE)",
@@ -771,7 +771,7 @@
       "id": "arXiv:2512.15830",
       "title": "From Minutes to Days: Scaling Intracranial Speech Decoding with Supervised Pretraining",
       "title_zh": "从分钟到天：通过监督预训练扩展颅内语音解码",
-      "authors": "Linnea Evanson, Mingfang (Lucy)Zhang, Hubert Banville, Saarang Panchavati, Pierre Bourdillon, Jean-Rémi King",
+      "authors": "Linnea Evanson, Mingfang Zhang, Hubert Banville, Saarang Panchavati, Pierre Bourdillon, Jean-Rémi King",
       "url": "https://arxiv.org/pdf/2512.15830",
       "subjects": "Subjects:\nSound (cs.SD); Computation and Language (cs.CL); Neurons and Cognition (q-bio.NC)",
       "subject_split": "Sound (cs.SD),  Computation and Language (cs.CL),  Neurons and Cognition (q-bio.NC)"
@@ -788,7 +788,7 @@
     {
       "id": "arXiv:2512.15838",
       "title": "Low-Latency FPGA Control System for Real-Time Neural Network Processing in CCD-Based Trapped-Ion Qubit Measurement",
-      "title_zh": "基于CCD的离子阱量子比特测量中实时神经网络处理的低延迟FPGA控制系统",
+      "title_zh": "基于CCD的离子阱量子比特测量中用于实时神经网络处理的低延迟FPGA控制系统",
       "authors": "Binglei Lou, Gautham Duddi Krishnaswaroop, Filip Wojcicki, Ruilin Wu, Richard Rademacher, Zhiqiang Que, Wayne Luk, Philip H.W. Leong",
       "url": "https://arxiv.org/pdf/2512.15838",
       "subjects": "Subjects:\nQuantum Physics (quant-ph); Hardware Architecture (cs.AR)",
@@ -806,7 +806,7 @@
     {
       "id": "arXiv:2512.15885",
       "title": "Seeing Beyond Words: Self-Supervised Visual Learning for Multimodal Large Language Models",
-      "title_zh": "超越文字：面向多模态大语言模型的自监督视觉学习",
+      "title_zh": "超越文字：面向多模态大型语言模型的自监督视觉学习",
       "authors": "Davide Caffagni, Sara Sarto, Marcella Cornia, Lorenzo Baraldi, Pier Luigi Dovesi, Shaghayegh Roohi, Mark Granroth-Wilding, Rita Cucchiara",
       "url": "https://arxiv.org/pdf/2512.15885",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Multimedia (cs.MM)",
@@ -815,7 +815,7 @@
     {
       "id": "arXiv:2512.15887",
       "title": "Deflating quantum error-correcting codes",
-      "title_zh": "量子纠错码的压缩方法",
+      "title_zh": "量子纠错码的降维",
       "authors": "Jaron Skovsted Gundersen, Rene Bødker Christensen, Petar Popovski, Rafał Wisniewski",
       "url": "https://arxiv.org/pdf/2512.15887",
       "subjects": "Subjects:\nQuantum Physics (quant-ph); Information Theory (cs.IT)",
@@ -833,7 +833,7 @@
     {
       "id": "arXiv:2512.15892",
       "title": "VET Your Agent: Towards Host-Independent Autonomy via Verifiable Execution Traces",
-      "title_zh": "VET你的智能体：通过可验证执行轨迹实现主机无关自主性",
+      "title_zh": "VET你的智能体：通过可验证执行轨迹实现主机无关的自主性",
       "authors": "Artem Grigor, Christian Schroeder de Witt, Simon Birnbach, Ivan Martinovic",
       "url": "https://arxiv.org/pdf/2512.15892",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Artificial Intelligence (cs.AI)",
@@ -842,7 +842,7 @@
     {
       "id": "arXiv:2512.15894",
       "title": "PediatricAnxietyBench: Evaluating Large Language Model Safety Under Parental Anxiety and Pressure in Pediatric Consultations",
-      "title_zh": "儿科焦虑基准：评估大语言模型在儿科咨询中面对家长焦虑与压力时的安全性",
+      "title_zh": "儿科焦虑基准：评估大型语言模型在儿科咨询中面对家长焦虑与压力时的安全性",
       "authors": "Vahideh Zolfaghari",
       "url": "https://arxiv.org/pdf/2512.15894",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -851,7 +851,7 @@
     {
       "id": "arXiv:2512.15900",
       "title": "Boosting t-SNE Efficiency for Sequencing Data: Insights from Kernel Selection",
-      "title_zh": "通过内核选择提升t-SNE在测序数据中的效率",
+      "title_zh": "通过核函数选择提升t-SNE在测序数据中的效率",
       "authors": "Avais Jan, Prakash Chourasia, Sarwan Ali, Murray Patterson",
       "url": "https://arxiv.org/pdf/2512.15900",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -860,7 +860,7 @@
     {
       "id": "arXiv:2512.15906",
       "title": "Darth Vecdor: An Open-Source System for Generating Knowledge Graphs Through Large Language Model Queries",
-      "title_zh": "达斯·维克多：通过大语言模型查询生成知识图谱的开源系统",
+      "title_zh": "达斯·维克多：通过大型语言模型查询生成知识图谱的开源系统",
       "authors": "Jonathan A. Handler",
       "url": "https://arxiv.org/pdf/2512.15906",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -878,7 +878,7 @@
     {
       "id": "arXiv:2512.15915",
       "title": "Private Virtual Tree Networks for Secure Multi-Tenant Environments Based on the VIRGO Overlay Network",
-      "title_zh": "基于VIRGO覆盖网络的私有虚拟树网络：面向安全多租户环境",
+      "title_zh": "基于VIRGO覆盖网络的私有虚拟树状网络：面向安全多租户环境",
       "authors": "Lican Huang",
       "url": "https://arxiv.org/pdf/2512.15915",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Distributed, Parallel, and Cluster Computing (cs.DC)",
@@ -896,7 +896,7 @@
     {
       "id": "arXiv:2512.15918",
       "title": "Management von Sensordaten im Smarthome: Besonderheiten und Ansätze",
-      "title_zh": "智能家居传感器数据管理：特点与方法",
+      "title_zh": "智能家居中的传感器数据管理：特点与方法",
       "authors": "Albrecht Kurze, Karola Köferl, Andy Börner",
       "url": "https://arxiv.org/pdf/2512.15918",
       "subjects": "Subjects:\nHuman-Computer Interaction (cs.HC)",
@@ -905,7 +905,7 @@
     {
       "id": "arXiv:2512.15919",
       "title": "Analysing Multidisciplinary Approaches to Fight Large-Scale Digital Influence Operations",
-      "title_zh": "分析多学科方法应对大规模数字影响行动",
+      "title_zh": "对抗大规模数字影响行动的跨学科方法分析",
       "authors": "David Arroyo, Rafael Mata Milla, Marc Almeida Ros, Nikolaos Lykousas, Ivan Homoliak, Constantinos Patsakis, Fran Casino",
       "url": "https://arxiv.org/pdf/2512.15919",
       "subjects": "Subjects:\nComputers and Society (cs.CY); Cryptography and Security (cs.CR)",
@@ -932,7 +932,7 @@
     {
       "id": "arXiv:2512.15922",
       "title": "Leveraging Spreading Activation for Improved Document Retrieval in Knowledge-Graph-Based RAG Systems",
-      "title_zh": "基于知识图谱RAG系统的文档检索中利用扩散激活",
+      "title_zh": "基于知识图谱的RAG系统中利用扩散激活改进文档检索",
       "authors": "Jovan Pavlović, Miklós Krész, László Hajdu",
       "url": "https://arxiv.org/pdf/2512.15922",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -950,7 +950,7 @@
     {
       "id": "arXiv:2512.15925",
       "title": "Social Story Frames: Contextual Reasoning about Narrative Intent and Reception",
-      "title_zh": "社会故事框架：叙事意图与接受的上下文推理",
+      "title_zh": "社会故事框架：关于叙事意图与接受的情境推理",
       "authors": "Joel Mire, Maria Antoniak, Steven R. Wilson, Zexin Ma, Achyutarama R. Ganti, Andrew Piper, Maarten Sap",
       "url": "https://arxiv.org/pdf/2512.15925",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Social and Information Networks (cs.SI)",
@@ -959,7 +959,7 @@
     {
       "id": "arXiv:2512.15926",
       "title": "DSO: Direct Steering Optimization for Bias Mitigation",
-      "title_zh": "DSO：直接转向优化用于偏见缓解",
+      "title_zh": "DSO：直接引导优化用于偏见缓解",
       "authors": "Lucas Monteiro Paes, Nivedha Sivakumar, Yinong Oliver Wang, Masha Fedzechkina Donaldson, Luca Zappella, Nicholas Apostoloff",
       "url": "https://arxiv.org/pdf/2512.15926",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Computation and Language (cs.CL); Computers and Society (cs.CY)",
@@ -995,7 +995,7 @@
     {
       "id": "arXiv:2512.15933",
       "title": "City Navigation in the Wild: Exploring Emergent Navigation from Web-Scale Knowledge in MLLMs",
-      "title_zh": "真实场景中的城市导航：探索多语言大模型中基于网络规模知识的涌现导航能力",
+      "title_zh": "真实环境中的城市导航：探索多语言大模型中的网络规模知识涌现导航",
       "authors": "Dwip Dalal, Utkarsh Mishra, Narendra Ahuja, Nebojsa Jojic",
       "url": "https://arxiv.org/pdf/2512.15933",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -1013,7 +1013,7 @@
     {
       "id": "arXiv:2512.15938",
       "title": "SALVE: Sparse Autoencoder-Latent Vector Editing for Mechanistic Control of Neural Networks",
-      "title_zh": "SALVE：稀疏自编码器-潜在向量编辑实现神经网络的机制控制",
+      "title_zh": "SALVE：通过稀疏自编码器-潜在向量编辑实现神经网络的机制控制",
       "authors": "Vegard Flovik",
       "url": "https://arxiv.org/pdf/2512.15938",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)",
@@ -1040,7 +1040,7 @@
     {
       "id": "arXiv:2512.15943",
       "title": "Small Language Models for Efficient Agentic Tool Calling: Outperforming Large Models with Targeted Fine-tuning",
-      "title_zh": "小语言模型在高效智能体工具调用中的应用：通过针对性微调超越大模型",
+      "title_zh": "高效代理工具调用的小型语言模型：通过针对性微调超越大型模型",
       "authors": "Polaris Jhandi, Owais Kazi, Shreyas Subramanian, Neel Sendas",
       "url": "https://arxiv.org/pdf/2512.15943",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -1049,7 +1049,7 @@
     {
       "id": "arXiv:2512.15944",
       "title": "The Emerging Use of GenAI for UX Research in Software Development: Challenges and Opportunities",
-      "title_zh": "生成式人工智能在软件开发UX研究中的新兴应用：挑战与机遇",
+      "title_zh": "生成式人工智能在软件开发用户体验研究中的新兴应用：挑战与机遇",
       "authors": "Heloisa Candello, Werner Geyer, Siya Kunde, Michael Muller, Daita Sarkar, Jessica He, Mariela Claudia Lanza, Carlos Rosemberg, Gord Davison, Lisa Pelletier",
       "url": "https://arxiv.org/pdf/2512.15944",
       "subjects": "Subjects:\nHuman-Computer Interaction (cs.HC)",
@@ -1058,7 +1058,7 @@
     {
       "id": "arXiv:2512.15945",
       "title": "Privacy Discourse and Emotional Dynamics in Mental Health Information Interaction on Reddit",
-      "title_zh": "Reddit上心理健康信息交互中的隐私话语与情感动态",
+      "title_zh": "隐私话语与情感动态：Reddit上的心理健康信息交互研究",
       "authors": "Jai Kruthunz Naveen Kumar, Aishwarya Umeshkumar Surani, Harkirat Singh, Sanchari Das",
       "url": "https://arxiv.org/pdf/2512.15945",
       "subjects": "Subjects:\nComputers and Society (cs.CY)",
@@ -1067,7 +1067,7 @@
     {
       "id": "arXiv:2512.15946",
       "title": "AIE4ML: An End-to-End Framework for Compiling Neural Networks for the Next Generation of AMD AI Engines",
-      "title_zh": "AIE4ML：面向下一代AMD AI引擎的神经网络端到端编译框架",
+      "title_zh": "AIE4ML：面向下一代AMD AI引擎的神经网络编译端到端框架",
       "authors": "Dimitrios Danopoulos, Enrico Lupi, Chang Sun, Sebastian Dittmeier, Michael Kagan, Vladimir Loncar, Maurizio Pierini",
       "url": "https://arxiv.org/pdf/2512.15946",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Hardware Architecture (cs.AR)",
@@ -1076,7 +1076,7 @@
     {
       "id": "arXiv:2512.15947",
       "title": "MCR-VQGAN: A Scalable and Cost-Effective Tau PET Synthesis Approach for Alzheimer's Disease Imaging",
-      "title_zh": "MCR-VQGAN：阿尔茨海默病成像的可扩展且经济的tau PET合成方法",
+      "title_zh": "MCR-VQGAN：阿尔茨海默病成像中可扩展且经济的Tau PET合成方法",
       "authors": "Jin Young Kim, Jeremy Hudson, Jeongchul Kim, Qing Lyu, Christopher T. Whitlow",
       "url": "https://arxiv.org/pdf/2512.15947",
       "subjects": "Subjects:\nImage and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV)",
@@ -1094,7 +1094,7 @@
     {
       "id": "arXiv:2512.15949",
       "title": "The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs",
-      "title_zh": "感知观测站：表征多语言大模型中的鲁棒性与基础性",
+      "title_zh": "感知观测站：多语言大模型中的鲁棒性与基础性分析",
       "authors": "Tejas Anvekar, Fenil Bardoliya, Pavan K. Turaga, Chitta Baral, Vivek Gupta",
       "url": "https://arxiv.org/pdf/2512.15949",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -1103,7 +1103,7 @@
     {
       "id": "arXiv:2512.15955",
       "title": "Governance by Evidence: Regulated Predictors in Decision-Tree Models",
-      "title_zh": "基于证据的治理：决策树模型中的受监管预测器",
+      "title_zh": "基于证据的治理：决策树模型中的受监管预测因子",
       "authors": "Alexios Veskoukis, Dimitris Kalles",
       "url": "https://arxiv.org/pdf/2512.15955",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -1112,7 +1112,7 @@
     {
       "id": "arXiv:2512.15956",
       "title": "Tracking Wildfire Assets with Commodity RFID and Gaussian Process Modeling",
-      "title_zh": "利用普通RFID和高斯过程建模追踪野火资产",
+      "title_zh": "基于消费级RFID与高斯过程建模的野火资产追踪",
       "authors": "John Hateley, Sriram Narasimhan, Omid Abari",
       "url": "https://arxiv.org/pdf/2512.15956",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -1121,7 +1121,7 @@
     {
       "id": "arXiv:2512.15957",
       "title": "Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models",
-      "title_zh": "所见即所信（及预测）：基于视觉-语言模型的上下文感知多人行为预测",
+      "title_zh": "所见即所信（及预测）：基于视觉语言模型的上下文感知多人行为预测",
       "authors": "Utsav Panchal, Yuchen Liu, Luigi Palmieri, Ilche Georgievski, Marco Aiello",
       "url": "https://arxiv.org/pdf/2512.15957",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -1130,7 +1130,7 @@
     {
       "id": "arXiv:2512.15959",
       "title": "BRAID: Bounded Reasoning for Autonomous Inference and Decisions",
-      "title_zh": "BRAID：用于自主推理与决策的有限推理",
+      "title_zh": "BRAID：有界推理的自主推理与决策系统",
       "authors": "Armağan Amcalar, Eyup Cinar",
       "url": "https://arxiv.org/pdf/2512.15959",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Artificial Intelligence (cs.AI)",
@@ -1139,7 +1139,7 @@
     {
       "id": "arXiv:2512.15966",
       "title": "Security Aspects of ISO 15118 Plug and Charge Payment",
-      "title_zh": "ISO 15118插拔即付支付的安全性分析",
+      "title_zh": "ISO 15118即插即用充电支付的安全性分析",
       "authors": "Jakob Löw, Vishwa Vasu, Thomas Hutzelmann, Hans-Joachim Hof",
       "url": "https://arxiv.org/pdf/2512.15966",
       "subjects": "Subjects:\nCryptography and Security (cs.CR)",
@@ -1148,7 +1148,7 @@
     {
       "id": "arXiv:2512.15971",
       "title": "From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection",
-      "title_zh": "从文字到波长：视觉-语言模型在少样本多光谱目标检测中的应用",
+      "title_zh": "从文字到波长：视觉语言模型用于少样本多光谱目标检测",
       "authors": "Manuel Nkegoum, Minh-Tan Pham, Élisa Fromont, Bruno Avignon, Sébastien Lefèvre",
       "url": "https://arxiv.org/pdf/2512.15971",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -1157,7 +1157,7 @@
     {
       "id": "arXiv:2512.15973",
       "title": "Dynamic Rank Reinforcement Learning for Adaptive Low-Rank Multi-Head Self Attention in Large Language Models",
-      "title_zh": "动态秩强化学习用于大语言模型中的自适应低秩多头自注意力",
+      "title_zh": "动态秩强化学习：大语言模型中自适应低秩多头自注意力",
       "authors": "Caner Erden",
       "url": "https://arxiv.org/pdf/2512.15973",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Computation and Language (cs.CL)",
@@ -1184,7 +1184,7 @@
     {
       "id": "arXiv:2512.15980",
       "title": "Embedding Software Intent: Lightweight Java Module Recovery",
-      "title_zh": "嵌入软件意图：轻量级Java模块恢复",
+      "title_zh": "软件意图嵌入：轻量级Java模块恢复",
       "authors": "Yirui He, Yuqi Huai, Xingyu Chen, Joshua Garcia",
       "url": "https://arxiv.org/pdf/2512.15980",
       "subjects": "Subjects:\nSoftware Engineering (cs.SE); Artificial Intelligence (cs.AI)",
@@ -1193,7 +1193,7 @@
     {
       "id": "arXiv:2512.15981",
       "title": "Improved Lower Bounds for Privacy under Continual Release",
-      "title_zh": "持续发布下隐私的改进下界",
+      "title_zh": "持续发布下隐私保护的改进下界",
       "authors": "Bardiya Aryanfard, Monika Henzinger, David Saulpic, A. R. Sricharan",
       "url": "https://arxiv.org/pdf/2512.15981",
       "subjects": "Subjects:\nData Structures and Algorithms (cs.DS)",
@@ -1202,7 +1202,7 @@
     {
       "id": "arXiv:2512.15985",
       "title": "Hierarchical Neural Surfaces for 3D Mesh Compression",
-      "title_zh": "层次化神经表面用于三维网格压缩",
+      "title_zh": "用于三维网格压缩的分层神经曲面",
       "authors": "Sai Karthikey Pentapati, Gregoire Phillips, Alan Bovik",
       "url": "https://arxiv.org/pdf/2512.15985",
       "subjects": "Subjects:\nComputational Geometry (cs.CG); Graphics (cs.GR); Machine Learning (cs.LG)",
@@ -1211,7 +1211,7 @@
     {
       "id": "arXiv:2512.15987",
       "title": "Provably Extracting the Features from a General Superposition",
-      "title_zh": "可证明地从通用叠加中提取特征",
+      "title_zh": "从通用叠加中可证明特征提取",
       "authors": "Allen Liu",
       "url": "https://arxiv.org/pdf/2512.15987",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Data Structures and Algorithms (cs.DS); Machine Learning (stat.ML)",
@@ -1238,7 +1238,7 @@
     {
       "id": "arXiv:2512.15993",
       "title": "Eyes on the Grass: Biodiversity-Increasing Robotic Mowing Using Deep Visual Embeddings",
-      "title_zh": "关注草地：利用深度视觉嵌入实现生物多样性提升的机器人割草",
+      "title_zh": "关注草地：基于深度视觉嵌入的生物多样性增强机器人割草",
       "authors": "Lars Beckers, Arno Waes, Aaron Van Campenhout, Toon Goedemé",
       "url": "https://arxiv.org/pdf/2512.15993",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -1247,7 +1247,7 @@
     {
       "id": "arXiv:2512.15994",
       "title": "SORS: A Modular, High-Fidelity Simulator for Soft Robots",
-      "title_zh": "SORS：一种模块化高保真软体机器人模拟器",
+      "title_zh": "SORS：软体机器人模块化高保真模拟器",
       "authors": "Manuel Mekkattu, Mike Y. Michelis, Robert K. Katzschmann",
       "url": "https://arxiv.org/pdf/2512.15994",
       "subjects": "Subjects:\nRobotics (cs.RO)",
@@ -1256,7 +1256,7 @@
     {
       "id": "arXiv:2512.15996",
       "title": "Lyapunov-based Adaptive Transformer (LyAT) for Control of Stochastic Nonlinear Systems",
-      "title_zh": "基于李雅普诺夫的自适应变压器（LyAT）用于随机非线性系统的控制",
+      "title_zh": "基于李雅普诺夫的自适应变压器（LyAT）用于随机非线性系统控制",
       "authors": "Saiedeh Akbari, Xuehui Shen, Wenqian Xue, Jordan C. Insinger, Warren E. Dixon",
       "url": "https://arxiv.org/pdf/2512.15996",
       "subjects": "Subjects:\nSystems and Control (eess.SY)",
@@ -1265,7 +1265,7 @@
     {
       "id": "arXiv:2512.15997",
       "title": "Higher-Order LaSDI: Reduced Order Modeling with Multiple Time Derivatives",
-      "title_zh": "高阶LaSDI：基于多重时间导数的降阶建模",
+      "title_zh": "高阶LaSDI：具有多重时间导数的降阶建模",
       "authors": "Robert Stephany, William Michael Anderson, Youngsoo Choi",
       "url": "https://arxiv.org/pdf/2512.15997",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -1274,7 +1274,7 @@
     {
       "id": "arXiv:2512.15998",
       "title": "Surrogate Neural Architecture Codesign Package (SNAC-Pack)",
-      "title_zh": "代理神经网络架构协同设计软件包（SNAC-Pack）",
+      "title_zh": "代理神经架构协同设计包（SNAC-Pack）",
       "authors": "Jason Weitz, Dmitri Demler, Benjamin Hawks, Nhan Tran, Javier Duarte",
       "url": "https://arxiv.org/pdf/2512.15998",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); High Energy Physics - Experiment (hep-ex)",
@@ -1283,7 +1283,7 @@
     {
       "id": "arXiv:2512.16000",
       "title": "Information theory and discriminative sampling for model discovery",
-      "title_zh": "信息论与判别性采样在模型发现中的应用",
+      "title_zh": "用于模型发现的信息论与判别采样方法",
       "authors": "Yuxuan Bao, J. Nathan Kutz",
       "url": "https://arxiv.org/pdf/2512.16000",
       "subjects": "Subjects:\nInformation Theory (cs.IT); Machine Learning (cs.LG); Analysis of PDEs (math.AP); Dynamical Systems (math.DS)",
@@ -1301,7 +1301,7 @@
     {
       "id": "arXiv:2512.16004",
       "title": "Sparse Operator-Adapted Wavelet Decomposition Using Polygonal Elements for Multiscale FEM Problems",
-      "title_zh": "基于多边形元素的稀疏算子自适应小波分解用于多尺度有限元问题",
+      "title_zh": "基于多边形元素的稀疏算子自适应小波分解在多尺度有限元问题中的应用",
       "authors": "Furkan Şık, F.L.Teixeira, B.Shanker",
       "url": "https://arxiv.org/pdf/2512.16004",
       "subjects": "Subjects:\nComputational Physics (physics.comp-ph); Numerical Analysis (math.NA)",
@@ -1310,7 +1310,7 @@
     {
       "id": "arXiv:2512.16008",
       "title": "Augmented Reality-Based Smart Structural Health Monitoring System With Accurate 3D Model Alignment",
-      "title_zh": "基于增强现实的智能结构健康监测系统及精确三维模型对齐",
+      "title_zh": "基于增强现实的智能结构健康监测系统与精确三维模型对齐",
       "authors": "Omar Awadallah, Katarina Grolinger, Ayan Sadhu",
       "url": "https://arxiv.org/pdf/2512.16008",
       "subjects": "Subjects:\nHuman-Computer Interaction (cs.HC)",
@@ -1319,7 +1319,7 @@
     {
       "id": "arXiv:2512.16011",
       "title": "dLITE: Differentiable Lighting-Informed Trajectory Evaluation for On-Orbit Inspection",
-      "title_zh": "dLITE：基于可微分光照信息的在轨检测轨迹评估",
+      "title_zh": "dLITE：面向在轨检测的可微光照感知轨迹评估",
       "authors": "Jack Naylor, Raghav Mishra, Nicholas H. Barbara, Donald G. Dansereau",
       "url": "https://arxiv.org/pdf/2512.16011",
       "subjects": "Subjects:\nRobotics (cs.RO)",
@@ -1328,7 +1328,7 @@
     {
       "id": "arXiv:2512.16013",
       "title": "Towards Fine-Tuning-Based Site Calibration for Knowledge-Guided Machine Learning: A Summary of Results",
-      "title_zh": "基于微调的站点校准知识引导机器学习：研究结果综述",
+      "title_zh": "基于微调的场地校准知识引导机器学习：结果综述",
       "authors": "Ruolei Zeng, Arun Sharma, Shuai An, Mingzhou Yang, Shengya Zhang, Licheng Liu, David Mulla, Shashi Shekhar",
       "url": "https://arxiv.org/pdf/2512.16013",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -1346,7 +1346,7 @@
     {
       "id": "arXiv:2512.16019",
       "title": "Few-Shot Inference of Human Perceptions of Robot Performance in Social Navigation Scenarios",
-      "title_zh": "社交导航场景中机器人性能感知的小样本推理",
+      "title_zh": "社交导航场景中机器人性能感知的少样本推理研究",
       "authors": "Qiping Zhang, Nathan Tsoi, Mofeed Nagib, Hao-Tien Lewis Chiang, Marynel Vázquez",
       "url": "https://arxiv.org/pdf/2512.16019",
       "subjects": "Subjects:\nRobotics (cs.RO); Artificial Intelligence (cs.AI)",
@@ -1355,7 +1355,7 @@
     {
       "id": "arXiv:2512.16022",
       "title": "Conversational Time Series Foundation Models: Towards Explainable and Effective Forecasting",
-      "title_zh": "对话式时间序列基础模型：迈向可解释且有效的预测",
+      "title_zh": "面向可解释且有效的预测的对话式时间序列基础模型",
       "authors": "Defu Cao, Michael Gee, Jinbo Liu, Hengxuan Wang, Wei Yang, Rui Wang, Yan Liu",
       "url": "https://arxiv.org/pdf/2512.16022",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -1364,7 +1364,7 @@
     {
       "id": "arXiv:2512.16023",
       "title": "CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion",
-      "title_zh": "CoVAR：通过多模态扩散生成视频与动作的机器人操作共生成",
+      "title_zh": "CoVAR：通过多模态扩散实现机器人操作的视频与动作协同生成",
       "authors": "Liudi Yang, Yang Bai, George Eskandar, Fengyi Shen, Mohammad Altillawi, Dong Chen, Ziyuan Liu, Abhinav Valada",
       "url": "https://arxiv.org/pdf/2512.16023",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -1382,7 +1382,7 @@
     {
       "id": "arXiv:2512.16027",
       "title": "SWIFT-Nav: Stability-Aware Waypoint-Level TD3 with Fuzzy Arbitration for UAV Navigation in Cluttered Environments",
-      "title_zh": "SWIFT-Nav：基于模糊仲裁的稳定性感知路径级TD3无人机导航方法",
+      "title_zh": "SWIFT-Nav：基于模糊仲裁的稳定性感知路径点级TD3无人机导航方法",
       "authors": "Shuaidong Ji, Mahdi Bamdad, Francisco Cruz",
       "url": "https://arxiv.org/pdf/2512.16027",
       "subjects": "Subjects:\nRobotics (cs.RO)",
@@ -1391,7 +1391,7 @@
     {
       "id": "arXiv:2512.16029",
       "title": "Cross-Language Bias Examination in Large Language Models",
-      "title_zh": "大语言模型中的跨语言偏见检验",
+      "title_zh": "大语言模型中的跨语言偏差检验",
       "authors": "Yuxuan Liang, Marwa Mahmoud",
       "url": "https://arxiv.org/pdf/2512.16029",
       "subjects": "Subjects:\nComputers and Society (cs.CY); Artificial Intelligence (cs.AI); Computation and Language (cs.CL)",
@@ -1400,7 +1400,7 @@
     {
       "id": "arXiv:2512.16030",
       "title": "Do Large Language Models Know What They Don't Know? Kalshibench: A New Benchmark for Evaluating Epistemic Calibration via Prediction Markets",
-      "title_zh": "大语言模型是否知道它们不知道什么？Kalshibench：通过预测市场评估认知校准的新基准",
+      "title_zh": "大语言模型是否知道它们的无知？Kalshibench：通过预测市场评估认识论校准的新基准",
       "authors": "Lukas Nel",
       "url": "https://arxiv.org/pdf/2512.16030",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -1427,7 +1427,7 @@
     {
       "id": "arXiv:2512.16034",
       "title": "Examining the Utility of Self-disclosure Types for Modeling Annotators of Social Norms",
-      "title_zh": "探究自我披露类型对社会规范标注者建模的效用",
+      "title_zh": "检验自我披露类型对社会规范标注者建模的有效性",
       "authors": "Kieran Henderson, Kian Omoomi, Vasudha Varadarajan, Allison Lahnala, Charles Welch",
       "url": "https://arxiv.org/pdf/2512.16034",
       "subjects": "Subjects:\nComputation and Language (cs.CL)",
@@ -1463,7 +1463,7 @@
     {
       "id": "arXiv:2512.16041",
       "title": "Are We on the Right Way to Assessing LLM-as-a-Judge?",
-      "title_zh": "我们是否在正确评估语言模型作为裁判的能力？",
+      "title_zh": "我们评估LLM作为裁判的方式正确吗？",
       "authors": "Yuanning Feng, Sinan Wang, Zhengxiang Cheng, Yao Wan, Dongping Chen",
       "url": "https://arxiv.org/pdf/2512.16041",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Artificial Intelligence (cs.AI)",
@@ -1472,7 +1472,7 @@
     {
       "id": "arXiv:2512.16045",
       "title": "Full System Architecture Modeling for Wearable Egocentric Contextual AI",
-      "title_zh": "可穿戴设备自中心情境AI的全系统架构建模",
+      "title_zh": "面向可穿戴设备情境化人工智能的完整系统架构建模",
       "authors": "Vincent T. Lee, Tanfer Alan, Sung Kim, Ecenur Ustun, Amr Suleiman, Ajit Krisshna, Tim Balbekov, Armin Alaghi, Richard Newcombe",
       "url": "https://arxiv.org/pdf/2512.16045",
       "subjects": "Subjects:\nHardware Architecture (cs.AR)",
@@ -1481,7 +1481,7 @@
     {
       "id": "arXiv:2512.16046",
       "title": "CauSTream: Causal Spatio-Temporal Representation Learning for Streamflow Forecasting",
-      "title_zh": "CauSTream：用于径流预测的因果时空表征学习",
+      "title_zh": "CauSTream：用于流量预测的因果时空表征学习",
       "authors": "Shu Wan, Reepal Shah, John Sabo, Huan Liu, K. Selçuk Candan",
       "url": "https://arxiv.org/pdf/2512.16046",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Computational Engineering, Finance, and Science (cs.CE); Machine Learning (stat.ML)",
@@ -1490,7 +1490,7 @@
     {
       "id": "arXiv:2512.16051",
       "title": "Graph Neural Networks for Interferometer Simulations",
-      "title_zh": "图神经网络在干涉仪模拟中的应用",
+      "title_zh": "用于干涉仪模拟的图神经网络",
       "authors": "Sidharth Kannan, Pooyan Goodarzi, Evangelos E. Papalexakis, Jonathan W. Richardson",
       "url": "https://arxiv.org/pdf/2512.16051",
       "subjects": "Subjects:\nInstrumentation and Methods for Astrophysics (astro-ph.IM); Machine Learning (cs.LG)",
@@ -1508,7 +1508,7 @@
     {
       "id": "arXiv:2512.16056",
       "title": "MultiPath Transfer Engine: Breaking GPU and Host-Memory Bandwidth Bottlenecks in LLM Services",
-      "title_zh": "多路径传输引擎：突破大语言模型服务中的GPU和主机内存带宽瓶颈",
+      "title_zh": "多路径传输引擎：突破LLM服务中的GPU与主机内存带宽瓶颈",
       "authors": "Lingfeng Tang, Daoping Zhang, Junjie Chen, Peihao Huang, Feng Jin, Chengguang Xu, Yuxin Chen, Feiqiang Sun, Guo Chen",
       "url": "https://arxiv.org/pdf/2512.16056",
       "subjects": "Subjects:\nDistributed, Parallel, and Cluster Computing (cs.DC); Networking and Internet Architecture (cs.NI); Performance (cs.PF)",
@@ -1517,7 +1517,7 @@
     {
       "id": "arXiv:2512.16058",
       "title": "Twinning for Space-Air-Ground-Sea Integrated Networks: Beyond Conventional Digital Twin Towards Goal-Oriented Semantic Twin",
-      "title_zh": "空天地海一体化网络的双生技术：超越传统数字孪生迈向目标导向语义孪生",
+      "title_zh": "空天地海一体化网络的双生技术：超越传统数字孪生走向目标导向语义孪生",
       "authors": "Yifei Qiu, Tianle Liao, Xin Jin, Shaohua Wu, Dusit Niyato, Qinyu Zhang",
       "url": "https://arxiv.org/pdf/2512.16058",
       "subjects": "Subjects:\nDistributed, Parallel, and Cluster Computing (cs.DC)",
@@ -1535,7 +1535,7 @@
     {
       "id": "arXiv:2512.16063",
       "title": "A Multi-Agent Large Language Model Framework for Automated Qualitative Analysis",
-      "title_zh": "用于自动化定性分析的多智能体大语言模型框架",
+      "title_zh": "多智能体大语言模型框架用于自动化定性分析",
       "authors": "Qidi Xu, Nuzha Amjad, Grace Giles, Alexa Cumming, De'angelo Hermesky, Alexander Wen, Min Ji Kwak, Yejin Kim",
       "url": "https://arxiv.org/pdf/2512.16063",
       "subjects": "Subjects:\nHuman-Computer Interaction (cs.HC); Artificial Intelligence (cs.AI)",
@@ -1562,7 +1562,7 @@
     {
       "id": "arXiv:2512.16069",
       "title": "A Task-Driven, Planner-in-the-Loop Computational Design Framework for Modular Manipulators",
-      "title_zh": "模块化机械臂的基于任务驱动的规划器在环计算设计框架",
+      "title_zh": "模块化机械臂的任务驱动型规划器在环计算设计框架",
       "authors": "Maolin Lei, Edoardo Romiti, Arturo Laurenzi, Rui Dai, Matteo Dalle Vedove, Jiatao Ding, Daniele Fontanelli, Nikos Tsagarakis",
       "url": "https://arxiv.org/pdf/2512.16069",
       "subjects": "Subjects:\nRobotics (cs.RO)",
@@ -1570,8 +1570,8 @@
     },
     {
       "id": "arXiv:2512.16070",
-      "title": "LLM4Perf: Large Language Models Are Effective Samplers for Multi-Objective Performance Modeling (Copy)",
-      "title_zh": "LLM4Perf：大型语言模型是多目标性能建模的有效采样器（副本）",
+      "title": "LLM4Perf: Large Language Models Are Effective Samplers for Multi-Objective Performance Modeling",
+      "title_zh": "LLM4Perf：大语言模型作为多目标性能建模的有效采样器",
       "authors": "Xin Wang, Zhenhao Li, Zishuo Ding",
       "url": "https://arxiv.org/pdf/2512.16070",
       "subjects": "Subjects:\nSoftware Engineering (cs.SE)",
@@ -1598,7 +1598,7 @@
     {
       "id": "arXiv:2512.16075",
       "title": "FOD-Diff: 3D Multi-Channel Patch Diffusion Model for Fiber Orientation Distribution",
-      "title_zh": "FOD-Diff：用于纤维取向分布的三维多通道补丁扩散模型",
+      "title_zh": "FOD-Diff：用于纤维取向分布的3D多通道补丁扩散模型",
       "authors": "Hao Tang, Hanyu Liu, Alessandro Perelli, Xi Chen, Chao Li",
       "url": "https://arxiv.org/pdf/2512.16075",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)",
@@ -1616,7 +1616,7 @@
     {
       "id": "arXiv:2512.16077",
       "title": "Auto-Vocabulary 3D Object Detection",
-      "title_zh": "自动词典三维目标检测",
+      "title_zh": "自动词汇3D目标检测",
       "authors": "Haomeng Zhang, Kuan-Chuan Peng, Suhas Lohit, Raymond A. Yeh",
       "url": "https://arxiv.org/pdf/2512.16077",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -1625,7 +1625,7 @@
     {
       "id": "arXiv:2512.16080",
       "title": "Design of a Decentralized Fixed-Income Lending Automated Market Maker Protocol Supporting Arbitrary Maturities",
-      "title_zh": "支持任意到期日的去中心化固定收益借贷自动做市商协议设计",
+      "title_zh": "支持任意到期日的去中心化固定收益借贷自动化做市协议设计",
       "authors": "Tianyi Ma",
       "url": "https://arxiv.org/pdf/2512.16080",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Trading and Market Microstructure (q-fin.TR)",
@@ -1634,7 +1634,7 @@
     {
       "id": "arXiv:2512.16081",
       "title": "Evaluation of Generative Models for Emotional 3D Animation Generation in VR",
-      "title_zh": "虚拟现实环境中情感三维动画生成的生成模型评估",
+      "title_zh": "生成式模型在VR情感3D动画生成中的评估",
       "authors": "Kiran Chhatre, Renan Guarese, Andrii Matviienko, Christopher Peters",
       "url": "https://arxiv.org/pdf/2512.16081",
       "subjects": "Subjects:\nHuman-Computer Interaction (cs.HC); Artificial Intelligence (cs.AI); Multiagent Systems (cs.MA)",
@@ -1643,7 +1643,7 @@
     {
       "id": "arXiv:2512.16082",
       "title": "Good Locally Testable Codes with Small Alphabet and Small Query Size",
-      "title_zh": "小字母表和小查询规模的优良局部可测试码",
+      "title_zh": "具有小字符集和小查询规模的优良局部可测试码",
       "authors": "Uriya First, Stav Lazarovici",
       "url": "https://arxiv.org/pdf/2512.16082",
       "subjects": "Subjects:\nComputational Complexity (cs.CC)",
@@ -1652,7 +1652,7 @@
     {
       "id": "arXiv:2512.16083",
       "title": "Scaling Text2SQL via LLM-efficient Schema Filtering with Functional Dependency Graph Rerankers",
-      "title_zh": "通过LLM高效的模式过滤与函数依赖图重排序器扩展Text2SQL",
+      "title_zh": "通过LLM高效模式过滤与函数依赖图重排序器扩展Text2SQL",
       "authors": "Thanh Dat Hoang, Thanh Tam Nguyen, Thanh Trung Huynh, Hongzhi Yin, Quoc Viet Hung Nguyen",
       "url": "https://arxiv.org/pdf/2512.16083",
       "subjects": "Subjects:\nDatabases (cs.DB); Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)",
@@ -1661,7 +1661,7 @@
     {
       "id": "arXiv:2512.16085",
       "title": "Machine Learning Enabled Graph Analysis of Particulate Composites: Application to Solid-state Battery Cathodes",
-      "title_zh": "机器学习驱动的颗粒复合材料图分析：应用于固态电池正极材料",
+      "title_zh": "机器学习驱动的颗粒复合材料图分析：在固态电池正极中的应用",
       "authors": "Zebin Li, Shimao Deng, Yijin Liu, Jia-Mian Hu",
       "url": "https://arxiv.org/pdf/2512.16085",
       "subjects": "Subjects:\nMaterials Science (cond-mat.mtrl-sci); Computer Vision and Pattern Recognition (cs.CV)",
@@ -1670,7 +1670,7 @@
     {
       "id": "arXiv:2512.16086",
       "title": "Privacy Blur: Quantifying Privacy and Utility for Image Data Release",
-      "title_zh": "隐私模糊：图像数据发布中的隐私与效用量化",
+      "title_zh": "Privacy Blur：量化图像数据发布中的隐私与效用",
       "authors": "Saeed Mahloujifar, Narine Kokhlikyan, Chuan Guo, Kamalika Chaudhuri",
       "url": "https://arxiv.org/pdf/2512.16086",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -1697,7 +1697,7 @@
     {
       "id": "arXiv:2512.16092",
       "title": "Collimator-assisted high-precision calibration method for event cameras",
-      "title_zh": "准直器辅助的事件相机高精度校准方法",
+      "title_zh": "准直器辅助的事件相机高精度标定方法",
       "authors": "Zibin Liu, Shunkun Liang, Banglei Guan, Dongcai Tan, Yang Shang, Qifeng Yu",
       "url": "https://arxiv.org/pdf/2512.16092",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -1715,7 +1715,7 @@
     {
       "id": "arXiv:2512.16099",
       "title": "An Online Fragmentation-Aware Scheduler for Managing GPU-Sharing Workloads on Multi-Instance GPUs",
-      "title_zh": "用于管理多实例GPU上GPU共享工作负载的在线碎片感知调度器",
+      "title_zh": "面向多实例GPU上GPU共享工作负载的在线碎片感知调度器",
       "authors": "Hsu-Tzu Ting, Jerry Chou, Ming-Hung Chen, I-Hsin Chung",
       "url": "https://arxiv.org/pdf/2512.16099",
       "subjects": "Subjects:\nDistributed, Parallel, and Cluster Computing (cs.DC)",
@@ -1733,7 +1733,7 @@
     {
       "id": "arXiv:2512.16102",
       "title": "Synchronization, Identification, and Signal Detection for Underwater Photon-Counting Communications With Input-Dependent Shot Noise",
-      "title_zh": "水下光子计数通信的同步、识别与信号检测：具有输入相关散粒噪声",
+      "title_zh": "水下光子计数通信的同步、识别与信号检测：输入依赖式散粒噪声",
       "authors": "Fanghua Li, Xiaolin Zhou, Yongkang Chen, Wei Ni, Xin Wang, Dusit Niyato, Ekram Hossain",
       "url": "https://arxiv.org/pdf/2512.16102",
       "subjects": "Subjects:\nSystems and Control (eess.SY)",
@@ -1742,7 +1742,7 @@
     {
       "id": "arXiv:2512.16103",
       "title": "AIMM: An AI-Driven Multimodal Framework for Detecting Social-Media-Influenced Stock Market Manipulation",
-      "title_zh": "AIMM：一个AI驱动的多模态框架，用于检测社交媒体影响的股市操纵",
+      "title_zh": "AIMM：面向社交媒体影响的股市操纵检测的AI驱动多模态框架",
       "authors": "Sandeep Neela",
       "url": "https://arxiv.org/pdf/2512.16103",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -1751,7 +1751,7 @@
     {
       "id": "arXiv:2512.16105",
       "title": "BayesSum: Bayesian Quadrature in Discrete Spaces",
-      "title_zh": "BayesSum：离散空间中的贝叶斯求积",
+      "title_zh": "BayesSum：离散空间中的贝叶斯积分",
       "authors": "Sophia Seulkee Kang, François-Xavier Briol, Toni Karvonen, Zonghao Chen",
       "url": "https://arxiv.org/pdf/2512.16105",
       "subjects": "Subjects:\nMachine Learning (stat.ML); Machine Learning (cs.LG)",
@@ -1760,7 +1760,7 @@
     {
       "id": "arXiv:2512.16106",
       "title": "ModelTables: A Corpus of Tables about Models",
-      "title_zh": "ModelTables：关于模型的表格语料库",
+      "title_zh": "ModelTables：模型相关表格语料库",
       "authors": "Zhengyuan Dong, Victor Zhong, Renée J. Miller",
       "url": "https://arxiv.org/pdf/2512.16106",
       "subjects": "Subjects:\nDatabases (cs.DB); Artificial Intelligence (cs.AI); Information Retrieval (cs.IR)",
@@ -1769,7 +1769,7 @@
     {
       "id": "arXiv:2512.16108",
       "title": "WeMusic-Agent: Efficient Conversational Music Recommendation via Knowledge Internalization and Agentic Boundary Learning",
-      "title_zh": "WeMusic-Agent：通过知识内化和代理边界学习的高效对话式音乐推荐",
+      "title_zh": "WeMusic-Agent：通过知识内化和智能体边界学习的高效对话式音乐推荐",
       "authors": "Wendong Bi, Yirong Mao, Xianglong Liu, Kai Tian, Jian Zhang, Hanjie Wang, Wenhui Que",
       "url": "https://arxiv.org/pdf/2512.16108",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -1778,7 +1778,7 @@
     {
       "id": "arXiv:2512.16111",
       "title": "BUILD with Precision: Bottom-Up Inference of Linear DAGs",
-      "title_zh": "精确构建：线性DAG的自底向上推断",
+      "title_zh": "精准构建：线性DAG的自底向上推理",
       "authors": "Hamed Ajorlou, Samuel Rey, Gonzalo Mateos, Geert Leus, Antonio G. Marques",
       "url": "https://arxiv.org/pdf/2512.16111",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Signal Processing (eess.SP)",
@@ -1796,7 +1796,7 @@
     {
       "id": "arXiv:2512.16113",
       "title": "Flexible Camera Calibration using a Collimator System",
-      "title_zh": "使用准直系统的灵活相机校准",
+      "title_zh": "使用准直器系统的灵活相机标定方法",
       "authors": "Shunkun Liang, Banglei Guan, Zhenbao Yu, Dongcai Tan, Pengju Sun, Zibin Liu, Qifeng Yu, Yang Shang",
       "url": "https://arxiv.org/pdf/2512.16113",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -1805,7 +1805,7 @@
     {
       "id": "arXiv:2512.16123",
       "title": "Autoencoder-based Denoising Defense against Adversarial Attacks on Object Detection",
-      "title_zh": "基于自编码器的去噪防御：对抗目标检测中的对抗攻击",
+      "title_zh": "基于自编码器的去噪防御对抗目标检测攻击",
       "authors": "Min Geun Song, Gang Min Kim, Woonmin Kim, Yongsik Kim, Jeonghyun Sim, Sangbeom Park, Huy Kang Kim",
       "url": "https://arxiv.org/pdf/2512.16123",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)",
@@ -1814,7 +1814,7 @@
     {
       "id": "arXiv:2512.16125",
       "title": "Convolutional Lie Operator for Sentence Classification",
-      "title_zh": "用于句子分类的卷积李算子",
+      "title_zh": "用于句子分类的卷积李代数算子",
       "authors": "Daniela N. Rim, Heeyoul Choi",
       "url": "https://arxiv.org/pdf/2512.16125",
       "subjects": "Subjects:\nComputation and Language (cs.CL)",
@@ -1823,7 +1823,7 @@
     {
       "id": "arXiv:2512.16126",
       "title": "Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure",
-      "title_zh": "双视角推理攻击：机器遗忘放大隐私暴露",
+      "title_zh": "双视角推理攻击：机器遗忘放大隐私泄露",
       "authors": "Lulu Xue, Shengshan Hu, Linqiang Qian, Peijin Guo, Yechao Zhang, Minghui Li, Yanjun Zhang, Dayong Ye, Leo Yu Zhang",
       "url": "https://arxiv.org/pdf/2512.16126",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV)",
@@ -1841,7 +1841,7 @@
     {
       "id": "arXiv:2512.16134",
       "title": "Staggered Batch Scheduling: Co-optimizing Time-to-First-Token and Throughput for High-Efficiency LLM Inference",
-      "title_zh": "交错批调度：协同优化首令牌时间和吞吐量以实现高效LLM推理",
+      "title_zh": "交错批调度：协同优化首令牌延迟与吞吐量的高效大语言模型推理",
       "authors": "Jian Tian, Shuailong Li, Yang Cao, Wenbo Cui, Minghan Zhu, Wenkang Wu, Jianming Zhang, Yanpeng Wang, Zhiwen Xiao, Zhenyu Hou, Dou Shen",
       "url": "https://arxiv.org/pdf/2512.16134",
       "subjects": "Subjects:\nDistributed, Parallel, and Cluster Computing (cs.DC); Machine Learning (cs.LG)",
@@ -1850,7 +1850,7 @@
     {
       "id": "arXiv:2512.16136",
       "title": "Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks",
-      "title_zh": "Lotus：通过解聚锁优化解聚事务",
+      "title_zh": "Lotus：通过解耦锁优化解耦事务",
       "authors": "Zhisheng Hu, Pengfei Zuo, Junliang Hu, Yizou Chen, Yingjia Wang, Ming-Chang Yang",
       "url": "https://arxiv.org/pdf/2512.16136",
       "subjects": "Subjects:\nDistributed, Parallel, and Cluster Computing (cs.DC)",
@@ -1859,7 +1859,7 @@
     {
       "id": "arXiv:2512.16139",
       "title": "Consensus tracking of perturbed open multi-agent systems with repelling antagonistic interactions",
-      "title_zh": "扰动开放多智能体系统的共识跟踪：具有排斥对抗性交互",
+      "title_zh": "受扰开放多智能体系统的共识跟踪与排斥对抗性交互",
       "authors": "Mengqi Xue, Yuchao Xiong, Yue Song",
       "url": "https://arxiv.org/pdf/2512.16139",
       "subjects": "Subjects:\nSystems and Control (eess.SY)",
@@ -1868,7 +1868,7 @@
     {
       "id": "arXiv:2512.16140",
       "title": "ResDynUNet++: A nested U-Net with residual dynamic convolution blocks for dual-spectral CT",
-      "title_zh": "ResDynUNet++：一种用于双能CT的嵌套U-Net，具有残差动态卷积模块",
+      "title_zh": "ResDynUNet++：用于双能CT的嵌套U-Net与残差动态卷积块",
       "authors": "Ze Yuan, Wenbin Li, Shusen Zhao",
       "url": "https://arxiv.org/pdf/2512.16140",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Medical Physics (physics.med-ph)",
@@ -1877,7 +1877,7 @@
     {
       "id": "arXiv:2512.16143",
       "title": "SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation",
-      "title_zh": "SegGraph：利用SAM分割图进行少样本3D部件分割",
+      "title_zh": "SegGraph：利用SAM分割图进行少样本三维部件分割",
       "authors": "Yueyang Hu, Haiyong Jiang, Haoxuan Song, Jun Xiao, Hao Pan",
       "url": "https://arxiv.org/pdf/2512.16143",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -1895,7 +1895,7 @@
     {
       "id": "arXiv:2512.16145",
       "title": "MRG-R1: Reinforcement Learning for Clinically Aligned Medical Report Generation",
-      "title_zh": "MRG-R1：临床对齐的医学报告生成强化学习方法",
+      "title_zh": "MRG-R1：临床对齐的医学报告生成强化学习",
       "authors": "Pengyu Wang, Shuchang Ye, Usman Naseem, Jinman Kim",
       "url": "https://arxiv.org/pdf/2512.16145",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Artificial Intelligence (cs.AI)",
@@ -2048,7 +2048,7 @@
     {
       "id": "arXiv:2512.16199",
       "title": "Avatar4D: Synthesizing Domain-Specific 4D Humans for Real-World Pose Estimation",
-      "title_zh": "Avatar4D：合成领域特定4D人体用于现实世界姿态估计",
+      "title_zh": "Avatar4D：合成领域特定4D人类用于现实世界姿态估计",
       "authors": "Jerrin Bright, Zhibo Wang, Dmytro Klepachevskyi, Yuhao Chen, Sirisha Rambhatla, David Clausi, John Zelek",
       "url": "https://arxiv.org/pdf/2512.16199",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -2066,7 +2066,7 @@
     {
       "id": "arXiv:2512.16201",
       "title": "Visual Alignment of Medical Vision-Language Models for Grounded Radiology Report Generation",
-      "title_zh": "用于生成基础放射学报告的医学视觉-语言模型视觉对齐",
+      "title_zh": "用于生成基于实际数据的放射学报告的医学视觉-语言模型视觉对齐",
       "authors": "Sarosij Bose, Ravi K. Rajendran, Biplob Debnath, Konstantinos Karydis, Amit K. Roy-Chowdhury, Srimat Chakradhar",
       "url": "https://arxiv.org/pdf/2512.16201",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -2075,7 +2075,7 @@
     {
       "id": "arXiv:2512.16202",
       "title": "Open Ad-hoc Categorization with Contextualized Feature Learning",
-      "title_zh": "基于上下文特征学习的开放式临时分类",
+      "title_zh": "基于上下文特征学习的开放临时分类",
       "authors": "Zilin Wang, Sangwoo Mo, Stella X. Yu, Sima Behpour, Liu Ren",
       "url": "https://arxiv.org/pdf/2512.16202",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -2102,7 +2102,7 @@
     {
       "id": "arXiv:2512.16214",
       "title": "PDE-Agent: A toolchain-augmented multi-agent framework for PDE solving",
-      "title_zh": "PDE-Agent: 工具链增强的PDE求解多智能体框架",
+      "title_zh": "PDE-Agent: 增强工具链的多智能体PDE求解框架",
       "authors": "Jianming Liu, Ren Zhu, Jian Xu, Kun Ding, Xu-Yao Zhang, Gaofeng Meng, Cheng-Lin Liu",
       "url": "https://arxiv.org/pdf/2512.16214",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -2111,7 +2111,7 @@
     {
       "id": "arXiv:2512.16216",
       "title": "A divergence-free parametric finite element method for 3D Stokes equations on curved domains",
-      "title_zh": "用于曲率域三维Stokes方程的无散度参数有限元方法",
+      "title_zh": "用于曲域三维Stokes方程的无散度参数有限元方法",
       "authors": "Lingxiao Li, Haiyan Su, He Zhang, Weiying Zheng",
       "url": "https://arxiv.org/pdf/2512.16216",
       "subjects": "Subjects:\nNumerical Analysis (math.NA)",
@@ -2120,7 +2120,7 @@
     {
       "id": "arXiv:2512.16219",
       "title": "Learning High-Quality Initial Noise for Single-View Synthesis with Diffusion Models",
-      "title_zh": "基于扩散模型的高质量初始噪声学习用于单视角合成",
+      "title_zh": "基于扩散模型的单视角合成高质量初始噪声学习",
       "authors": "Zhihao Zhang, Xuejun Yang, Weihua Liu, Mouquan Shen",
       "url": "https://arxiv.org/pdf/2512.16219",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Image and Video Processing (eess.IV)",
@@ -2138,7 +2138,7 @@
     {
       "id": "arXiv:2512.16223",
       "title": "NGCaptcha: A CAPTCHA Bridging the Past and the Future",
-      "title_zh": "NGCaptcha: 搭建过去与未来桥梁的验证码",
+      "title_zh": "NGCaptcha: 桥接过去与未来的验证码",
       "authors": "Ziqi Ding, Shangzhi Xu, Wei Song, Yuekang Li",
       "url": "https://arxiv.org/pdf/2512.16223",
       "subjects": "Subjects:\nComputers and Society (cs.CY)",
@@ -2147,7 +2147,7 @@
     {
       "id": "arXiv:2512.16226",
       "title": "Image Compression Using Singular Value Decomposition",
-      "title_zh": "基于奇异值分解的图像压缩",
+      "title_zh": "使用奇异值分解的图像压缩",
       "authors": "Justin Jiang",
       "url": "https://arxiv.org/pdf/2512.16226",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -2201,7 +2201,7 @@
     {
       "id": "arXiv:2512.16235",
       "title": "AI-Powered Dermatological Diagnosis: From Interpretable Models to Clinical Implementation A Comprehensive Framework for Accessible and Trustworthy Skin Disease Detection",
-      "title_zh": "人工智能驱动的皮肤病诊断：从可解释模型到临床实施的可访问且可信的皮肤病检测综合框架",
+      "title_zh": "人工智能驱动的皮肤病诊断：从可解释模型到临床实施 可访问且可信的皮肤病检测综合框架",
       "authors": "Satya Narayana Panda, Vaishnavi Kukkala, Spandana Iyer",
       "url": "https://arxiv.org/pdf/2512.16235",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -2228,8 +2228,8 @@
     {
       "id": "arXiv:2512.16238",
       "title": "Trustworthy and Controllable Professional Knowledge Utilization in Large Language Models with TEE-GPU Execution",
-      "title_zh": "基于TEE-GPU执行的大语言模型中可信可控的专业知识利用",
-      "authors": "Yifeng Cai, Zhida An, Yuhan Meng, Houqian Liu, Pengli Wang, Yao Guo, Ding Li",
+      "title_zh": "基于TEE-GPU执行的可信可控专业知识利用大语言模型",
+      "authors": "Yifeng Cai, Zhida An, Yuhan Meng, Houqian Liu, Pengli Wang, Hanwen Lei, Yao Guo, Ding Li",
       "url": "https://arxiv.org/pdf/2512.16238",
       "subjects": "Subjects:\nOperating Systems (cs.OS)",
       "subject_split": "Operating Systems (cs.OS)"
@@ -2237,7 +2237,7 @@
     {
       "id": "arXiv:2512.16243",
       "title": "Semi-Supervised Multi-View Crowd Counting by Ranking Multi-View Fusion Models",
-      "title_zh": "基于多视角融合模型排序的半监督多视角人群计数",
+      "title_zh": "通过排序多视角融合模型的半监督多视角人群计数",
       "authors": "Qi Zhang, Yunfei Gong, Zhidan Xie, Zhizi Wang, Antoni B. Chan, Hui Huang",
       "url": "https://arxiv.org/pdf/2512.16243",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -2272,8 +2272,8 @@
     },
     {
       "id": "arXiv:2512.16248",
-      "title": "Sigma-Moe-Tiny Technical Report",
-      "title_zh": "Sigma-Moe-Tiny技术报告",
+      "title": "Sigma-MoE-Tiny Technical Report",
+      "title_zh": "Sigma-MoE-Tiny技术报告",
       "authors": "Qingguo Hu, Zhenghao Lin, Ziyue Yang, Yucheng Ding, Xiao Liu, Yuting Jiang, Ruizhe Wang, Tianyu Chen, Zhongxin Guo, Yifan Xiong, Rui Gao, Lei Qu, Jinsong Su, Peng Cheng, Yeyun Gong",
       "url": "https://arxiv.org/pdf/2512.16248",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Artificial Intelligence (cs.AI)",
@@ -2282,7 +2282,7 @@
     {
       "id": "arXiv:2512.16250",
       "title": "AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding",
-      "title_zh": "AMUSE：面向代理多说话人理解的视听基准与对齐框架",
+      "title_zh": "AMUSE：面向代理多说话人理解的音视频基准与对齐框架",
       "authors": "Sanjoy Chowdhury, Karren D. Yang, Xudong Liu, Fartash Faghri, Pavan Kumar Anasosalu Vasu, Oncel Tuzel, Dinesh Manocha, Chun-Liang Li, Raviteja Vemulapalli",
       "url": "https://arxiv.org/pdf/2512.16250",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Multiagent Systems (cs.MA)",
@@ -2291,7 +2291,7 @@
     {
       "id": "arXiv:2512.16251",
       "title": "Interpretable Deep Learning for Stock Returns: A Consensus-Bottleneck Asset Pricing Model",
-      "title_zh": "可解释深度学习在股票收益中的应用：共识-瓶颈资产定价模型",
+      "title_zh": "可解释深度学习在股票收益中的应用：一种共识-瓶颈资产定价模型",
       "authors": "Bong-Gyu Jang, Younwoo Jeong, Changeun Kim",
       "url": "https://arxiv.org/pdf/2512.16251",
       "subjects": "Subjects:\nPricing of Securities (q-fin.PR); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)",
@@ -2301,7 +2301,7 @@
       "id": "arXiv:2512.16255",
       "title": "Multi-granularity Spatiotemporal Flow Patterns",
       "title_zh": "多粒度时空流模式",
-      "authors": "Chrysanthi Kosyfaki, Nikos Mamoulis, Reynold Cheng, Ben Kai",
+      "authors": "Chrysanthi Kosyfaki, Nikos Mamoulis, Reynold Cheng, Ben Kao",
       "url": "https://arxiv.org/pdf/2512.16255",
       "subjects": "Subjects:\nDatabases (cs.DB)",
       "subject_split": "Databases (cs.DB)"
@@ -2309,7 +2309,7 @@
     {
       "id": "arXiv:2512.16259",
       "title": "Improving Low-Latency Learning Performance in Spiking Neural Networks via a Change-Perceptive Dendrite-Soma-Axon Neuron",
-      "title_zh": "通过变化感知的树突-胞体-轴突神经元提升脉冲神经网络的低延迟学习性能",
+      "title_zh": "通过具有变化感知树突-胞体-轴突神经元的脉冲神经网络提升低延迟学习性能",
       "authors": "Zeyu Huang, Wei Meng, Quan Liu, Kun Chen, Li Ma",
       "url": "https://arxiv.org/pdf/2512.16259",
       "subjects": "Subjects:\nNeural and Evolutionary Computing (cs.NE)",
@@ -2318,7 +2318,7 @@
     {
       "id": "arXiv:2512.16262",
       "title": "Learning to Wait: Synchronizing Agents with the Physical World",
-      "title_zh": "学会等待：智能体与物理世界的同步",
+      "title_zh": "学会等待：同步智能体与物理世界",
       "authors": "Yifei She, Ping Zhang, He Liu, Yanmin Jia, Yang Jing, Zijun Liu, Peng Sun, Xiangbin Li, Xiaohe Hu",
       "url": "https://arxiv.org/pdf/2512.16262",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -2327,7 +2327,7 @@
     {
       "id": "arXiv:2512.16263",
       "title": "Black-Start Power Capacity Sizing and Control Strategy for an Islanded DFIG Wind-to-Hydrogen System",
-      "title_zh": "孤岛型双馈感应风氢系统的黑启动功率容量配置与控制策略",
+      "title_zh": "孤岛式双馈风氢系统的黑启动容量配置与控制策略",
       "authors": "Bosen Yang, Kang Ma, Jin Lin, Yonghua Song",
       "url": "https://arxiv.org/pdf/2512.16263",
       "subjects": "Subjects:\nSystems and Control (eess.SY)",
@@ -2336,7 +2336,7 @@
     {
       "id": "arXiv:2512.16265",
       "title": "Privacy-Aware Sharing of Raw Spatial Sensor Data for Cooperative Perception",
-      "title_zh": "隐私感知的原始空间传感器数据共享用于协同感知",
+      "title_zh": "面向协作感知的原始空间传感器数据隐私感知共享",
       "authors": "Bangya Liu, Chengpo Yan, Chenghao Jiang, Suman Banerjee, Akarsh Prabhakara",
       "url": "https://arxiv.org/pdf/2512.16265",
       "subjects": "Subjects:\nNetworking and Internet Architecture (cs.NI); Robotics (cs.RO)",
@@ -2345,7 +2345,7 @@
     {
       "id": "arXiv:2512.16266",
       "title": "Pixel Super-Resolved Fluorescence Lifetime Imaging Using Deep Learning",
-      "title_zh": "基于深度学习的像素级超分辨率荧光寿命成像",
+      "title_zh": "基于深度学习的像素超分辨率荧光寿命成像",
       "authors": "Paloma Casteleiro Costa, Parnian Ghapandar Kashani, Xuhui Liu, Alexander Chen, Ary Portes, Julien Bec, Laura Marcu, Aydogan Ozcan",
       "url": "https://arxiv.org/pdf/2512.16266",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Medical Physics (physics.med-ph); Optics (physics.optics)",
@@ -2354,7 +2354,7 @@
     {
       "id": "arXiv:2512.16269",
       "title": "Numerical reconstruction of Schrödinger equations with quadratic nonlinearities",
-      "title_zh": "具有二次非线性项的薛定谔方程的数值重建",
+      "title_zh": "二次非线性薛定谔方程的数值重建",
       "authors": "Khaoula El Maddah, Matti Lassas, Teemu Tyni",
       "url": "https://arxiv.org/pdf/2512.16269",
       "subjects": "Subjects:\nNumerical Analysis (math.NA); Analysis of PDEs (math.AP)",
@@ -2372,7 +2372,7 @@
     {
       "id": "arXiv:2512.16271",
       "title": "Domain-Agnostic Causal-Aware Audio Transformer for Infant Cry Classification",
-      "title_zh": "领域无关的因果感知音频Transformer用于婴儿哭声分类",
+      "title_zh": "领域无关的因果感知音频变换器用于婴儿啼哭分类",
       "authors": "Geofrey Owino, Bernard Shibwabo Kasamani, Ahmed M. Abdelmoniem, Edem Wornyo",
       "url": "https://arxiv.org/pdf/2512.16271",
       "subjects": "Subjects:\nSound (cs.SD); Artificial Intelligence (cs.AI)",
@@ -2381,7 +2381,7 @@
     {
       "id": "arXiv:2512.16272",
       "title": "Beyond Blind Spots: Analytic Hints for Mitigating LLM-Based Evaluation Pitfalls",
-      "title_zh": "超越盲点：缓解基于大语言模型评估陷阱的分析提示",
+      "title_zh": "超越盲区：缓解基于大语言模型评估陷阱的分析提示",
       "authors": "Ora Nova Fandina, Eitan Farchi, Shmulik Froimovich, Raviv Gal, Wesam Ibraheem, Rami Katan, Alice Podolsky",
       "url": "https://arxiv.org/pdf/2512.16272",
       "subjects": "Subjects:\nSoftware Engineering (cs.SE); Artificial Intelligence (cs.AI)",
@@ -2399,7 +2399,7 @@
     {
       "id": "arXiv:2512.16277",
       "title": "Sharpness-aware Second-order Latent Factor Model for High-dimensional and Incomplete Data",
-      "title_zh": "高维和不完全数据的锐度感知二阶潜在因子模型",
+      "title_zh": "适用于高维不完全数据的锐度感知二阶潜在因子模型",
       "authors": "Jialiang Wang, Xueyan Bao, Hao Wu",
       "url": "https://arxiv.org/pdf/2512.16277",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -2408,7 +2408,7 @@
     {
       "id": "arXiv:2512.16279",
       "title": "QuadSentinel: Sequent Safety for Machine-Checkable Control in Multi-agent Systems",
-      "title_zh": "四重哨兵：多智能体系统中可机器验证的连续安全性控制",
+      "title_zh": "QuadSentinel：多智能体系统中可机器验证控制的序列安全性",
       "authors": "Yiliu Yang, Yilei Jiang, Qunzhong Wang, Yingshui Tan, Xiaoyong Zhu, Sherman S.M. Chow, Bo Zheng, Xiangyu Yue",
       "url": "https://arxiv.org/pdf/2512.16279",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Computation and Language (cs.CL)",
@@ -2417,7 +2417,7 @@
     {
       "id": "arXiv:2512.16280",
       "title": "Love, Lies, and Language Models: Investigating AI's Role in Romance-Baiting Scams",
-      "title_zh": "爱、谎言与语言模型：探究人工智能在恋爱诱骗骗局中的作用",
+      "title_zh": "爱、谎言与语言模型：探究AI在爱情诱骗骗局中的作用",
       "authors": "Gilad Gressel, Rahul Pankajakshan, Shir Rozenfeld, Ling Li, Ivan Franceschini, Krishnahsree Achuthan, Yisroel Mirsky",
       "url": "https://arxiv.org/pdf/2512.16280",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Artificial Intelligence (cs.AI); Computers and Society (cs.CY)",
@@ -2426,7 +2426,7 @@
     {
       "id": "arXiv:2512.16282",
       "title": "CKA-Guided Modular Quantization: Beyond Bit-Width to Algorithmic Diversity",
-      "title_zh": "CKA引导的模块化量化：超越位宽的算法多样性",
+      "title_zh": "基于CKA的模块化量化：超越位宽的算法多样性",
       "authors": "Jinhao Zhang, Yunquan Zhang, Daning Chen",
       "url": "https://arxiv.org/pdf/2512.16282",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -2453,7 +2453,7 @@
     {
       "id": "arXiv:2512.16287",
       "title": "Evaluating OpenAI GPT Models for Translation of Endangered Uralic Languages: A Comparison of Reasoning and Non-Reasoning Architectures",
-      "title_zh": "评估OpenAI GPT模型在濒危乌拉尔语系语言翻译中的应用：推理与非推理架构的比较",
+      "title_zh": "评估OpenAI GPT模型对濒危乌拉尔语系语言的翻译能力：推理型与非推理型架构的比较",
       "authors": "Yehor Tereshchenko, Mika Hämäläinen, Svitlana Myroniuk",
       "url": "https://arxiv.org/pdf/2512.16287",
       "subjects": "Subjects:\nComputation and Language (cs.CL)",
@@ -2462,7 +2462,7 @@
     {
       "id": "arXiv:2512.16292",
       "title": "In-Context Probing for Membership Inference in Fine-Tuned Language Models",
-      "title_zh": "用于微调语言模型中成员推断的上下文内探针",
+      "title_zh": "微调语言模型中成员推断的上下文探测",
       "authors": "Zhexi Lu, Hongliang Chi, Nathalie Baracaldo, Swanand Ravindra Kadhe, Yuseok Jeon, Lei Yu",
       "url": "https://arxiv.org/pdf/2512.16292",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Machine Learning (cs.LG)",
@@ -2471,7 +2471,7 @@
     {
       "id": "arXiv:2512.16293",
       "title": "Ein Typenrad auf der Überholspur: Die Kult-Schreibmaschine \"Erika\" trifft KI",
-      "title_zh": "在超车道上的打字机：文化符号\"Erika\"打字机与人工智能的碰撞",
+      "title_zh": "在超车道上的打字机：文化符号Erika打字机与AI的碰撞",
       "authors": "Karola Köpferl, Albrecht Kurze",
       "url": "https://arxiv.org/pdf/2512.16293",
       "subjects": "Subjects:\nHuman-Computer Interaction (cs.HC)",
@@ -2498,7 +2498,7 @@
     {
       "id": "arXiv:2512.16297",
       "title": "Feature-Selective Representation Misdirection for Machine Unlearning",
-      "title_zh": "面向机器遗忘的特征选择性表征误导",
+      "title_zh": "面向机器遗忘的特征选择性表示误导",
       "authors": "Taozhao Chen, Linghan Huang, Kim-Kwang Raymond Choo, Huaming Chen",
       "url": "https://arxiv.org/pdf/2512.16297",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -2507,7 +2507,7 @@
     {
       "id": "arXiv:2512.16300",
       "title": "Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection",
-      "title_zh": "循环中的取证：代理工具在图像伪造检测中的应用",
+      "title_zh": "循环取证：图像伪造检测的代理工具使用",
       "authors": "Fanrui Zhang, Qiang Zhang, Sizhuo Zhou, Jianwen Sun, Chuanhao Li, Jiaxin Ai, Yukang Feng, Yujie Zhang, Wenjie Li, Zizhen Li, Yifan Chang, Jiawei Liu, Kaipeng Zhang",
       "url": "https://arxiv.org/pdf/2512.16300",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -2516,7 +2516,7 @@
     {
       "id": "arXiv:2512.16301",
       "title": "Adaptation of Agentic AI",
-      "title_zh": "代理式AI的适应性研究",
+      "title_zh": "代理AI的适应性研究",
       "authors": "Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi, Zifeng Wang, Luxi He, Yichen Wu, Ming Zhong, Peiyang Song, Qizheng Zhang, Heng Wang, Xueqiang Xu, Hanwen Xu, Pengrui Han, Dylan Zhang, Jiashuo Sun, Chaoqi Yang, Kun Qian, Tian Wang, Changran Hu, Manling Li, Quanzheng Li, Hao Peng, Sheng Wang, Jingbo Shang, Chao Zhang, Jiaxuan You, Liyuan Liu, Pan Lu, Yu Zhang, Heng Ji, Yejin Choi, Dawn Song, Jimeng Sun, Jiawei Han",
       "url": "https://arxiv.org/pdf/2512.16301",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Computation and Language (cs.CL)",
@@ -2606,7 +2606,7 @@
     {
       "id": "arXiv:2512.16317",
       "title": "Design and Evaluation of Cost-Aware PoQ for Decentralized LLM Inference",
-      "title_zh": "面向去中心化大语言模型推理的开销感知PoQ设计与评估",
+      "title_zh": "面向去中心化大语言模型推理的代价感知PoQ设计与评估",
       "authors": "Arther Tian, Alex Ding, Frank Chen, Alan Wu, Aaron Chan, Bruce Zhang",
       "url": "https://arxiv.org/pdf/2512.16317",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -2615,7 +2615,7 @@
     {
       "id": "arXiv:2512.16321",
       "title": "Subset Sampling over Joins",
-      "title_zh": "连接上的子集抽样",
+      "title_zh": "连接上的子集采样",
       "authors": "Aryan Esmailpour, Xiao Hu, Jinchao Huang, Stavros Sintos",
       "url": "https://arxiv.org/pdf/2512.16321",
       "subjects": "Subjects:\nDatabases (cs.DB)",
@@ -2624,7 +2624,7 @@
     {
       "id": "arXiv:2512.16323",
       "title": "Hacking Neural Evaluation Metrics with Single Hub Text",
-      "title_zh": "用单一枢纽文本破解神经评估指标",
+      "title_zh": "通过单中心文本破解神经评估指标",
       "authors": "Hiroyuki Deguchi, Katsuki Chousa, Yusuke Sakai",
       "url": "https://arxiv.org/pdf/2512.16323",
       "subjects": "Subjects:\nComputation and Language (cs.CL)",
@@ -2642,7 +2642,7 @@
     {
       "id": "arXiv:2512.16327",
       "title": "Generalized Hamming weights of additive codes and geometric counterparts",
-      "title_zh": "加法码的广义汉明重量及其几何对应物",
+      "title_zh": "加性码的广义汉明重量及其几何对应物",
       "authors": "Jozefien D'haeseleer, Sascha Kurz",
       "url": "https://arxiv.org/pdf/2512.16327",
       "subjects": "Subjects:\nCombinatorics (math.CO); Information Theory (cs.IT)",
@@ -2669,7 +2669,7 @@
     {
       "id": "arXiv:2512.16335",
       "title": "Using a Sledgehammer to Crack a Nut? Revisiting Automated Compiler Fault Isolation",
-      "title_zh": "杀鸡用牛刀？重新审视自动化编译器故障隔离",
+      "title_zh": "用大锤敲核桃？重新审视自动编译器故障隔离",
       "authors": "Yibiao Yang, Qingyang Li, Maolin Sun, Jiangchang Wu, Yuming Zhou",
       "url": "https://arxiv.org/pdf/2512.16335",
       "subjects": "Subjects:\nSoftware Engineering (cs.SE)",
@@ -2678,7 +2678,7 @@
     {
       "id": "arXiv:2512.16338",
       "title": "Using Seminorms To Analyze Contraction of Switched Systems With Only Non-Contracting Modes",
-      "title_zh": "使用半范数分析仅含非收缩模式的切换系统的收缩性",
+      "title_zh": "使用半范数分析仅含非收缩模式切换系统的收缩性",
       "authors": "Edwin Baum, Zonglin Liu, Yuzhen Qin, Olaf Stursberg",
       "url": "https://arxiv.org/pdf/2512.16338",
       "subjects": "Subjects:\nSystems and Control (eess.SY)",
@@ -2723,7 +2723,7 @@
     {
       "id": "arXiv:2512.16346",
       "title": "A Locally Divergence-Free Local Characteristic Decomposition Based Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics",
-      "title_zh": "基于局部散度自由局部特征分解的路径守恒中心迎风格式用于理想磁流体动力学",
+      "title_zh": "基于局部无散局部特征分解的路径守恒中心迎风格式用于理想磁流体动力学",
       "authors": "Shaoshuai Chu, Alexander Kurganov, Maria Lukacova-Medvidova, Mingye Na",
       "url": "https://arxiv.org/pdf/2512.16346",
       "subjects": "Subjects:\nNumerical Analysis (math.NA)",
@@ -2732,7 +2732,7 @@
     {
       "id": "arXiv:2512.16348",
       "title": "From Flows to Functions: Macroscopic Behavioral Fingerprinting of IoT Devices via Network Services",
-      "title_zh": "从流量到功能：通过网络服务对物联网设备进行宏观行为指纹识别",
+      "title_zh": "从流量到功能：通过网络服务实现物联网设备宏观行为指纹识别",
       "authors": "Shayan Azizi, Norihiro Okui, Masataka Nakahara, Ayumu Kubota, Hassan Habibi Gharakheili",
       "url": "https://arxiv.org/pdf/2512.16348",
       "subjects": "Subjects:\nInformation Retrieval (cs.IR)",
@@ -2741,7 +2741,7 @@
     {
       "id": "arXiv:2512.16349",
       "title": "Collaborative Edge-to-Server Inference for Vision-Language Models",
-      "title_zh": "视觉-语言模型的边缘到服务器协同推理",
+      "title_zh": "面向视觉-语言模型的边缘到服务器协同推理",
       "authors": "Soochang Song, Yongjune Kim",
       "url": "https://arxiv.org/pdf/2512.16349",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -2750,7 +2750,7 @@
     {
       "id": "arXiv:2512.16352",
       "title": "Conserving mass, momentum, and energy for the Benjamin-Bona-Mahony, Korteweg-de Vries, and nonlinear Schrödinger equations",
-      "title_zh": "Benjamin-Bona-Mahony、Korteweg-de Vries和非线性薛定谔方程的质量、动量和能量守恒",
+      "title_zh": "守恒质量、动量和能量的Benjamin-Bona-Mahony、Korteweg-de Vries和非线性Schrödinger方程",
       "authors": "Hendrik Ranocha, David I. Ketcheson",
       "url": "https://arxiv.org/pdf/2512.16352",
       "subjects": "Subjects:\nNumerical Analysis (math.NA)",
@@ -2759,7 +2759,7 @@
     {
       "id": "arXiv:2512.16356",
       "title": "Optimal chiller loading including transients",
-      "title_zh": "包含瞬态过程的冷水机组最优负荷分配",
+      "title_zh": "包含瞬态过程的冷水机组优化加载",
       "authors": "Manuel R. Arahal, Manuel G. Satué, Manuel G. Ortega",
       "url": "https://arxiv.org/pdf/2512.16356",
       "subjects": "Subjects:\nSystems and Control (eess.SY)",
@@ -2768,7 +2768,7 @@
     {
       "id": "arXiv:2512.16357",
       "title": "GMODiff: One-Step Gain Map Refinement with Diffusion Priors for HDR Reconstruction",
-      "title_zh": "GMODiff：基于扩散先验的一步法高动态范围重建增益图优化",
+      "title_zh": "GMODiff：基于扩散先验的一步式增益图优化高动态范围重建",
       "authors": "Tao Hu, Weiyu Zhou, Yanjie Tu, Peng Wu, Wei Dong, Qingsen Yan, Yanning Zhang",
       "url": "https://arxiv.org/pdf/2512.16357",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -2795,7 +2795,7 @@
     {
       "id": "arXiv:2512.16366",
       "title": "Mind the Gaze: Improving the Usability of Dwell Input by Adapting Gaze Targets Based on Viewing Distance",
-      "title_zh": "注意注视距离：通过基于观看距离的注视目标自适应提升停顿输入可用性",
+      "title_zh": "关注凝视：通过基于视距调整凝视目标提升注视输入的可用性",
       "authors": "Omar Namnakani, Yasmeen Abdrabou, Cristina Fiani, John H. Williamson, Mohamed Khamis",
       "url": "https://arxiv.org/pdf/2512.16366",
       "subjects": "Subjects:\nHuman-Computer Interaction (cs.HC)",
@@ -2804,7 +2804,7 @@
     {
       "id": "arXiv:2512.16367",
       "title": "A2VISR: An Active and Adaptive Ground-Aerial Localization System Using Visual Inertial and Single-Range Fusion",
-      "title_zh": "A2VISR：基于视觉惯性和单距离融合的主动自适应地面-空中定位系统",
+      "title_zh": "A2VISR：基于视觉惯性与单距离融合的主动自适应地面-空中定位系统",
       "authors": "Sijia Chen, Wei Dong",
       "url": "https://arxiv.org/pdf/2512.16367",
       "subjects": "Subjects:\nRobotics (cs.RO)",
@@ -2813,7 +2813,7 @@
     {
       "id": "arXiv:2512.16369",
       "title": "A first look at common RPKI publication practices",
-      "title_zh": "对RPKI发布实践的初步研究",
+      "title_zh": "首次审视常见的RPKI发布实践",
       "authors": "Moritz Müller-Brus, Lisa Bruder, Caspar Schutijser, Ralph Koning",
       "url": "https://arxiv.org/pdf/2512.16369",
       "subjects": "Subjects:\nCryptography and Security (cs.CR)",
@@ -2822,7 +2822,7 @@
     {
       "id": "arXiv:2512.16371",
       "title": "Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models",
-      "title_zh": "因子化视频生成：在文本到视频扩散模型中解耦场景构建和时间合成",
+      "title_zh": "因子化视频生成：文本到视频扩散模型中场景构建与时间合成的解耦",
       "authors": "Mariam Hassan, Bastien Van Delft, Wuyang Li, Alexandre Alahi",
       "url": "https://arxiv.org/pdf/2512.16371",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -2831,7 +2831,7 @@
     {
       "id": "arXiv:2512.16378",
       "title": "Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs",
-      "title_zh": "听译：将语音模态集成到大语言模型中的有效性",
+      "title_zh": "听译：将语音模态整合到大语言模型中的有效性",
       "authors": "Sara Papi, Javier Garcia Gilabert, Zachary Hopton, Vilém Zouhar, Carlos Escolano, Gerard I. Gállego, Jorge Iranzo-Sánchez, Ahrii Kim, Dominik Macháček, Patricia Schmidtova, Maike Züfle",
       "url": "https://arxiv.org/pdf/2512.16378",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Artificial Intelligence (cs.AI); Sound (cs.SD)",
@@ -2840,7 +2840,7 @@
     {
       "id": "arXiv:2512.16379",
       "title": "Economic versus energetic model predictive control of a cold production plant with thermal energy storage",
-      "title_zh": "带有热能存储的冷生产工厂的经济型与能量型模型预测控制",
+      "title_zh": "冷生产厂中热能存储的经济型与能量型模型预测控制",
       "authors": "Manuel G. Satué, Manuel R. Arahal, Luis F. Acedo, Manuel G. Ortega",
       "url": "https://arxiv.org/pdf/2512.16379",
       "subjects": "Subjects:\nSystems and Control (eess.SY)",
@@ -2867,7 +2867,7 @@
     {
       "id": "arXiv:2512.16386",
       "title": "Quantitative Verification of Fairness in Tree Ensembles",
-      "title_zh": "树集成模型公平性的定量验证",
+      "title_zh": "树集成模型公平性的量化验证",
       "authors": "Zhenjiang Zhao, Takahisa Toda, Takashi Kitamura",
       "url": "https://arxiv.org/pdf/2512.16386",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -2885,7 +2885,7 @@
     {
       "id": "arXiv:2512.16392",
       "title": "PCIA: A Path Construction Imitation Algorithm for Global Optimization",
-      "title_zh": "PCIA：用于全局优化的路径构建模仿算法",
+      "title_zh": "PCIA：基于路径构建模仿的全局优化算法",
       "authors": "Mohammad-Javad Rezaei, Mozafar Bag-Mohammadi",
       "url": "https://arxiv.org/pdf/2512.16392",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -2894,7 +2894,7 @@
     {
       "id": "arXiv:2512.16393",
       "title": "Adaptive Frequency Domain Alignment Network for Medical image segmentation",
-      "title_zh": "自适应频域对齐网络用于医学图像分割",
+      "title_zh": "自适应频域对齐网络：用于医学图像分割",
       "authors": "Zhanwei Li, Liang Li, Jiawan Zhang",
       "url": "https://arxiv.org/pdf/2512.16393",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -2903,7 +2903,7 @@
     {
       "id": "arXiv:2512.16394",
       "title": "SoK: Reviewing Two Decades of Security, Privacy, Accessibility, and Usability Studies on Internet of Things for Older Adults",
-      "title_zh": "系统综述：二十年来面向老年人物联网的安全性、隐私性、可访问性与可用性研究",
+      "title_zh": "综述：二十年来面向老年人物联网设备的安全性、隐私性、可访问性与可用性研究",
       "authors": "Suleiman Saka, Sanchari Das",
       "url": "https://arxiv.org/pdf/2512.16394",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Computers and Society (cs.CY)",
@@ -2912,7 +2912,7 @@
     {
       "id": "arXiv:2512.16396",
       "title": "Global universal approximation with Brownian signatures",
-      "title_zh": "基于布朗运动特征的全局通用逼近",
+      "title_zh": "基于布朗签名的全局通用逼近",
       "authors": "Mihriban Ceylan, David J. Prömel",
       "url": "https://arxiv.org/pdf/2512.16396",
       "subjects": "Subjects:\nProbability (math.PR); Machine Learning (cs.LG); Mathematical Finance (q-fin.MF)",
@@ -2921,7 +2921,7 @@
     {
       "id": "arXiv:2512.16397",
       "title": "Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture",
-      "title_zh": "使用高斯点绘制高保真面部几何与纹理",
+      "title_zh": "使用高斯点绘制技术生成高保真面部几何与纹理",
       "authors": "Haodi He, Jihun Yu, Ronald Fedkiw",
       "url": "https://arxiv.org/pdf/2512.16397",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Graphics (cs.GR)",
@@ -2930,7 +2930,7 @@
     {
       "id": "arXiv:2512.16401",
       "title": "Bridging the Reality Gap: Efficient Adaptation of ASR systems for Challenging Low-Resource Domains",
-      "title_zh": "弥合现实鸿沟：面向挑战性低资源领域的ASR系统高效适应",
+      "title_zh": "弥合现实差距：面向挑战性低资源领域的ASR系统高效适应",
       "authors": "Darshil Chauhan, Adityasinh Solanki, Vansh Patel, Kanav Kapoor, Ritvik Jain, Aditya Bansal, Dhruv Kumar, Prateek Narang",
       "url": "https://arxiv.org/pdf/2512.16401",
       "subjects": "Subjects:\nComputation and Language (cs.CL)",
@@ -2984,7 +2984,7 @@
     {
       "id": "arXiv:2512.16414",
       "title": "Conquering the Multiverse: The River Voting Method with Efficient Parallel Universe Tiebreaking",
-      "title_zh": "征服多重宇宙：具有高效平行宇宙平局破解的河流投票方法",
+      "title_zh": "征服多重宇宙：结合高效平行宇宙平局处理的河流投票方法",
       "authors": "Jannes Malanowski",
       "url": "https://arxiv.org/pdf/2512.16414",
       "subjects": "Subjects:\nData Structures and Algorithms (cs.DS)",
@@ -3011,7 +3011,7 @@
     {
       "id": "arXiv:2512.16419",
       "title": "Large Language Models as a (Bad) Security Norm in the Context of Regulation and Compliance",
-      "title_zh": "大型语言模型作为（不良）安全规范：监管与合规背景下的探讨",
+      "title_zh": "大语言模型作为（不良）安全规范：法规与合规背景下的分析",
       "authors": "Kaspar Rosager Ludvigsen",
       "url": "https://arxiv.org/pdf/2512.16419",
       "subjects": "Subjects:\nComputers and Society (cs.CY); Cryptography and Security (cs.CR)",
@@ -3029,7 +3029,7 @@
     {
       "id": "arXiv:2512.16424",
       "title": "Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs",
-      "title_zh": "Synthelite：基于LLM的化学家对齐且可行性感知的合成规划",
+      "title_zh": "Synthelite：基于大语言模型的化学家对齐且可行性感知的合成规划",
       "authors": "Nguyen Xuan-Vu, Daniel Armstrong, Milena Wehrbach, Andres M Bran, Zlatko Jončev, Philippe Schwaller",
       "url": "https://arxiv.org/pdf/2512.16424",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -3038,7 +3038,7 @@
     {
       "id": "arXiv:2512.16425",
       "title": "Introducing ORKG ASK: an AI-driven Scholarly Literature Search and Exploration System Taking a Neuro-Symbolic Approach",
-      "title_zh": "介绍ORKG ASK：一种基于神经符号方法的AI驱动学术文献搜索与探索系统",
+      "title_zh": "介绍ORKG ASK：基于神经符号方法的AI驱动学术文献搜索与探索系统",
       "authors": "Allard Oelen, Mohamad Yaser Jaradeh, Sören Auer",
       "url": "https://arxiv.org/pdf/2512.16425",
       "subjects": "Subjects:\nInformation Retrieval (cs.IR); Artificial Intelligence (cs.AI)",
@@ -3056,7 +3056,7 @@
     {
       "id": "arXiv:2512.16430",
       "title": "Multi-Fidelity Delayed Acceptance: hierarchical MCMC sampling for Bayesian inverse problems combining multiple solvers through deep neural networks",
-      "title_zh": "多保真延迟接受：通过深度神经网络结合多个求解器的贝叶斯反问题分层MCMC采样",
+      "title_zh": "多保真延迟接受：通过深度神经网络结合多求解器的贝叶斯反问题分层MCMC采样",
       "authors": "Filippo Zacchei, Paolo Conti, Attilio Alberto Frangi, Andrea Manzoni",
       "url": "https://arxiv.org/pdf/2512.16430",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Numerical Analysis (math.NA)",
@@ -3083,7 +3083,7 @@
     {
       "id": "arXiv:2512.16437",
       "title": "A Novel Proposal in Wind Turbine Blade Failure Detection: An Integrated Approach to Energy Efficiency and Sustainability",
-      "title_zh": "风力涡轮机叶片故障检测新方法：能效与可持续性的集成方法",
+      "title_zh": "风电叶片故障检测新方法：能效与可持续性的集成方案",
       "authors": "Jordan Abarca-Albores, Danna Cristina Gutiérrez Cabrera, Luis Antonio Salazar-Licea, Dante Ruiz-Robles, Jesus Alejandro Franco, Alberto-Jesus Perea-Moreno, David Muñoz-Rodríguez, Quetzalcoatl Hernandez-Escobedo",
       "url": "https://arxiv.org/pdf/2512.16437",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Applied Physics (physics.app-ph)",
@@ -3101,7 +3101,7 @@
     {
       "id": "arXiv:2512.16442",
       "title": "TIB AIssistant: a Platform for AI-Supported Research Across Research Life Cycles",
-      "title_zh": "TIB AI助手：跨研究生命周期的人工智能辅助研究平台",
+      "title_zh": "TIB AIssistant：贯穿研究生命周期的AI支持研究平台",
       "authors": "Allard Oelen, Sören Auer",
       "url": "https://arxiv.org/pdf/2512.16442",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -3110,7 +3110,7 @@
     {
       "id": "arXiv:2512.16443",
       "title": "Geometric Disentanglement of Text Embeddings for Subject-Consistent Text-to-Image Generation using A Single Prompt",
-      "title_zh": "基于几何解耦的文本嵌入：使用单一提示实现主题一致的文本到图像生成",
+      "title_zh": "基于几何解耦的文本嵌入：使用单一提示生成主题一致的文本到图像",
       "authors": "Shangxun Li, Youngjung Uh",
       "url": "https://arxiv.org/pdf/2512.16443",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3119,7 +3119,7 @@
     {
       "id": "arXiv:2512.16444",
       "title": "StarCraft+: Benchmarking Multi-agent Algorithms in Adversary Paradigm",
-      "title_zh": "StarCraft+：对抗范式下多智能体算法的基准测试",
+      "title_zh": "StarCraft+：对抗范式下多智能体算法基准测试",
       "authors": "Yadong Li, Tong Zhang, Bo Huang, Zhen Cui",
       "url": "https://arxiv.org/pdf/2512.16444",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -3137,7 +3137,7 @@
     {
       "id": "arXiv:2512.16446",
       "title": "E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion",
-      "title_zh": "E-SDS：环境感知的看-做-整理：面向人形机器人运动的自动化环境感知强化学习",
+      "title_zh": "E-SDS：环境感知的‘看见、执行、整理’——面向人形机器人运动的自动化环境感知强化学习",
       "authors": "Enis Yalcin, Joshua O'Hara, Maria Stamatopoulou, Chengxu Zhou, Dimitrios Kanoulas",
       "url": "https://arxiv.org/pdf/2512.16446",
       "subjects": "Subjects:\nRobotics (cs.RO); Artificial Intelligence (cs.AI)",
@@ -3146,7 +3146,7 @@
     {
       "id": "arXiv:2512.16447",
       "title": "Towards AI-Supported Research: a Vision of the TIB AIssistant",
-      "title_zh": "迈向人工智能辅助研究：TIB AI助手的愿景",
+      "title_zh": "迈向AI支持的研究：TIB AIssistant的愿景",
       "authors": "Sören Auer, Allard Oelen, Mohamad Yaser Jaradeh, Mutahira Khalid, Farhana Keya, Sasi Kiran Gaddipati, Jennifer D'Souza, Lorenz Schlüter, Amirreza Alasti, Gollam Rabby, Azanzi Jiomekong, Oliver Karras",
       "url": "https://arxiv.org/pdf/2512.16447",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -3155,7 +3155,7 @@
     {
       "id": "arXiv:2512.16448",
       "title": "IoMT-based Automated Leukemia Classification using CNN and Higher Order Singular Value",
-      "title_zh": "基于物联网医疗的白血病自动分类：卷积神经网络与高阶奇异值方法",
+      "title_zh": "基于IoMT的白血病自动分类：使用CNN和高阶奇异值",
       "authors": "Shabnam Bagheri Marzijarani, Mohammad Zolfaghari, Hedieh Sajedi",
       "url": "https://arxiv.org/pdf/2512.16448",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -3164,7 +3164,7 @@
     {
       "id": "arXiv:2512.16449",
       "title": "Single-View Shape Completion for Robotic Grasping in Clutter",
-      "title_zh": "杂乱环境中基于单视角的机器人抓取形状补全",
+      "title_zh": "杂乱环境中的机器人抓取单视角形状补全",
       "authors": "Abhishek Kashyap, Yuxuan Yang, Henrik Andreasson, Todor Stoyanov",
       "url": "https://arxiv.org/pdf/2512.16449",
       "subjects": "Subjects:\nRobotics (cs.RO)",
@@ -3182,7 +3182,7 @@
     {
       "id": "arXiv:2512.16453",
       "title": "TimeSeries2Report prompting enables adaptive large language model management of lithium-ion batteries",
-      "title_zh": "TimeSeries2Report提示方法实现锂离子电池的自适应大语言模型管理",
+      "title_zh": "TimeSeries2Report提示：自适应大语言模型在锂离子电池管理中的应用",
       "authors": "Jiayang Yang, Chunhui Zhao, Martin Guay, Zhixing Cao",
       "url": "https://arxiv.org/pdf/2512.16453",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -3191,7 +3191,7 @@
     {
       "id": "arXiv:2512.16454",
       "title": "AG-MPBS: a Mobility-Aware Prediction and Behavior-Based Scheduling Framework for Air-Ground Unmanned Systems",
-      "title_zh": "AG-MPBS：面向空地无人系统的移动感知预测与行为驱动调度框架",
+      "title_zh": "AG-MPBS：面向空地无人系统的移动感知预测与基于行为的调度框架",
       "authors": "Tianhao Shao, Kaixing Zhao, Feng Liu, Lixin Yang, Bin Guo",
       "url": "https://arxiv.org/pdf/2512.16454",
       "subjects": "Subjects:\nRobotics (cs.RO)",
@@ -3200,7 +3200,7 @@
     {
       "id": "arXiv:2512.16455",
       "title": "AI4EOSC: a Federated Cloud Platform for Artificial Intelligence in Scientific Research",
-      "title_zh": "AI4EOSC：面向科学人工智能的联邦云平台",
+      "title_zh": "AI4EOSC：面向科研的人工智能联邦云平台",
       "authors": "Ignacio Heredia, Álvaro López García, Germán Moltó, Amanda Calatrava, Valentin Kozlov, Alessandro Costantini, Viet Tran, Mario David, Daniel San Martín, Marcin Płóciennik, Marta Obregón Ruiz, Saúl Fernandez, Judith Sáinz-Pardo Díaz, Miguel Caballer, Caterina Alarcón Marín, Stefan Dlugolinsky, Martin Šeleng, Lisana Berberi, Khadijeh Alibabaei, Borja Esteban Sanchis, Pedro Castro, Giacinto Donvito, Diego Aguirre, Sergio Langarita, Vicente Rodriguez, Leonhard Duda, Andrés Heredia Canales, Susana Rebolledo Ruiz, João Machado, Giang Nguyen, Fernando Aguilar Gómez, Jaime Díez",
       "url": "https://arxiv.org/pdf/2512.16455",
       "subjects": "Subjects:\nDistributed, Parallel, and Cluster Computing (cs.DC); Artificial Intelligence (cs.AI)",
@@ -3209,7 +3209,7 @@
     {
       "id": "arXiv:2512.16456",
       "title": "Prime and Reach: Synthesising Body Motion for Gaze-Primed Object Reach",
-      "title_zh": "引导与延伸：基于注视引导的物体抓取身体运动合成",
+      "title_zh": "引导与抓取：基于注视引导的物体抓取身体运动合成",
       "authors": "Masashi Hatano, Saptarshi Sinha, Jacob Chalk, Wei-Hong Li, Hideo Saito, Dima Damen",
       "url": "https://arxiv.org/pdf/2512.16456",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3254,7 +3254,7 @@
     {
       "id": "arXiv:2512.16469",
       "title": "Tri-Select: A Multi-Stage Visual Data Selection Framework for Mobile Visual Crowdsensing",
-      "title_zh": "Tri-Select：面向移动视觉众包感知的多阶段视觉数据选择框架",
+      "title_zh": "Tri-Select：面向移动视觉众包的多阶段视觉数据选择框架",
       "authors": "Jiayu Zhang, Kaixing Zhao, Tianhao Shao, Bin Guo, Liang He",
       "url": "https://arxiv.org/pdf/2512.16469",
       "subjects": "Subjects:\nRobotics (cs.RO)",
@@ -3263,7 +3263,7 @@
     {
       "id": "arXiv:2512.16470",
       "title": "Acoustic RIS for Massive Spatial Multiplexing: Unleashing Degrees of Freedom and Capacity in Underwater Communications",
-      "title_zh": "水声RIS实现大规模空间复用：释放水下通信的自由度和容量",
+      "title_zh": "水声通信中用于大规模空间复用的声学RIS：释放自由度与容量",
       "authors": "Longfei Zhao, Jingbo Tan, Jintao Wang, Ian F Akyildiz, Zhi Sun",
       "url": "https://arxiv.org/pdf/2512.16470",
       "subjects": "Subjects:\nNetworking and Internet Architecture (cs.NI)",
@@ -3272,7 +3272,7 @@
     {
       "id": "arXiv:2512.16472",
       "title": "Investigating the Effect of Encumbrance on Gaze- and Touch-based Target Acquisition on Handheld Mobile Devices",
-      "title_zh": "手持移动设备上负重对基于注视和触摸的目标获取的影响研究",
+      "title_zh": "手持移动设备上负重对基于注视和触摸的目标获取影响研究",
       "authors": "Omar Namnakani, Yasmeen Abdrabou, John H. Williamson, Mohamed Khamis",
       "url": "https://arxiv.org/pdf/2512.16472",
       "subjects": "Subjects:\nHuman-Computer Interaction (cs.HC)",
@@ -3299,7 +3299,7 @@
     {
       "id": "arXiv:2512.16476",
       "title": "Batch Normalization-Free Fully Integer Quantized Neural Networks via Progressive Tandem Learning",
-      "title_zh": "通过渐进式串联学习实现的无批量归一化全整数量化神经网络",
+      "title_zh": "通过渐进式串联学习实现无批量归一化的全整数量化神经网络",
       "authors": "Pengfei Sun, Wenyu Jiang, Piew Yoong Chee, Paul Devos, Dick Botteldooren",
       "url": "https://arxiv.org/pdf/2512.16476",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Signal Processing (eess.SP)",
@@ -3308,7 +3308,7 @@
     {
       "id": "arXiv:2512.16482",
       "title": "New Quantum Stabilizer Codes from generalized Monomial-Cartesian Codes constructed using two different generalized Reed-Solomon codes",
-      "title_zh": "基于两种不同广义里德-所罗门码构建的广义单项式-笛卡尔码生成的新型量子稳定码",
+      "title_zh": "基于两种不同广义里德-所罗门码构建的广义单项式-笛卡尔码生成的新量子稳定码",
       "authors": "Oisin Campion, Fernando Hernando, Gary McGuire",
       "url": "https://arxiv.org/pdf/2512.16482",
       "subjects": "Subjects:\nInformation Theory (cs.IT)",
@@ -3317,7 +3317,7 @@
     {
       "id": "arXiv:2512.16483",
       "title": "StageVAR: Stage-Aware Acceleration for Visual Autoregressive Models",
-      "title_zh": "StageVAR：面向视觉自回归模型的阶段感知加速",
+      "title_zh": "StageVAR：面向视觉自回归模型的阶段感知加速框架",
       "authors": "Senmao Li, Kai Wang, Salman Khan, Fahad Shahbaz Khan, Jian Yang, Yaxing Wang",
       "url": "https://arxiv.org/pdf/2512.16483",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3353,7 +3353,7 @@
     {
       "id": "arXiv:2512.16489",
       "title": "Advantages and limitations in the use of transfer learning for individual treatment effects in causal machine learning",
-      "title_zh": "迁移学习在因果机器学习中个体处理效应中的优势与局限",
+      "title_zh": "迁移学习在因果机器学习个体处理效应中的优势与局限性",
       "authors": "Seyda Betul Aydin, Holger Brandt",
       "url": "https://arxiv.org/pdf/2512.16489",
       "subjects": "Subjects:\nMachine Learning (stat.ML); Machine Learning (cs.LG)",
@@ -3361,8 +3361,8 @@
     },
     {
       "id": "arXiv:2512.16491",
-      "title": "Best Practices For Empirical Meta-Algorithmic Research Guidelines from the COSEAL Research Network",
-      "title_zh": "COSEAL研究网络关于实证元算法研究指南的最佳实践",
+      "title": "Best Practices For Empirical Meta-Algorithmic Research: Guidelines from the COSEAL Research Network",
+      "title_zh": "实证元算法研究最佳实践：COSEAL研究网络指南",
       "authors": "Theresa Eimer, Lennart Schäpermeier, André Biedenkapp, Alexander Tornede, Lars Kotthoff, Pieter Leyman, Matthias Feurer, Katharina Eggensperger, Kaitlin Maile, Tanja Tornede, Anna Kozak, Ke Xue, Marcel Wever, Mitra Baratchi, Damir Pulatov, Heike Trautmann, Haniye Kashgarani, Marius Lindauer",
       "url": "https://arxiv.org/pdf/2512.16491",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -3398,7 +3398,7 @@
     {
       "id": "arXiv:2512.16501",
       "title": "VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks",
-      "title_zh": "VenusBench-GD：面向多样化基础任务的综合性多平台图形用户界面基准测试",
+      "title_zh": "VenusBench-GD：面向多样化基础任务的综合性多平台GUI基准测试",
       "authors": "Beitong Zhou, Zhexiao Huang, Yuan Guo, Zhangxuan Gu, Tianyu Xia, Zichen Luo, Fei Tang, Dehan Kong, Yanyi Shang, Suling Ou, Zhenlin Guo, Changhua Meng, Shuheng Shen",
       "url": "https://arxiv.org/pdf/2512.16501",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3416,7 +3416,7 @@
     {
       "id": "arXiv:2512.16511",
       "title": "Multi-scale Attention-Guided Intrinsic Decomposition and Rendering Pass Prediction for Facial Images",
-      "title_zh": "多尺度注意力引导的面部图像本征分解与渲染通道预测",
+      "title_zh": "面向面部图像的多尺度注意力引导本征分解与渲染通道预测",
       "authors": "Hossein Javidnia",
       "url": "https://arxiv.org/pdf/2512.16511",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Graphics (cs.GR)",
@@ -3434,7 +3434,7 @@
     {
       "id": "arXiv:2512.16514",
       "title": "Algorithmic Monetary Policies for Blockchain Participation Games",
-      "title_zh": "区块链参与博弈的算法货币政策",
+      "title_zh": "区块链参与游戏的算法货币政策",
       "authors": "Diodato Ferraioli, Paolo Penna, Manvir Schneider, Carmine Ventre",
       "url": "https://arxiv.org/pdf/2512.16514",
       "subjects": "Subjects:\nComputer Science and Game Theory (cs.GT)",
@@ -3452,7 +3452,7 @@
     {
       "id": "arXiv:2512.16518",
       "title": "Poster: Recognizing Hidden-in-the-Ear Private Key for Reliable Silent Speech Interface Using Multi-Task Learning",
-      "title_zh": "海报：使用多任务学习识别耳内私钥的可靠无声语音接口",
+      "title_zh": "海报：基于多任务学习的耳内隐藏私钥识别用于可靠无声语音接口",
       "authors": "Xuefu Dong, Liqiang Xu, Lixing He, Zengyi Han, Ken Christofferson, Yifei Chen, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki",
       "url": "https://arxiv.org/pdf/2512.16518",
       "subjects": "Subjects:\nHuman-Computer Interaction (cs.HC); Audio and Speech Processing (eess.AS)",
@@ -3461,7 +3461,7 @@
     {
       "id": "arXiv:2512.16519",
       "title": "Pseudo-Cepstrum: Pitch Modification for Mel-Based Neural Vocoders",
-      "title_zh": "伪倒谱：基于梅尔的神经声码器的基频修改",
+      "title_zh": "伪倒谱：基于梅尔的神经声码器音高修改方法",
       "authors": "Nikolaos Ellinas, Alexandra Vioni, Panos Kakoulidis, Georgios Vamvoukakis, Myrsini Christidou, Konstantinos Markopoulos, Junkwang Oh, Gunu Jho, Inchul Hwang, Aimilios Chalamandaris, Pirros Tsiakoulis",
       "url": "https://arxiv.org/pdf/2512.16519",
       "subjects": "Subjects:\nSound (cs.SD); Machine Learning (cs.LG); Audio and Speech Processing (eess.AS)",
@@ -3470,7 +3470,7 @@
     {
       "id": "arXiv:2512.16523",
       "title": "TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models",
-      "title_zh": "TTP：面向视觉-语言模型对抗检测和鲁棒适应的测试时填充方法",
+      "title_zh": "TTP：面向视觉-语言模型对抗检测与鲁棒适应的测试时填充方法",
       "authors": "Zhiwei Li, Yitian Pang, Weining Wang, Zhenan Sun, Qi Li",
       "url": "https://arxiv.org/pdf/2512.16523",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -3479,7 +3479,7 @@
     {
       "id": "arXiv:2512.16525",
       "title": "A non-negativity-preserving cut-cell discontinuous Galerkin method for the diffusive wave equation",
-      "title_zh": "一种保持非负性的切分单元间断伽辽金方法用于扩散波方程",
+      "title_zh": "非负性保持的切分单元间断伽辽金方法求解扩散波方程",
       "authors": "Panasun Manorost, Peter Bastian",
       "url": "https://arxiv.org/pdf/2512.16525",
       "subjects": "Subjects:\nNumerical Analysis (math.NA)",
@@ -3497,7 +3497,7 @@
     {
       "id": "arXiv:2512.16530",
       "title": "Plain language adaptations of biomedical text using LLMs: Comparision of evaluation metrics",
-      "title_zh": "使用大语言模型进行生物医学文本的平实语言改编：评估指标比较",
+      "title_zh": "使用LLM进行生物医学文本的平实语言转换：评估指标比较",
       "authors": "Primoz Kocbek, Leon Kopitar, Gregor Stiglic",
       "url": "https://arxiv.org/pdf/2512.16530",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Artificial Intelligence (cs.AI)",
@@ -3506,7 +3506,7 @@
     {
       "id": "arXiv:2512.16531",
       "title": "Scaling Laws for Energy Efficiency of Local LLMs",
-      "title_zh": "本地大语言模型能效的缩放定律",
+      "title_zh": "本地LLM能效的缩放定律",
       "authors": "Ander Alvarez, Alessandro Genuardi, Nilotpal Sinha, Antonio Tiene, Samuel Mugel, Román Orús",
       "url": "https://arxiv.org/pdf/2512.16531",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -3515,7 +3515,7 @@
     {
       "id": "arXiv:2512.16532",
       "title": "From Personalization to Prejudice: Bias and Discrimination in Memory-Enhanced AI Agents for Recruitment",
-      "title_zh": "从个性化到偏见：增强记忆的人工智能招聘代理中的偏差与歧视",
+      "title_zh": "从个性化到偏见：增强记忆AI招聘代理中的偏差与歧视",
       "authors": "Himanshu Gharat, Himanshi Agrawal, Gourab K. Patro",
       "url": "https://arxiv.org/pdf/2512.16532",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Information Retrieval (cs.IR)",
@@ -3524,7 +3524,7 @@
     {
       "id": "arXiv:2512.16538",
       "title": "A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection",
-      "title_zh": "针对基于大语言模型的漏洞检测的代码混淆系统研究",
+      "title_zh": "针对基于LLM漏洞检测的代码混淆系统性研究",
       "authors": "Xiao Li, Yue Li, Hao Wu, Yue Zhang, Yechao Zhang, Fengyuan Xu, Sheng Zhong",
       "url": "https://arxiv.org/pdf/2512.16538",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Machine Learning (cs.LG)",
@@ -3542,7 +3542,7 @@
     {
       "id": "arXiv:2512.16541",
       "title": "UM_FHS at the CLEF 2025 SimpleText Track: Comparing No-Context and Fine-Tune Approaches for GPT-4.1 Models in Sentence and Document-Level Text Simplification",
-      "title_zh": "UM_FHS在CLEF 2025 SimpleText赛道的表现：比较无上下文与微调方法在GPT-4.1模型中的句子和文档级文本简化",
+      "title_zh": "UM_FHS在CLEF 2025 SimpleText赛道的表现：GPT-4.1模型在句子和文档级文本简化的无上下文与微调方法比较",
       "authors": "Primoz Kocbek, Gregor Stiglic",
       "url": "https://arxiv.org/pdf/2512.16541",
       "subjects": "Subjects:\nComputation and Language (cs.CL)",
@@ -3551,7 +3551,7 @@
     {
       "id": "arXiv:2512.16545",
       "title": "Predictive Inorganic Synthesis based on Machine Learning using Small Data sets: a case study of size-controlled Cu Nanoparticles",
-      "title_zh": "基于小数据集的机器学习预测无机合成：尺寸可控铜纳米粒子案例研究",
+      "title_zh": "基于小数据集的机器学习预测无机合成：尺寸可控铜纳米粒子的案例研究",
       "authors": "Brent Motmans, Digvijay Ghogare, Thijs G.I. van Wijk, An Hardy, Danny E.P. Vanpoucke",
       "url": "https://arxiv.org/pdf/2512.16545",
       "subjects": "Subjects:\nMaterials Science (cond-mat.mtrl-sci); Machine Learning (cs.LG)",
@@ -3560,7 +3560,7 @@
     {
       "id": "arXiv:2512.16553",
       "title": "Needle in the Web: A Benchmark for Retrieving Targeted Web Pages in the Wild",
-      "title_zh": "网络中的针：一个用于在真实环境中检索目标网页的基准",
+      "title_zh": "网络中的针：野外目标网页检索基准测试",
       "authors": "Yumeng Wang, Tianyu Fan, Lingrui Xu, Chao Huang",
       "url": "https://arxiv.org/pdf/2512.16553",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Computation and Language (cs.CL)",
@@ -3596,7 +3596,7 @@
     {
       "id": "arXiv:2512.16561",
       "title": "N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models",
-      "title_zh": "N3D-VLM：原生3D定位实现视觉-语言模型中的精确空间推理",
+      "title_zh": "N3D-VLM：原生3D定位使视觉-语言模型具备精确空间推理能力",
       "authors": "Yuxin Wang, Lei Ke, Boqiang Zhang, Tianyuan Qu, Hanxun Yu, Zhenpeng Huang, Meng Yu, Dan Xu, Dong Yu",
       "url": "https://arxiv.org/pdf/2512.16561",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3605,7 +3605,7 @@
     {
       "id": "arXiv:2512.16564",
       "title": "4D Primitive-Mâché: Glueing Primitives for Persistent 4D Scene Reconstruction",
-      "title_zh": "4D基本体粘合：用于持久4D场景重建的基本体粘合",
+      "title_zh": "4D Primitive-Mâché：通过粘合基元实现持久4D场景重建",
       "authors": "Kirill Mazur, Marwan Taher, Andrew J. Davison",
       "url": "https://arxiv.org/pdf/2512.16564",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3632,7 +3632,7 @@
     {
       "id": "arXiv:2512.16570",
       "title": "Online Resource Allocation via Static Bundle Pricing",
-      "title_zh": "通过静态捆绑定价的在线资源分配",
+      "title_zh": "通过静态捆绑定价实现在线资源分配",
       "authors": "Dimitris Fotakis, Charalampos Platanos, Thanos Tolias",
       "url": "https://arxiv.org/pdf/2512.16570",
       "subjects": "Subjects:\nComputer Science and Game Theory (cs.GT)",
@@ -3641,7 +3641,7 @@
     {
       "id": "arXiv:2512.16576",
       "title": "InfoDCL: Informative Noise Enhanced Diffusion Based Contrastive Learning",
-      "title_zh": "InfoDCL：基于信息噪声增强的扩散对比学习",
+      "title_zh": "InfoDCL：基于信息增强噪声的扩散对比学习",
       "authors": "Xufeng Liang, Zhida Qin, Chong Zhang, Tianyu Huang, Gangyi Ding",
       "url": "https://arxiv.org/pdf/2512.16576",
       "subjects": "Subjects:\nInformation Retrieval (cs.IR)",
@@ -3659,7 +3659,7 @@
     {
       "id": "arXiv:2512.16581",
       "title": "Abacus: Self-Supervised Event Counting-Aligned Distributional Pretraining for Sequential User Modeling",
-      "title_zh": "Abacus：用于序列用户建模的自监督事件计数对齐分布预训练",
+      "title_zh": "Abacus：面向序列用户建模的自监督事件计数对齐分布预训练",
       "authors": "Sullivan Castro, Artem Betlei, Thomas Di Martino, Nadir El Manouzi",
       "url": "https://arxiv.org/pdf/2512.16581",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Information Retrieval (cs.IR)",
@@ -3668,7 +3668,7 @@
     {
       "id": "arXiv:2512.16584",
       "title": "Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs",
-      "title_zh": "潜变量中的草图：在多语言大模型中引发统一推理",
+      "title_zh": "潜在空间中的草图：激发大语言模型的统一推理能力",
       "authors": "Jintao Tong, Jiaqi Gu, Yujing Lou, Lubin Fan, Yixiong Zou, Yue Wu, Jieping Ye, Ruixuan Li",
       "url": "https://arxiv.org/pdf/2512.16584",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3677,7 +3677,7 @@
     {
       "id": "arXiv:2512.16586",
       "title": "Yuan-TecSwin: A text conditioned Diffusion model with Swin-transformer blocks",
-      "title_zh": "元-TecSwin：一种基于Swin-Transformer模块的文本条件扩散模型",
+      "title_zh": "Yuan-TecSwin：基于Swin-transformer模块的文本条件扩散模型",
       "authors": "Shaohua Wu, Tong Yu, Shenling Wang, Xudong Zhao",
       "url": "https://arxiv.org/pdf/2512.16586",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -3686,7 +3686,7 @@
     {
       "id": "arXiv:2512.16598",
       "title": "Muon is Provably Faster with Momentum Variance Reduction",
-      "title_zh": "动量方差缩减使μ子算法具有可证明加速",
+      "title_zh": "动量方差减少使μon算法具有可证明的加速效果",
       "authors": "Xun Qian, Hussein Rammal, Dmitry Kovalev, Peter Richtárik",
       "url": "https://arxiv.org/pdf/2512.16598",
       "subjects": "Subjects:\nOptimization and Control (math.OC); Machine Learning (cs.LG)",
@@ -3704,7 +3704,7 @@
     {
       "id": "arXiv:2512.16607",
       "title": "Riemannian Stochastic Interpolants for Amorphous Particle Systems",
-      "title_zh": "非晶粒系统黎曼随机插值方法",
+      "title_zh": "用于非晶粒系统系统的黎曼随机插值",
       "authors": "Louis Grenioux, Leonardo Galliano, Ludovic Berthier, Giulio Biroli, Marylou Gabrié",
       "url": "https://arxiv.org/pdf/2512.16607",
       "subjects": "Subjects:\nMachine Learning (stat.ML); Statistical Mechanics (cond-mat.stat-mech); Machine Learning (cs.LG); Computational Physics (physics.comp-ph)",
@@ -3722,7 +3722,7 @@
     {
       "id": "arXiv:2512.16609",
       "title": "Hazedefy: A Lightweight Real-Time Image and Video Dehazing Pipeline for Practical Deployment",
-      "title_zh": "Hazedefy：用于实际部署的轻量级实时图像和视频去雾流水线",
+      "title_zh": "Hazedefy：面向实际部署的轻量级实时图像和视频去雾流水线",
       "authors": "Ayush Bhavsar",
       "url": "https://arxiv.org/pdf/2512.16609",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3731,7 +3731,7 @@
     {
       "id": "arXiv:2512.16614",
       "title": "Don't Guess, Escalate: Towards Explainable Uncertainty-Calibrated AI Forensic Agents",
-      "title_zh": "不要猜测，升级处理：面向可解释的不确定性校准AI取证代理",
+      "title_zh": "不要猜测，要升级：面向可解释的不确定性校准AI取证代理",
       "authors": "Giulia Boato, Andrea Montibeller, Edward Delp, Luisa Verdoliva, Daniele Miorandi",
       "url": "https://arxiv.org/pdf/2512.16614",
       "subjects": "Subjects:\nMultiagent Systems (cs.MA); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Multimedia (cs.MM)",
@@ -3740,7 +3740,7 @@
     {
       "id": "arXiv:2512.16615",
       "title": "Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers",
-      "title_zh": "用于高效扩散变换器的可训练对数线性稀疏注意力",
+      "title_zh": "可训练的对数线性稀疏注意力机制用于高效扩散变换器",
       "authors": "Yifan Zhou, Zeqi Xiao, Tianyi Wei, Shuai Yang, Xingang Pan",
       "url": "https://arxiv.org/pdf/2512.16615",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3749,7 +3749,7 @@
     {
       "id": "arXiv:2512.16620",
       "title": "Plug to Place: Indoor Multimedia Geolocation from Electrical Sockets for Digital Investigation",
-      "title_zh": "Plug to Place：通过电源插座进行室内多媒体地理定位的数字调查",
+      "title_zh": "Plug to Place：通过室内电源插座进行数字调查的多媒体地理定位",
       "authors": "Kanwal Aftab, Graham Adams, Mark Scanlon",
       "url": "https://arxiv.org/pdf/2512.16620",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3776,7 +3776,7 @@
     {
       "id": "arXiv:2512.16625",
       "title": "DeContext as Defense: Safe Image Editing in Diffusion Transformers",
-      "title_zh": "DeContext作为防御：在扩散变换器中进行安全图像编辑",
+      "title_zh": "DeContext防御：在扩散变换器中实现安全图像编辑",
       "authors": "Linghui Shen, Mingyue Cui, Xingyi Yang",
       "url": "https://arxiv.org/pdf/2512.16625",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3785,7 +3785,7 @@
     {
       "id": "arXiv:2512.16626",
       "title": "Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game",
-      "title_zh": "从人类反馈中学习斯塔克伯格博弈：将偏好优化视为序列博弈",
+      "title_zh": "基于人类反馈的斯塔克尔伯格学习：将偏好优化视为序列博弈",
       "authors": "Barna Pásztor, Thomas Kleine Buening, Andreas Krause",
       "url": "https://arxiv.org/pdf/2512.16626",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Science and Game Theory (cs.GT); Multiagent Systems (cs.MA); Machine Learning (stat.ML)",
@@ -3794,7 +3794,7 @@
     {
       "id": "arXiv:2512.16635",
       "title": "SARMAE: Masked Autoencoder for SAR Representation Learning",
-      "title_zh": "SARMAE：用于SAR表示学习的掩码自编码器",
+      "title_zh": "SARMAE：面向SAR表示学习的掩码自编码器",
       "authors": "Danxu Liu, Di Wang, Hebaixu Wang, Haoyang Chen, Wentao Jiang, Yilin Cheng, Haonan Guo, Wei Cui, Jing Zhang",
       "url": "https://arxiv.org/pdf/2512.16635",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)",
@@ -3803,7 +3803,7 @@
     {
       "id": "arXiv:2512.16636",
       "title": "REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion",
-      "title_zh": "通过全局和局部语义重新粘合潜变量以应对纠缠扩散",
+      "title_zh": "通过全局与局部语义重构潜在空间以应对纠缠扩散",
       "authors": "Giorgos Petsangourakis, Christos Sgouropoulos, Bill Psomas, Theodoros Giannakopoulos, Giorgos Sfikas, Ioannis Kakogeorgiou",
       "url": "https://arxiv.org/pdf/2512.16636",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3821,7 +3821,7 @@
     {
       "id": "arXiv:2512.16644",
       "title": "Implementing a Sharia Chatbot as a Consultation Medium for Questions About Islam",
-      "title_zh": "实现沙里亚聊天机器人作为伊斯兰问题的咨询媒介",
+      "title_zh": "实现伊斯兰教法聊天机器人作为伊斯兰问题的咨询媒介",
       "authors": "Wisnu Uriawan, Aria Octavian Hamza, Ade Ripaldi Nuralim, Adi Purnama, Ahmad Juaeni Yunus, Anissya Auliani Supriadi Putri",
       "url": "https://arxiv.org/pdf/2512.16644",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -3830,7 +3830,7 @@
     {
       "id": "arXiv:2512.16648",
       "title": "Exploiting Radio Frequency Fingerprints for Device Identification: Tackling Cross-receiver Challenges in the Source-data-free Scenario",
-      "title_zh": "利用射频指纹进行设备识别：在无源数据场景下解决跨接收机挑战",
+      "title_zh": "利用射频指纹进行设备识别：在无源数据场景下解决跨接收器挑战",
       "authors": "Liu Yang, Qiang Li, Luxiong Wen, Jian Yang",
       "url": "https://arxiv.org/pdf/2512.16648",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Signal Processing (eess.SP)",
@@ -3839,7 +3839,7 @@
     {
       "id": "arXiv:2512.16649",
       "title": "JustRL: Scaling a 1.5B LLM with a Simple RL Recipe",
-      "title_zh": "JustRL：使用简单的强化学习方法扩展15亿参数的大型语言模型",
+      "title_zh": "JustRL：使用简单的强化学习方法扩展15亿参数的大语言模型",
       "authors": "Bingxiang He, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding, Zhiyuan Liu",
       "url": "https://arxiv.org/pdf/2512.16649",
       "subjects": "Subjects:\nComputation and Language (cs.CL)",
@@ -3857,7 +3857,7 @@
     {
       "id": "arXiv:2512.16656",
       "title": "Comprehensive AI Literacy: The Case for Centering Human Agency",
-      "title_zh": "全面的人工智能素养：以人类主体性为核心的论据",
+      "title_zh": "全面的人工智能素养：以人类自主性为核心的主张",
       "authors": "Sri Yash Tadimalla, Justin Cary, Gordon Hull, Jordan Register, Daniel Maxwell, David Pugalee, Tina Heafner",
       "url": "https://arxiv.org/pdf/2512.16656",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Computers and Society (cs.CY)",
@@ -3893,7 +3893,7 @@
     {
       "id": "arXiv:2512.16665",
       "title": "Confusions and Erasures of Error-Bounded Block Decoders with Finite Blocklength",
-      "title_zh": "有限块长度下误差有界块解码器的混淆与擦除问题",
+      "title_zh": "有限码长下误差界块解码器的混淆与擦除现象",
       "authors": "Bin Han, Yao Zhu, Rafael F. Schaefer, Giuseppe Caire, Anke Schmeink, H. Vincent Poor, Hans D. Schotten",
       "url": "https://arxiv.org/pdf/2512.16665",
       "subjects": "Subjects:\nInformation Theory (cs.IT)",
@@ -3920,7 +3920,7 @@
     {
       "id": "arXiv:2512.16676",
       "title": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI",
-      "title_zh": "DataFlow：面向数据中心化AI时代的数据准备与工作流自动化的统一大语言模型驱动框架",
+      "title_zh": "DataFlow：面向数据为中心AI时代的数据准备与工作流自动化的LLM驱动框架",
       "authors": "Hao Liang, Xiaochen Ma, Zhou Liu, Zhen Hao Wong, Zhengyang Zhao, Zimo Meng, Runming He, Chengyu Shen, Qifeng Cai, Zhaoyang Han, Meiyi Qiang, Yalin Feng, Tianyi Bai, Zewei Pan, Ziyi Guo, Yizhen Jiang, Jingwen Deng, Qijie You, Peichao Lai, Tianyu Guo, Chi Hsu Tsai, Hengyi Feng, Rui Hu, Wenkai Yu, Junbo Niu, Bohan Zeng, Ruichuan An, Lu Ma, Jihao Huang, Yaowei Zheng, Conghui He, Linpeng Tang, Bin Cui, Weinan E, Wentao Zhang",
       "url": "https://arxiv.org/pdf/2512.16676",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Computation and Language (cs.CL)",
@@ -3938,7 +3938,7 @@
     {
       "id": "arXiv:2512.16683",
       "title": "Efficient Bitcoin Meta-Protocol Transaction and Data Discovery Through nLockTime Field Repurposing",
-      "title_zh": "通过nLockTime字段重新利用实现比特币元协议交易与数据发现的高效方法",
+      "title_zh": "通过nLockTime字段重用实现比特币元协议交易与数据高效发现",
       "authors": "Nikodem Tomczak",
       "url": "https://arxiv.org/pdf/2512.16683",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Distributed, Parallel, and Cluster Computing (cs.DC)",
@@ -3947,7 +3947,7 @@
     {
       "id": "arXiv:2512.16684",
       "title": "Lower bounds for ranking-based pivot rules",
-      "title_zh": "基于排序的主元规则下界分析",
+      "title_zh": "基于排序的枢轴规则的下界",
       "authors": "Yann Disser, Georg Loho, Matthew Maat, Nils Mosis",
       "url": "https://arxiv.org/pdf/2512.16684",
       "subjects": "Subjects:\nOptimization and Control (math.OC); Computer Science and Game Theory (cs.GT)",
@@ -3956,7 +3956,7 @@
     {
       "id": "arXiv:2512.16685",
       "title": "Few-Shot Fingerprinting Subject Re-Identification in 3D-MRI and 2D-X-Ray",
-      "title_zh": "3D-MRI和2D-X射线中的少样本指纹识别受试者再识别",
+      "title_zh": "3D-MRI与2D-X射线中的少样本指纹主体重识别",
       "authors": "Gonçalo Gaspar Alves, Shekoufeh Gorgi Zadeh, Andreas Husch, Ben Bausch",
       "url": "https://arxiv.org/pdf/2512.16685",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -3965,7 +3965,7 @@
     {
       "id": "arXiv:2512.16687",
       "title": "Blog Data Showdown: Machine Learning vs Neuro-Symbolic Models for Gender Classification",
-      "title_zh": "博客数据对比：机器学习与神经符号模型在性别分类中的应用",
+      "title_zh": "博客数据对比：机器学习与神经符号模型在性别分类中的表现",
       "authors": "Natnael Tilahun Sinshaw, Mengmei He, Tadesse K. Bahiru, Sudhir Kumar Mohapatra",
       "url": "https://arxiv.org/pdf/2512.16687",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -3974,7 +3974,7 @@
     {
       "id": "arXiv:2512.16688",
       "title": "Detecting Localized Deepfakes: How Well Do Synthetic Image Detectors Handle Inpainting?",
-      "title_zh": "检测局部深度伪造：合成图像检测器在修复处理中的表现如何？",
+      "title_zh": "局部深度伪造检测：合成图像检测器对图像修补的处理效果分析",
       "authors": "Serafino Pandolfini, Lorenzo Pellegrini, Matteo Ferrara, Davide Maltoni",
       "url": "https://arxiv.org/pdf/2512.16688",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -3983,7 +3983,7 @@
     {
       "id": "arXiv:2512.16694",
       "title": "Unsupervised Thematic Clustering Of hadith Texts Using The Apriori Algorithm",
-      "title_zh": "使用Apriori算法对圣训文本进行无监督主题聚类",
+      "title_zh": "基于Apriori算法的圣训文本无监督主题聚类",
       "authors": "Wisnu Uriawan, Achmad Ajie Priyajie, Angga Gustian, Fikri Nur Hidayat, Sendi Ahmad Rafiudin, Muhamad Fikri Zaelani",
       "url": "https://arxiv.org/pdf/2512.16694",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -3992,7 +3992,7 @@
     {
       "id": "arXiv:2512.16697",
       "title": "(Pointed) Univalence in Universe Category Models of Type Theory",
-      "title_zh": "类型论宇宙范畴模型中的（点化）单义性",
+      "title_zh": "（点式）类型论宇宙范畴模型中的单义性",
       "authors": "Chris Kapulkin, Yufeng Li",
       "url": "https://arxiv.org/pdf/2512.16697",
       "subjects": "Subjects:\nLogic in Computer Science (cs.LO); Category Theory (math.CT); Logic (math.LO)",
@@ -4001,7 +4001,7 @@
     {
       "id": "arXiv:2512.16698",
       "title": "Do Multi-Agents Solve Better Than Single? Evaluating Agentic Frameworks for Diagram-Grounded Geometry Problem Solving and Reasoning",
-      "title_zh": "多智能体是否优于单智能体？评估基于智能体的框架在图示几何问题求解与推理中的表现",
+      "title_zh": "多智能体是否优于单智能体？图基几何问题求解与推理框架评估",
       "authors": "Mahbub E Sobhani, Md. Faiyaz Abdullah Sayeedi, Mohammad Nehad Alam, Proma Hossain Progga, Swakkhar Shatabda",
       "url": "https://arxiv.org/pdf/2512.16698",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Computational Geometry (cs.CG)",
@@ -4010,7 +4010,7 @@
     {
       "id": "arXiv:2512.16700",
       "title": "CLARiTy: A Vision Transformer for Multi-Label Classification and Weakly-Supervised Localization of Chest X-ray Pathologies",
-      "title_zh": "CLARiTy：用于胸片病理多标签分类和弱监督定位的视觉变换器",
+      "title_zh": "CLARiTy：用于胸片病理多标签分类与弱监督定位的视觉Transformer",
       "authors": "John M. Statheros, Hairong Wang, Richard Klein",
       "url": "https://arxiv.org/pdf/2512.16700",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -4019,7 +4019,7 @@
     {
       "id": "arXiv:2512.16701",
       "title": "Cyber Humanism in Education: Reclaiming Agency through AI and Learning Sciences",
-      "title_zh": "教育中的网络人本主义：通过人工智能和学习科学重新获得主体性",
+      "title_zh": "教育中的网络人本主义：通过人工智能与学习科学重获自主性",
       "authors": "Giovanni Adorni",
       "url": "https://arxiv.org/pdf/2512.16701",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -4028,7 +4028,7 @@
     {
       "id": "arXiv:2512.16702",
       "title": "How accurate are foundational machine learning interatomic potentials for heterogeneous catalysis?",
-      "title_zh": "基础机器学习原子间势在异质催化中的准确性研究",
+      "title_zh": "基础机器学习原子间势在异质催化中的准确性如何？",
       "authors": "Luuk H. E. Kempen, Raffaele Cheula, Mie Andersen",
       "url": "https://arxiv.org/pdf/2512.16702",
       "subjects": "Subjects:\nMaterials Science (cond-mat.mtrl-sci); Machine Learning (cs.LG); Chemical Physics (physics.chem-ph)",
@@ -4037,7 +4037,7 @@
     {
       "id": "arXiv:2512.16705",
       "title": "Olaf: Bringing an Animated Character to Life in the Physical World",
-      "title_zh": "奥拉夫：在物理世界中赋予动画角色生命",
+      "title_zh": "Olaf：在物理世界中赋予动画角色生命",
       "authors": "David Müller, Espen Knoop, Dario Mylonopoulos, Agon Serifi, Michael A. Hopkins, Ruben Grandia, Moritz Bächer",
       "url": "https://arxiv.org/pdf/2512.16705",
       "subjects": "Subjects:\nRobotics (cs.RO); Machine Learning (cs.LG)",
@@ -4055,7 +4055,7 @@
     {
       "id": "arXiv:2512.16707",
       "title": "Dual Computational Horizons: Incompleteness and Unpredictability in Intelligent Systems",
-      "title_zh": "智能系统的双重计算视野：不完全性与不可预测性",
+      "title_zh": "双重计算视野：智能系统中的不完全性与不可预测性",
       "authors": "Abhisek Ganguly",
       "url": "https://arxiv.org/pdf/2512.16707",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Logic in Computer Science (cs.LO)",
@@ -4072,8 +4072,8 @@
     },
     {
       "id": "arXiv:2512.16715",
-      "title": "Towards Reproducibility in Predictive Process Mining: SPICE - A Deep Learning Library",
-      "title_zh": "预测流程挖掘的可重复性研究：SPICE——一个深度学习库",
+      "title": "Towards Reproducibility in Predictive Process Mining: SPICE -- A Deep Learning Library",
+      "title_zh": "预测性流程挖掘的可重复性研究：SPICE——一个深度学习库",
       "authors": "Oliver Stritzel, Nick Hühnerbein, Simon Rauch, Itzel Zarate, Lukas Fleischmann, Moike Buck, Attila Lischka, Christian Frey",
       "url": "https://arxiv.org/pdf/2512.16715",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -4082,7 +4082,7 @@
     {
       "id": "arXiv:2512.16716",
       "title": "Pressure-robust enriched Galerkin finite element methods for coupled Navier-Stokes and heat equations",
-      "title_zh": "压力鲁棒增强伽辽金有限元方法求解耦合纳维-斯托克斯与热方程",
+      "title_zh": "压力鲁棒的富加勒金有限元方法在Navier-Stokes与热方程耦合中的应用",
       "authors": "Sanjeeb Poudel, Sanghyun Lee, Lin Mu",
       "url": "https://arxiv.org/pdf/2512.16716",
       "subjects": "Subjects:\nComputational Engineering, Finance, and Science (cs.CE)",
@@ -4091,7 +4091,7 @@
     {
       "id": "arXiv:2512.16717",
       "title": "Phishing Detection System: An Ensemble Approach Using Character-Level CNN and Feature Engineering",
-      "title_zh": "钓鱼检测系统：基于字符级CNN与特征工程的集成方法",
+      "title_zh": "网络钓鱼检测系统：基于字符级CNN与特征工程的集成方法",
       "authors": "Rudra Dubey, Arpit Mani Tripathi, Archit Srivastava, Sarvpal Singh",
       "url": "https://arxiv.org/pdf/2512.16717",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Cryptography and Security (cs.CR)",
@@ -4100,7 +4100,7 @@
     {
       "id": "arXiv:2512.16718",
       "title": "Polyharmonic Spline Packages: Composition, Efficient Procedures for Computation and Differentiation",
-      "title_zh": "多项式样条包：组合与高效计算及微分方法",
+      "title_zh": "多项式样条包：组合与高效计算及微分过程",
       "authors": "Yuriy N. Bakhvalov",
       "url": "https://arxiv.org/pdf/2512.16718",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Numerical Analysis (math.NA)",
@@ -4109,7 +4109,7 @@
     {
       "id": "arXiv:2512.16719",
       "title": "Channel State Information Preprocessing for CSI-based Physical-Layer Authentication Using Reconciliation",
-      "title_zh": "基于调和的信道状态信息预处理用于CSI物理层认证",
+      "title_zh": "基于调和的CSI物理层认证的信道状态信息预处理",
       "authors": "Atsu Kokuvi Angelo Passah, Rodrigo C. de Lamare, Arsenia Chorti",
       "url": "https://arxiv.org/pdf/2512.16719",
       "subjects": "Subjects:\nSignal Processing (eess.SP); Cryptography and Security (cs.CR)",
@@ -4127,7 +4127,7 @@
     {
       "id": "arXiv:2512.16724",
       "title": "VERM: Leveraging Foundation Models to Create a Virtual Eye for Efficient 3D Robotic Manipulation",
-      "title_zh": "VERM：利用基础模型为三维机器人操作创建虚拟眼",
+      "title_zh": "VERM：利用基础模型为3D机器人操作创建虚拟视觉的高效方法",
       "authors": "Yixiang Chen, Yan Huang, Keji He, Peiyan Li, Liang Wang",
       "url": "https://arxiv.org/pdf/2512.16724",
       "subjects": "Subjects:\nRobotics (cs.RO); Computer Vision and Pattern Recognition (cs.CV)",
@@ -4145,7 +4145,7 @@
     {
       "id": "arXiv:2512.16733",
       "title": "Discovering and Learning Probabilistic Models of Black-Box AI Capabilities",
-      "title_zh": "黑盒AI能力的概率模型发现与学习",
+      "title_zh": "黑箱AI能力的概率模型发现与学习",
       "authors": "Daniel Bramblett, Rushang Karia, Adrian Ciotinga, Ruthvick Suresh, Pulkit Verma, YooJung Choi, Siddharth Srivastava",
       "url": "https://arxiv.org/pdf/2512.16733",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -4163,7 +4163,7 @@
     {
       "id": "arXiv:2512.16739",
       "title": "AI-Driven Prediction of Cancer Pain Episodes: A Hybrid Decision Support Approach",
-      "title_zh": "癌症疼痛发作的AI驱动预测：一种混合决策支持方法",
+      "title_zh": "AI驱动的癌症疼痛发作预测：一种混合决策支持方法",
       "authors": "Yipeng Zhuang, Yifeng Guo, Yuewen Li, Yuheng Wu, Philip Leung-Ho Yu, Tingting Song, Zhiyong Wang, Kunzhong Zhou, Weifang Wang, Li Zhuang",
       "url": "https://arxiv.org/pdf/2512.16739",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -4172,7 +4172,7 @@
     {
       "id": "arXiv:2512.16740",
       "title": "Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation",
-      "title_zh": "面向遥感语义分割的任务导向数据合成与控制校正采样",
+      "title_zh": "面向任务的数据合成与控制校正采样在遥感语义分割中的应用",
       "authors": "Yunkai Yang, Yudong Zhang, Kunquan Zhang, Jinxiao Zhang, Xinying Chen, Haohuan Fu, Runmin Dong",
       "url": "https://arxiv.org/pdf/2512.16740",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4181,7 +4181,7 @@
     {
       "id": "arXiv:2512.16741",
       "title": "An Empirical Study of the Realism of Mutants in Deep Learning",
-      "title_zh": "深度学习中变异体真实性的实证研究",
+      "title_zh": "深度学习中突变体现实性的实证研究",
       "authors": "Zaheed Ahmed, Philip Makedonski, Jens Grabowski",
       "url": "https://arxiv.org/pdf/2512.16741",
       "subjects": "Subjects:\nSoftware Engineering (cs.SE)",
@@ -4190,7 +4190,7 @@
     {
       "id": "arXiv:2512.16742",
       "title": "Machine Learning Algorithms: Detection Official Hajj and Umrah Travel Agency Based on Text and Metadata Analysis",
-      "title_zh": "基于文本与元数据分析的官方哈吉与欧姆拉旅行社检测机器学习算法",
+      "title_zh": "机器学习算法：基于文本与元数据分析的官方朝觐与副朝旅行社检测",
       "authors": "Wisnu Uriawan, Muhamad Veva Ramadhan, Firman Adi Nugraha, Hasbi Nur Wahid, M Dantha Arianvasya, Muhammad Zaki Alghifari",
       "url": "https://arxiv.org/pdf/2512.16742",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -4208,7 +4208,7 @@
     {
       "id": "arXiv:2512.16750",
       "title": "Plausibility as Failure: How LLMs and Humans Co-Construct Epistemic Error",
-      "title_zh": "合理性作为失败：LLMs与人类如何共构认识论错误",
+      "title_zh": "合理性作为失败：LLM与人类如何共同构建认识论错误",
       "authors": "Claudia Vale Oliveira, Nelson Zagalo, Filipe Silva, Anabela Brandao, Syeda Faryal Hussain Khurrum, Joaquim Santos (DigiMedia, University of Aveiro, Aveiro, Portugal)",
       "url": "https://arxiv.org/pdf/2512.16750",
       "subjects": "Subjects:\nHuman-Computer Interaction (cs.HC); Artificial Intelligence (cs.AI)",
@@ -4244,7 +4244,7 @@
     {
       "id": "arXiv:2512.16762",
       "title": "NRGPT: An Energy-based Alternative for GPT",
-      "title_zh": "NRGPT：基于能量的GPT替代方案",
+      "title_zh": "NRGPT：GPT的一种基于能量的替代方案",
       "authors": "Nima Dehmamy, Benjamin Hoover, Bishwajit Saha, Leo Kozachkov, Jean-Jacques Slotine, Dmitry Krotov",
       "url": "https://arxiv.org/pdf/2512.16762",
       "subjects": "Subjects:\nMachine Learning (cs.LG)",
@@ -4253,7 +4253,7 @@
     {
       "id": "arXiv:2512.16763",
       "title": "Pattern recognition in complex systems via vector-field representations of spatio-temporal data",
-      "title_zh": "通过时空数据矢量场表示在复杂系统中进行模式识别",
+      "title_zh": "通过时空数据的矢量场表示进行复杂系统的模式识别",
       "authors": "Ingrid Amaranta Membrillo Solis, Maria van Rossem, Tristan Madeleine, Tetiana Orlova, Nina Podoliak, Giampaolo D'Alessandro, Jacek Brodzki, Malgosia Kaczmarek",
       "url": "https://arxiv.org/pdf/2512.16763",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Soft Condensed Matter (cond-mat.soft); Chaotic Dynamics (nlin.CD); Pattern Formation and Solitons (nlin.PS)",
@@ -4271,7 +4271,7 @@
     {
       "id": "arXiv:2512.16767",
       "title": "Make-It-Poseable: Feed-forward Latent Posing Model for 3D Humanoid Character Animation",
-      "title_zh": "Make-It-Poseable：用于3D人形角色动画的前馈潜在姿态模型",
+      "title_zh": "Make-It-Poseable：用于3D类人角色动画的前馈潜在姿态模型",
       "authors": "Zhiyang Guo, Ori Zhang, Jax Xiang, Alan Zhao, Wengang Zhou, Houqiang Li",
       "url": "https://arxiv.org/pdf/2512.16767",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4280,7 +4280,7 @@
     {
       "id": "arXiv:2512.16768",
       "title": "On The Hidden Biases of Flow Matching Samplers",
-      "title_zh": "流匹配采样器的隐藏偏差研究",
+      "title_zh": "关于流匹配采样器的隐藏偏差",
       "authors": "Soon Hoe Lim",
       "url": "https://arxiv.org/pdf/2512.16768",
       "subjects": "Subjects:\nMachine Learning (stat.ML); Machine Learning (cs.LG); Probability (math.PR)",
@@ -4289,7 +4289,7 @@
     {
       "id": "arXiv:2512.16770",
       "title": "GinSign: Grounding Natural Language Into System Signatures for Temporal Logic Translation",
-      "title_zh": "GinSign：将自然语言嵌入系统签名用于时序逻辑翻译",
+      "title_zh": "GinSign：将自然语言接地到系统签名以进行时态逻辑翻译",
       "authors": "William English, Chase Walker, Dominic Simon, Rickard Ewetz",
       "url": "https://arxiv.org/pdf/2512.16770",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Artificial Intelligence (cs.AI)",
@@ -4307,11 +4307,11 @@
     {
       "id": "arXiv:2512.16772",
       "title": "Thermodynamics a la Souriau on Kähler Non Compact Symmetric Spaces for Cartan Neural Networks",
-      "title_zh": "卡坦神经网络在凯勒非紧对称空间上的索里亚热力学",
+      "title_zh": "Souriau风格的凯勒非紧对称空间热力学在Cartan神经网络中的应用",
       "authors": "Pietro G. Fré, Alexander S. Sorin, Mario Trigiante",
       "url": "https://arxiv.org/pdf/2512.16772",
-      "subjects": "Subjects:\nInformation Theory (cs.IT); Mathematical Physics (math-ph); Differential Geometry (math.DG); Dynamical Systems (math.DS)",
-      "subject_split": "Information Theory (cs.IT),  Mathematical Physics (math-ph),  Differential Geometry (math.DG),  Dynamical Systems (math.DS)"
+      "subjects": "Subjects:\nInformation Theory (cs.IT); Mathematical Physics (math-ph); Differential Geometry (math.DG); Dynamical Systems (math.DS); Symplectic Geometry (math.SG)",
+      "subject_split": "Information Theory (cs.IT),  Mathematical Physics (math-ph),  Differential Geometry (math.DG),  Dynamical Systems (math.DS),  Symplectic Geometry (math.SG)"
     },
     {
       "id": "arXiv:2512.16776",
@@ -4334,7 +4334,7 @@
     {
       "id": "arXiv:2512.16780",
       "title": "Towards Mass Spectrum Analysis with ASP",
-      "title_zh": "基于ASP的质谱分析研究",
+      "title_zh": "面向质谱分析的ASP方法",
       "authors": "Nils Küchenmeister, Alex Ivliev, Markus Krötzsch",
       "url": "https://arxiv.org/pdf/2512.16780",
       "subjects": "Subjects:\nLogic in Computer Science (cs.LO); Artificial Intelligence (cs.AI)",
@@ -4343,7 +4343,7 @@
     {
       "id": "arXiv:2512.16784",
       "title": "R3ST: A Synthetic 3D Dataset With Realistic Trajectories",
-      "title_zh": "R3ST：包含真实轨迹的合成3D数据集",
+      "title_zh": "R3ST：一个具有逼真轨迹的合成三维数据集",
       "authors": "Simone Teglia, Claudia Melis Tonti, Francesco Pro, Leonardo Russo, Andrea Alfarano, Leonardo Pentassuglia, Irene Amerini",
       "url": "https://arxiv.org/pdf/2512.16784",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4352,7 +4352,7 @@
     {
       "id": "arXiv:2512.16786",
       "title": "Few-Shot Specific Emitter Identification via Integrated Complex Variational Mode Decomposition and Spatial Attention Transfer",
-      "title_zh": "基于集成复变分模态分解与空间注意力迁移的小样本特定发射机识别",
+      "title_zh": "通过集成复变模态分解与空间注意力迁移的少样本特定发射机识别",
       "authors": "Chenyu Zhu, Zeyang Li, Ziyi Xie, Jie Zhang",
       "url": "https://arxiv.org/pdf/2512.16786",
       "subjects": "Subjects:\nSignal Processing (eess.SP); Machine Learning (cs.LG)",
@@ -4361,7 +4361,7 @@
     {
       "id": "arXiv:2512.16790",
       "title": "Inside Out: Uncovering How Comment Internalization Steers LLMs for Better or Worse",
-      "title_zh": "内外之道：揭示评论内化如何引导大语言模型向好或向坏发展",
+      "title_zh": "Inside Out：揭示评论内化如何引导大语言模型向好或向坏发展",
       "authors": "Aaron Imani, Mohammad Moshirpour, Iftekhar Ahmed",
       "url": "https://arxiv.org/pdf/2512.16790",
       "subjects": "Subjects:\nSoftware Engineering (cs.SE)",
@@ -4370,7 +4370,7 @@
     {
       "id": "arXiv:2512.16791",
       "title": "KineST: A Kinematics-guided Spatiotemporal State Space Model for Human Motion Tracking from Sparse Signals",
-      "title_zh": "KineST：基于运动学引导的时空状态空间模型用于稀疏信号中的人体运动跟踪",
+      "title_zh": "KineST：一种运动学引导的时空状态空间模型，用于从稀疏信号中进行人体运动跟踪",
       "authors": "Shuting Zhao, Zeyu Xiao, Xinrong Chen",
       "url": "https://arxiv.org/pdf/2512.16791",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -4379,7 +4379,7 @@
     {
       "id": "arXiv:2512.16792",
       "title": "Delay-Aware Multi-Stage Edge Server Upgrade with Budget Constraint",
-      "title_zh": "预算约束下的延迟感知多阶段边缘服务器升级",
+      "title_zh": "延迟感知的多阶段边缘服务器升级与预算约束",
       "authors": "Endar Suprih Wihidayat, Sieteng Soh, Kwan-Wu Chin, Duc-son Pham",
       "url": "https://arxiv.org/pdf/2512.16792",
       "subjects": "Subjects:\nDistributed, Parallel, and Cluster Computing (cs.DC); Artificial Intelligence (cs.AI)",
@@ -4388,7 +4388,7 @@
     {
       "id": "arXiv:2512.16793",
       "title": "PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence",
-      "title_zh": "PhysBrain：人类以自我为中心的数据作为从视觉语言模型到物理智能的桥梁",
+      "title_zh": "PhysBrain：以人类为中心的数据作为视觉语言模型到物理智能的桥梁",
       "authors": "Xiaopeng Lin, Shijie Lian, Bin Yu, Ruoqi Yang, Changti Wu, Yuzhuo Miao, Yurun Jin, Yukun Shi, Cong Huang, Bojun Cheng, Kai Chen",
       "url": "https://arxiv.org/pdf/2512.16793",
       "subjects": "Subjects:\nRobotics (cs.RO)",
@@ -4397,7 +4397,7 @@
     {
       "id": "arXiv:2512.16795",
       "title": "From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs",
-      "title_zh": "从事实到结论：在检索增强大语言模型中整合演绎推理",
+      "title_zh": "从事实到结论：在检索增强型大语言模型中整合演绎推理",
       "authors": "Shubham Mishra, Samyek Jain, Gorang Mehrishi, Shiv Tiwari, Harsh Sharma, Pratik Narang, Dhruv Kumar",
       "url": "https://arxiv.org/pdf/2512.16795",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Artificial Intelligence (cs.AI); Computers and Society (cs.CY); Information Retrieval (cs.IR)",
@@ -4406,7 +4406,7 @@
     {
       "id": "arXiv:2512.16802",
       "title": "Exploration of Augmentation Strategies in Multi-modal Retrieval-Augmented Generation for the Biomedical Domain: A Case Study Evaluating Question Answering in Glycobiology",
-      "title_zh": "生物医学领域多模态检索增强生成中的增强策略探索：糖生物学问答的案例研究",
+      "title_zh": "生物医学领域多模态检索增强生成中增强策略的探索：以糖生物学问答评估为例的案例研究",
       "authors": "Primož Kocbek, Azra Frkatović-Hodžić, Dora Lalić, Vivian Hui, Gordan Lauc, Gregor Štiglic",
       "url": "https://arxiv.org/pdf/2512.16802",
       "subjects": "Subjects:\nComputation and Language (cs.CL)",
@@ -4415,7 +4415,7 @@
     {
       "id": "arXiv:2512.16805",
       "title": "Hardness of SetCover Reoptimization",
-      "title_zh": "集合覆盖再优化的困难性",
+      "title_zh": "集合覆盖问题再优化的难度",
       "authors": "Klaus Jansen, Tobias Mömke, Björn Schumacher",
       "url": "https://arxiv.org/pdf/2512.16805",
       "subjects": "Subjects:\nComputational Complexity (cs.CC)",
@@ -4423,8 +4423,8 @@
     },
     {
       "id": "arXiv:2512.16807",
-      "title": "Analogicity in List Coloring Problems and Interval $k$-$(γ,μ)$-choosability: A Complexity-Theoretic Study",
-      "title_zh": "列表着色问题中的类比性与区间k-(γ,μ)-可选择性：复杂性理论研究",
+      "title": "Analogy between List Coloring Problems and the Interval $k$-$(γ,μ)$-choosability property: theoretical aspects of complexity",
+      "title_zh": "列表着色问题与区间$k$-$(γ,μ)$-可选择性属性的类比：复杂度的理论分析",
       "authors": "Simone Ingrid Monteiro Gama, Rosiane de Freitas Rodrigues",
       "url": "https://arxiv.org/pdf/2512.16807",
       "subjects": "Subjects:\nComputational Complexity (cs.CC)",
@@ -4433,7 +4433,7 @@
     {
       "id": "arXiv:2512.16808",
       "title": "An Extension of Enumerative Sphere Shaping for Arbitrary Channel Input Distributions",
-      "title_zh": "任意信道输入分布下枚举球形整形的扩展",
+      "title_zh": "适用于任意信道输入分布的枚举球形整形扩展",
       "authors": "Frederik Ritter, Andrej Rode, Laurent Schmalen",
       "url": "https://arxiv.org/pdf/2512.16808",
       "subjects": "Subjects:\nInformation Theory (cs.IT)",
@@ -4442,7 +4442,7 @@
     {
       "id": "arXiv:2512.16811",
       "title": "GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation",
-      "title_zh": "GeoPredict：利用预测运动学和3D高斯几何实现精确的VLA操作",
+      "title_zh": "GeoPredict：利用预测运动学和三维高斯几何实现精确的VLA操作",
       "authors": "Jingjing Qian, Boyao Han, Chen Shi, Lei Xiao, Long Yang, Shaoshuai Shi, Li Jiang",
       "url": "https://arxiv.org/pdf/2512.16811",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Robotics (cs.RO)",
@@ -4451,7 +4451,7 @@
     {
       "id": "arXiv:2512.16813",
       "title": "Coordinated Anti-Jamming Resilience in Swarm Networks via Multi-Agent Reinforcement Learning",
-      "title_zh": "基于多智能体强化学习的蜂群网络协同抗干扰弹性",
+      "title_zh": "基于多智能体强化学习的蜂群网络协调抗干扰弹性",
       "authors": "Bahman Abolhassani, Tugba Erpek, Kemal Davaslioglu, Yalin E. Sagduyu, Sastry Kompella",
       "url": "https://arxiv.org/pdf/2512.16813",
       "subjects": "Subjects:\nNetworking and Internet Architecture (cs.NI); Artificial Intelligence (cs.AI); Distributed, Parallel, and Cluster Computing (cs.DC); Machine Learning (cs.LG); Signal Processing (eess.SP)",
@@ -4514,7 +4514,7 @@
     {
       "id": "arXiv:2512.16832",
       "title": "What Do Prosody and Text Convey? Characterizing How Meaningful Information is Distributed Across Multiple Channels",
-      "title_zh": "韵律与文本传递了什么？多通道有意义信息分布特征研究",
+      "title_zh": "韵律与文本传递了什么？多通道有意义信息分布特征分析",
       "authors": "Aditya Yadavalli, Tiago Pimentel, Tamar I Regev, Ethan Wilcox, Alex Warstadt",
       "url": "https://arxiv.org/pdf/2512.16832",
       "subjects": "Subjects:\nComputation and Language (cs.CL)",
@@ -4559,7 +4559,7 @@
     {
       "id": "arXiv:2512.16849",
       "title": "Temporal Frictions and Judicial Outcomes: Analyzing the Impact of Time Delays on Criminal Sentencing in Cook County (2020-2024)",
-      "title_zh": "时间摩擦与司法结果：分析芝加哥库克县（2020-2024）刑事案件判决中时间延迟的影响",
+      "title_zh": "时间摩擦与司法结果：分析芝加哥库克县（2020-2024）刑事判决中时间延迟的影响",
       "authors": "Yifei Tong",
       "url": "https://arxiv.org/pdf/2512.16849",
       "subjects": "Subjects:\nComputers and Society (cs.CY)",
@@ -4577,7 +4577,7 @@
     {
       "id": "arXiv:2512.16853",
       "title": "GenEval 2: Addressing Benchmark Drift in Text-to-Image Evaluation",
-      "title_zh": "GenEval 2：解决文生图评估中的基准漂移问题",
+      "title_zh": "GenEval 2：解决文本到图像评估中的基准漂移问题",
       "authors": "Amita Kamath, Kai-Wei Chang, Ranjay Krishna, Luke Zettlemoyer, Yushi Hu, Marjan Ghazvininejad",
       "url": "https://arxiv.org/pdf/2512.16853",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -4595,7 +4595,7 @@
     {
       "id": "arXiv:2512.16855",
       "title": "TOGGLE: Temporal Logic-Guided Large Language Model Compression for Edge",
-      "title_zh": "TOGGLE：面向边缘计算的时序逻辑引导大语言模型压缩",
+      "title_zh": "TOGGLE：时序逻辑引导的大型语言模型边缘压缩",
       "authors": "Khurram Khalil, Khaza Anuarul Hoque",
       "url": "https://arxiv.org/pdf/2512.16855",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI); Logic in Computer Science (cs.LO)",
@@ -4613,7 +4613,7 @@
     {
       "id": "arXiv:2512.16860",
       "title": "Toward 6G Downlink NOMA: CRC-Aided GRAND for Noise-Resilient NOMA Decoding in Beyond-5G Networks",
-      "title_zh": "面向6G下行NOMA：基于CRC辅助的GRAND在超5G网络中的抗噪NOMA解码",
+      "title_zh": "面向6G下行NOMA：基于CRC辅助的GRAND在超越5G网络中的抗噪NOMA解码",
       "authors": "Emirhan Zor, Bora Bozkurt, Ferkan Yilmaz",
       "url": "https://arxiv.org/pdf/2512.16860",
       "subjects": "Subjects:\nInformation Theory (cs.IT)",
@@ -4640,7 +4640,7 @@
     {
       "id": "arXiv:2512.16866",
       "title": "Semi-Supervised Online Learning on the Edge by Transforming Knowledge from Teacher Models",
-      "title_zh": "通过教师模型知识转换实现边缘端的半监督在线学习",
+      "title_zh": "通过从教师模型中转换知识实现边缘上的半监督在线学习",
       "authors": "Jiabin Xue",
       "url": "https://arxiv.org/pdf/2512.16866",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -4649,7 +4649,7 @@
     {
       "id": "arXiv:2512.16871",
       "title": "Sequencing to Mitigate Catastrophic Forgetting in Continual Learning",
-      "title_zh": "序列化方法缓解持续学习中的灾难性遗忘",
+      "title_zh": "序列化以缓解持续学习中的灾难性遗忘",
       "authors": "Hesham G. Moussa, Aroosa Hameed, Arashmid Akhavain",
       "url": "https://arxiv.org/pdf/2512.16871",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI)",
@@ -4658,7 +4658,7 @@
     {
       "id": "arXiv:2512.16872",
       "title": "On the Universal Representation Property of Spiking Neural Networks",
-      "title_zh": "脉冲神经网络的通用表示性质研究",
+      "title_zh": "脉冲神经网络的通用表示属性研究",
       "authors": "Shayan Hundrieser, Philipp Tuchel, Insung Kong, Johannes Schmidt-Hieber",
       "url": "https://arxiv.org/pdf/2512.16872",
       "subjects": "Subjects:\nNeural and Evolutionary Computing (cs.NE); Machine Learning (cs.LG); Machine Learning (stat.ML)",
@@ -4667,7 +4667,7 @@
     {
       "id": "arXiv:2512.16873",
       "title": "The Social Responsibility Stack: A Control-Theoretic Architecture for Governing Socio-Technical AI",
-      "title_zh": "社会责任堆栈：基于控制论架构的社会技术AI治理框架",
+      "title_zh": "社会责任堆栈：用于治理社会技术AI的控制论架构",
       "authors": "Otman A. Basir",
       "url": "https://arxiv.org/pdf/2512.16873",
       "subjects": "Subjects:\nArtificial Intelligence (cs.AI)",
@@ -4676,7 +4676,7 @@
     {
       "id": "arXiv:2512.16874",
       "title": "Pixel Seal: Adversarial-only training for invisible image and video watermarking",
-      "title_zh": "像素印章：仅对抗训练的不可见图像和视频水印技术",
+      "title_zh": "Pixel Seal：用于不可见图像和视频水印的纯对抗训练",
       "authors": "Tomáš Souček, Pierre Fernandez, Hady Elsahar, Sylvestre-Alvise Rebuffi, Valeriu Lacatusu, Tuan Tran, Tom Sander, Alexandre Mourachko",
       "url": "https://arxiv.org/pdf/2512.16874",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Cryptography and Security (cs.CR); Machine Learning (cs.LG)",
@@ -4685,7 +4685,7 @@
     {
       "id": "arXiv:2512.16875",
       "title": "Learning Confidence Ellipsoids and Applications to Robust Subspace Recovery",
-      "title_zh": "置信椭球学习及其在鲁棒子空间恢复中的应用",
+      "title_zh": "学习置信椭球及其在鲁棒子空间恢复中的应用",
       "authors": "Chao Gao, Liren Shan, Vaidehi Srinivas, Aravindan Vijayaraghavan",
       "url": "https://arxiv.org/pdf/2512.16875",
       "subjects": "Subjects:\nData Structures and Algorithms (cs.DS); Machine Learning (cs.LG); Statistics Theory (math.ST); Machine Learning (stat.ML)",
@@ -4694,7 +4694,7 @@
     {
       "id": "arXiv:2512.16876",
       "title": "Training Together, Diagnosing Better: Federated Learning for Collagen VI-Related Dystrophies",
-      "title_zh": "协同训练，精准诊断：用于胶原蛋白VI相关肌营养不良的联邦学习",
+      "title_zh": "共同训练，更好诊断：用于胶原蛋白VI相关肌营养不良的联邦学习",
       "authors": "Astrid Brull, Sara Aguti, Véronique Bolduc, Ying Hu, Daniel M. Jimenez-Gutierrez, Enrique Zuazua, Joaquin Del-Rio, Oleksii Sliusarenko, Haiyan Zhou, Francesco Muntoni, Carsten G. Bönnemann, Xabi Uribe-Etxebarria",
       "url": "https://arxiv.org/pdf/2512.16876",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Distributed, Parallel, and Cluster Computing (cs.DC)",
@@ -4703,7 +4703,7 @@
     {
       "id": "arXiv:2512.16880",
       "title": "Memory-Enhanced SAM3 for Occlusion-Robust Surgical Instrument Segmentation",
-      "title_zh": "增强记忆的SAM3：用于遮挡鲁棒的外科手术器械分割",
+      "title_zh": "记忆增强型SAM3：用于遮挡鲁棒性手术器械分割",
       "authors": "Valay Bundele, Mehran Hosseinzadeh, Hendrik P.A. Lensch",
       "url": "https://arxiv.org/pdf/2512.16880",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4712,7 +4712,7 @@
     {
       "id": "arXiv:2512.16881",
       "title": "PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies",
-      "title_zh": "PolaRiS：面向通用机器人策略的可扩展真实到模拟评估框架",
+      "title_zh": "PolaRiS：通用机器人策略的可扩展真实到模拟评估",
       "authors": "Arhan Jain, Mingtong Zhang, Kanav Arora, William Chen, Marcel Torne, Muhammad Zubair Irshad, Sergey Zakharov, Yue Wang, Sergey Levine, Chelsea Finn, Wei-Chiu Ma, Dhruv Shah, Abhishek Gupta, Karl Pertsch",
       "url": "https://arxiv.org/pdf/2512.16881",
       "subjects": "Subjects:\nRobotics (cs.RO); Machine Learning (cs.LG)",
@@ -4739,7 +4739,7 @@
     {
       "id": "arXiv:2512.16885",
       "title": "M-PhyGs: Multi-Material Object Dynamics from Video",
-      "title_zh": "M-PhyGs：从视频中重建多材质物体动力学",
+      "title_zh": "M-PhyGs：从视频中获取多材料物体动力学",
       "authors": "Norika Wada, Kohei Yamashita, Ryo Kawahara, Ko Nishino",
       "url": "https://arxiv.org/pdf/2512.16885",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4748,7 +4748,7 @@
     {
       "id": "arXiv:2512.16891",
       "title": "LinkedOut: Linking World Knowledge Representation Out of Video LLM for Next-Generation Video Recommendation",
-      "title_zh": "LinkedOut：通过视频大语言模型链接世界知识表示的下一代视频推荐",
+      "title_zh": "LinkedOut：从视频大语言模型中链接世界知识表示以实现下一代视频推荐",
       "authors": "Haichao Zhang, Yao Lu, Lichen Wang, Yunzhe Li, Daiwei Chen, Yunpeng Xu, Yun Fu",
       "url": "https://arxiv.org/pdf/2512.16891",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Information Retrieval (cs.IR); Machine Learning (cs.LG); Multimedia (cs.MM)",
@@ -4757,7 +4757,7 @@
     {
       "id": "arXiv:2512.16893",
       "title": "Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation",
-      "title_zh": "通过3D感知表情蒸馏实现即时表现力高斯头部虚拟人",
+      "title_zh": "通过3D感知表情蒸馏实现即时表现力的高斯头部化身",
       "authors": "Kaiwen Jiang, Xueting Li, Seonwook Park, Ravi Ramamoorthi, Shalini De Mello, Koki Nagano",
       "url": "https://arxiv.org/pdf/2512.16893",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4766,7 +4766,7 @@
     {
       "id": "arXiv:2512.16895",
       "title": "On the Edge of Core (Non-)Emptiness: An Automated Reasoning Approach to Approval-Based Multi-Winner Voting",
-      "title_zh": "核心（非）空性的边缘：基于自动推理的批准制多赢家投票方法",
+      "title_zh": "核心（非）空性的边缘：基于批准制多胜者投票的自动推理方法",
       "authors": "Ratip Emin Berker, Emanuel Tewolde, Vincent Conitzer, Mingyu Guo, Marijn Heule, Lirong Xia",
       "url": "https://arxiv.org/pdf/2512.16895",
       "subjects": "Subjects:\nComputer Science and Game Theory (cs.GT)",
@@ -4775,7 +4775,7 @@
     {
       "id": "arXiv:2512.16896",
       "title": "Sceniris: A Fast Procedural Scene Generation Framework",
-      "title_zh": "Sceniris：快速程序化场景生成框架",
+      "title_zh": "Sceniris：一种快速程序化场景生成框架",
       "authors": "Jinghuan Shang, Harsh Patel, Ran Gong, Karl Schmeckpeper",
       "url": "https://arxiv.org/pdf/2512.16896",
       "subjects": "Subjects:\nRobotics (cs.RO); Computer Vision and Pattern Recognition (cs.CV); Graphics (cs.GR)",
@@ -4784,7 +4784,7 @@
     {
       "id": "arXiv:2512.16897",
       "title": "Checking the HAL Interface Specification Continuously, Right from the Start",
-      "title_zh": "从一开始就持续验证HAL接口规范",
+      "title_zh": "从一开始就持续检查HAL接口规范",
       "authors": "Manuel Bentele, Onur Altinordu, Jan Körner, Andreas Podelski, Axel Sikora",
       "url": "https://arxiv.org/pdf/2512.16897",
       "subjects": "Subjects:\nLogic in Computer Science (cs.LO); Software Engineering (cs.SE)",
@@ -4793,7 +4793,7 @@
     {
       "id": "arXiv:2512.16899",
       "title": "Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image",
-      "title_zh": "多模态奖励基准2：评估交错文本和图像的通用奖励模型",
+      "title_zh": "多模态RewardBench 2：评估交织文本与图像的全奖励模型",
       "authors": "Yushi Hu, Reyhane Askari-Hemmat, Melissa Hall, Emily Dinan, Luke Zettlemoyer, Marjan Ghazvininejad",
       "url": "https://arxiv.org/pdf/2512.16899",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV)",
@@ -4802,7 +4802,7 @@
     {
       "id": "arXiv:2512.16900",
       "title": "FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction",
-      "title_zh": "FlashPortrait：基于自适应潜在预测的6倍速度无限人像动画",
+      "title_zh": "FlashPortrait：基于自适应潜在预测的6倍加速无限肖像动画",
       "authors": "Shuyuan Tu, Yueming Pan, Yinming Huang, Xintong Han, Zhen Xing, Qi Dai, Kai Qiu, Chong Luo, Zuxuan Wu",
       "url": "https://arxiv.org/pdf/2512.16900",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4820,7 +4820,7 @@
     {
       "id": "arXiv:2512.16902",
       "title": "In-Context Algebra",
-      "title_zh": "上下文代数",
+      "title_zh": "上下文内代数",
       "authors": "Eric Todd, Jannik Brinkmann, Rohit Gandikota, David Bau",
       "url": "https://arxiv.org/pdf/2512.16902",
       "subjects": "Subjects:\nComputation and Language (cs.CL); Machine Learning (cs.LG)",
@@ -4829,7 +4829,7 @@
     {
       "id": "arXiv:2512.16904",
       "title": "How Good is Post-Hoc Watermarking With Language Model Rephrasing?",
-      "title_zh": "语言模型重述后置水印效果如何？",
+      "title_zh": "语言模型重述后水印效果如何？",
       "authors": "Pierre Fernandez, Tom Sander, Hady Elsahar, Hongyan Chang, Tomáš Souček, Valeriu Lacatusu, Tuan Tran, Sylvestre-Alvise Rebuffi, Alexandre Mourachko",
       "url": "https://arxiv.org/pdf/2512.16904",
       "subjects": "Subjects:\nCryptography and Security (cs.CR); Computation and Language (cs.CL)",
@@ -4838,7 +4838,7 @@
     {
       "id": "arXiv:2512.16905",
       "title": "Alchemist: Unlocking Efficiency in Text-to-Image Model Training via Meta-Gradient Data Selection",
-      "title_zh": "Alchemist：通过元梯度数据选择解锁文本到图像模型训练效率",
+      "title_zh": "Alchemist：通过元梯度数据选择解锁文本到图像模型训练的效率",
       "authors": "Kaixin Ding, Yang Zhou, Xi Chen, Miao Yang, Jiarong Ou, Rui Chen, Xin Tao, Hengshuang Zhao",
       "url": "https://arxiv.org/pdf/2512.16905",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4856,7 +4856,7 @@
     {
       "id": "arXiv:2512.16907",
       "title": "Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos",
-      "title_zh": "从推理到运动：从第一视角人机交互视频学习3D手部轨迹预测",
+      "title_zh": "从推理到运动：通过第一视角人类交互视频学习3D手部轨迹预测",
       "authors": "Mingfei Chen, Yifan Wang, Zhengqin Li, Homanga Bharadhwaj, Yujin Chen, Chuan Qin, Ziyi Kou, Yuan Tian, Eric Whitmire, Rajinder Sodhi, Hrvoje Benko, Eli Shlizerman, Yue Liu",
       "url": "https://arxiv.org/pdf/2512.16907",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Robotics (cs.RO)",
@@ -4865,7 +4865,7 @@
     {
       "id": "arXiv:2512.16908",
       "title": "SceneDiff: A Benchmark and Method for Multiview Object Change Detection",
-      "title_zh": "SceneDiff：多视角物体变化检测基准与方法",
+      "title_zh": "SceneDiff：多视角物体变化检测的基准与方法",
       "authors": "Yuqun Wu, Chih-hao Lin, Henry Che, Aditi Tiwari, Chuhang Zou, Shenlong Wang, Derek Hoiem",
       "url": "https://arxiv.org/pdf/2512.16908",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4874,7 +4874,7 @@
     {
       "id": "arXiv:2512.16909",
       "title": "MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning",
-      "title_zh": "MomaGraph：基于视觉-语言模型的场景图构建与具身任务规划",
+      "title_zh": "MomaGraph：基于视觉语言模型的状态感知统一场景图用于具身任务规划",
       "authors": "Yuanchen Ju, Yongyuan Liang, Yen-Jen Wang, Nandiraju Gireesh, Yuanliang Ju, Seungjae Lee, Qiao Gu, Elvis Hsieh, Furong Huang, Koushil Sreenath",
       "url": "https://arxiv.org/pdf/2512.16909",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Robotics (cs.RO)",
@@ -4892,7 +4892,7 @@
     {
       "id": "arXiv:2512.16911",
       "title": "Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning",
-      "title_zh": "后验行为克隆：预训练BC策略实现高效的RL微调",
+      "title_zh": "后验行为克隆：预训练行为克隆策略以实现高效的强化学习微调",
       "authors": "Andrew Wagenmaker, Perry Dong, Raymond Tsao, Chelsea Finn, Sergey Levine",
       "url": "https://arxiv.org/pdf/2512.16911",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Robotics (cs.RO)",
@@ -4901,7 +4901,7 @@
     {
       "id": "arXiv:2512.16912",
       "title": "Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward",
-      "title_zh": "探索与利用：通过裁剪、熵和虚假奖励重新思考RLVR",
+      "title_zh": "探索与利用：通过裁剪、熵和虚假奖励重新思考强化学习视觉推理",
       "authors": "Peter Chen, Xiaopeng Li, Ziniu Li, Wotao Yin, Xi Chen, Tianyi Lin",
       "url": "https://arxiv.org/pdf/2512.16912",
       "subjects": "Subjects:\nMachine Learning (cs.LG); Artificial Intelligence (cs.AI); Computation and Language (cs.CL)",
@@ -4910,7 +4910,7 @@
     {
       "id": "arXiv:2512.16913",
       "title": "Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation",
-      "title_zh": "Depth Any Panoramas：全景深度估计基础模型",
+      "title_zh": "Depth Any Panoramas：全景深度估计的基础模型",
       "authors": "Xin Lin, Meixi Song, Dizhe Zhang, Wenxuan Lu, Haodong Li, Bo Du, Ming-Hsuan Yang, Truong Nguyen, Lu Qi",
       "url": "https://arxiv.org/pdf/2512.16913",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4919,7 +4919,7 @@
     {
       "id": "arXiv:2512.16914",
       "title": "Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-Network Updates",
-      "title_zh": "构造性电路放大：通过目标子网络更新提升大语言模型数学推理",
+      "title_zh": "构造性电路放大：通过目标子网络更新提升大语言模型数学推理能力",
       "authors": "Nikhil Prakash, Donghao Ren, Dominik Moritz, Yannick Assogba",
       "url": "https://arxiv.org/pdf/2512.16914",
       "subjects": "Subjects:\nComputation and Language (cs.CL)",
@@ -4946,7 +4946,7 @@
     {
       "id": "arXiv:2512.16918",
       "title": "AdaTooler-V: Adaptive Tool-Use for Images and Videos",
-      "title_zh": "AdaTooler-V：图像和视频的自适应工具使用",
+      "title_zh": "AdaTooler-V：面向图像和视频的自适应工具使用",
       "authors": "Chaoyang Wang, Kaituo Feng, Dongyang Chen, Zhongyu Wang, Zhixun Li, Sicheng Gao, Meng Meng, Xu Zhou, Manyuan Zhang, Yuzhang Shang, Xiangyu Yue",
       "url": "https://arxiv.org/pdf/2512.16918",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4955,7 +4955,7 @@
     {
       "id": "arXiv:2512.16919",
       "title": "DVGT: Driving Visual Geometry Transformer",
-      "title_zh": "DVGT：驱动视觉几何变换器",
+      "title_zh": "DVGT：驾驶视觉几何变换器",
       "authors": "Sicheng Zuo, Zixun Xie, Wenzhao Zheng, Shaoqing Xu, Fang Li, Shengyin Jiang, Long Chen, Zhi-Xin Yang, Jiwen Lu",
       "url": "https://arxiv.org/pdf/2512.16919",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Robotics (cs.RO)",
@@ -4964,7 +4964,7 @@
     {
       "id": "arXiv:2512.16920",
       "title": "EasyV2V: A High-quality Instruction-based Video Editing Framework",
-      "title_zh": "EasyV2V：高质量指令驱动的视频编辑框架",
+      "title_zh": "EasyV2V：基于高质量指令的视频编辑框架",
       "authors": "Jinjie Mai, Chaoyang Wang, Guocheng Gordon Qian, Willi Menapace, Sergey Tulyakov, Bernard Ghanem, Peter Wonka, Ashkan Mirzaei",
       "url": "https://arxiv.org/pdf/2512.16920",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)",
@@ -4982,7 +4982,7 @@
     {
       "id": "arXiv:2512.16922",
       "title": "Next-Embedding Prediction Makes Strong Vision Learners",
-      "title_zh": "下一嵌入预测打造强大的视觉学习者",
+      "title_zh": "下一嵌入预测构建强大的视觉学习模型",
       "authors": "Sihan Xu, Ziqiao Ma, Wenhao Chai, Xuweiyi Chen, Weiyang Jin, Joyce Chai, Saining Xie, Stella X. Yu",
       "url": "https://arxiv.org/pdf/2512.16922",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
@@ -4991,7 +4991,7 @@
     {
       "id": "arXiv:2512.16923",
       "title": "Generative Refocusing: Flexible Defocus Control from a Single Image",
-      "title_zh": "生成式对焦：从单张图像实现灵活的失焦控制",
+      "title_zh": "生成式对焦控制：从单张图像实现灵活失焦控制",
       "authors": "Chun-Wei Tuan Mu, Jia-Bin Huang, Yu-Lun Liu",
       "url": "https://arxiv.org/pdf/2512.16923",
       "subjects": "Subjects:\nComputer Vision and Pattern Recognition (cs.CV)",
