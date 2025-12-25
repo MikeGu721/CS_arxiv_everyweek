@@ -1,0 +1,713 @@
+﻿id,title,title_zh,authors,url,subjects,subject_split
+arXiv:2512.21338,HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming,HiStream：通过冗余消除流式处理实现高效的高分辨率视频生成,"Haonan Qiu, Shikun Liu, Zijian Zhou, Zhaochong An, Weiming Ren, Zhiheng Liu, Jonas Schult, Sen He, Shoufa Chen, Yuren Cong, Tao Xiang, Ziwei Liu, Juan-Manuel Perez-Rua",https://arxiv.org/pdf/2512.21338,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21337,Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models,超越记忆：多模态序回归基准测试揭示视觉-语言模型中的流行度偏差,"Li-Zhong Szu-Tu, Ting-Lin Wu, Chia-Jui Chang, He Syu, Yu-Lun Liu",https://arxiv.org/pdf/2512.21337,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21336,Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty,通过量化不确定性优化掩码扩散模型的解码路径,"Ziyu Chen, Xinbei Jiang, Peng Sun, Tao Lin",https://arxiv.org/pdf/2512.21336,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.21334,Streaming Video Instruction Tuning,流式视频指令调优,"Jiaer Xia, Peixian Chen, Mengdan Zhang, Xing Sun, Kaiyang Zhou",https://arxiv.org/pdf/2512.21334,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21333,Fast SAM2 with Text-Driven Token Pruning,基于文本驱动标记剪枝的快速SAM2,"Avilasha Mandal, Chaoning Zhang, Fachrina Dewi Puspitasari, Xudong Wang, Jiaquan Zhang, Caiyan Qin, Guoqing Wang, Yang Yang, Heng Tao Shen",https://arxiv.org/pdf/2512.21333,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21332,C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling,C2LLM技术报告：通过自适应交叉注意力池化实现代码检索的新前沿,"Jin Qin, Zihan Liao, Ziyin Zhang, Hang Yu, Peng Di, Rui Wang",https://arxiv.org/pdf/2512.21332,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21331,TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning,TICON：用于组织病理学表征学习的切片级瓦片上下文化器,"Varun Belagali, Saarthak Kapse, Pierre Marza, Srijan Das, Zilinghan Li, Sofiène Boutaj, Pushpak Pati, Srikar Yellapragada, Tarak Nath Nandi, Ravi K Madduri, Joel Saltz, Prateek Prasanna, Stergios Christodoulidis Maria Vakalopoulou, Dimitris Samaras",https://arxiv.org/pdf/2512.21331,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21329,Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks,你的推理基准可能并未测试推理：揭示抽象推理基准中的感知瓶颈,"Xinhe Wang, Jin Huang, Xingjian Zhang, Tianhao Wang, Jiaqi W. Ma",https://arxiv.org/pdf/2512.21329,"Subjects:
+Computation and Language (cs.CL)",Computation and Language (cs.CL)
+arXiv:2512.21326,Measuring all the noises of LLM Evals,测量大语言模型评估中的所有噪声,Sida Wang,https://arxiv.org/pdf/2512.21326,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Machine Learning (stat.ML)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Computation and Language (cs.CL),  Machine Learning (stat.ML)"
+arXiv:2512.21324,Towards Practical Automatic Piano Reduction using BERT with Semi-supervised Learning,基于BERT和半监督学习的实用自动钢琴简化方法,"Wan Ki Wong, Ka Ho To, Chuck-jee Chau, Lucas Wong, Kevin Y. Yip, Irwin King",https://arxiv.org/pdf/2512.21324,"Subjects:
+Sound (cs.SD); Symbolic Computation (cs.SC)","Sound (cs.SD),  Symbolic Computation (cs.SC)"
+arXiv:2512.21323,Parallel Token Prediction for Language Models,语言模型的并行标记预测,"Felix Draxler, Justus Will, Farrin Marouf Sofian, Theofanis Karaletsos, Sameer Singh, Stephan Mandt",https://arxiv.org/pdf/2512.21323,"Subjects:
+Computation and Language (cs.CL); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Machine Learning (cs.LG)"
+arXiv:2512.21319,Variationally correct operator learning: Reduced basis neural operator with a posteriori error estimation,变分正确的算子学习：具有后验误差估计的降阶基神经算子,"Yuan Qiu, Wolfgang Dahmen, Peng Chen",https://arxiv.org/pdf/2512.21319,"Subjects:
+Numerical Analysis (math.NA); Machine Learning (cs.LG)","Numerical Analysis (math.NA),  Machine Learning (cs.LG)"
+arXiv:2512.21315,Does the Data Processing Inequality Reflect Practice? On the Utility of Low-Level Tasks,数据处理不等式是否反映实践？论低级任务的效用,"Roy Turgeman, Tom Tirer",https://arxiv.org/pdf/2512.21315,"Subjects:
+Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)","Machine Learning (cs.LG),  Computer Vision and Pattern Recognition (cs.CV),  Machine Learning (stat.ML)"
+arXiv:2512.21314,"A Lyapunov-Based Small-Gain Theorem for Fixed-Time ISS: Theory, Optimization, and Games",基于李雅普诺夫的小增益定理用于固定时间ISS：理论、优化与博弈,"Michael Tang, Miroslav Krstic, Jorge Poveda",https://arxiv.org/pdf/2512.21314,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.21311,Learning to Solve PDEs on Neural Shape Representations,在神经形状表示上求解偏微分方程的求解方法,"Lilian Welschinger, Yilin Liu, Zican Wang, Niloy Mitra",https://arxiv.org/pdf/2512.21311,"Subjects:
+Machine Learning (cs.LG)",Machine Learning (cs.LG)
+arXiv:2512.21309,A Plan Reuse Mechanism for LLM-Driven Agent,面向大语言模型驱动代理的计划重用机制,"Guopeng Li, Ruiqi Wu, Haisheng Tan",https://arxiv.org/pdf/2512.21309,"Subjects:
+Multiagent Systems (cs.MA)",Multiagent Systems (cs.MA)
+arXiv:2512.21306,FORCE-$α$ Numerical Fluxes within the Arbitrary High Order Semidiscrete WENO-DeC Framework: A Competitive Alternative to Upwind Fluxes,任意高阶半离散WENO-DeC框架中的FORCE-α数值通量：迎风通量的有竞争力替代方案,"Lorenzo Micalizzi, Eleuterio Toro",https://arxiv.org/pdf/2512.21306,"Subjects:
+Numerical Analysis (math.NA)",Numerical Analysis (math.NA)
+arXiv:2512.21302,AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents,AndroidLens：通过嵌套子目标进行Android GUI代理的长延迟评估,"Yue Cao, Yingyao Wang, Pi Bu, Jingxuan Xing, Wei Jiang, Zekun Zhu, Junpeng Ma, Sashuai Zhou, Tong Lu, Jun Song, Yu Cheng, Yuning Jiang, Bo Zheng",https://arxiv.org/pdf/2512.21302,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21301,Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering,基于元启发式组装和目标驱动过滤的AML个性化从头药物生成（转录组条件）,"Abdullah G. Elafifi, Basma Mamdouh, Mariam Hanafy, Muhammed Alaa Eldin, Yosef Khaled, Nesma Mohamed El-Gelany, Tarek H.M. Abou-El-Enien",https://arxiv.org/pdf/2512.21301,"Subjects:
+Machine Learning (cs.LG); Quantitative Methods (q-bio.QM)","Machine Learning (cs.LG),  Quantitative Methods (q-bio.QM)"
+arXiv:2512.21297,A mixed finite element method for the stochastic Boussinesq equations with multiplicative noise,随机Boussinesq方程的混合有限元方法（含乘性噪声）,Liet Vo,https://arxiv.org/pdf/2512.21297,"Subjects:
+Numerical Analysis (math.NA)",Numerical Analysis (math.NA)
+arXiv:2512.21295,Enhancing Grid Resilience for Giga-Watt Scale Data Centers Using High Voltage Circuit Breaker Operated Braking Resistors,使用高压断路器操作的制动电阻器增强千兆瓦级数据中心的电网弹性,"Soham Ghosh, Mohammad Ashraf Hossain Sadi",https://arxiv.org/pdf/2512.21295,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.21293,Quadrupped-Legged Robot Movement Plan Generation using Large Language Model,基于大语言模型的四足机器人运动计划生成,"Muhtadin, Vincentius Gusti Putu A. B. M., Ahmad Zaini, Mauridhi Hery Purnomo, I Ketut Eddy Purnama, Chastine Fatichah",https://arxiv.org/pdf/2512.21293,"Subjects:
+Robotics (cs.RO); Human-Computer Interaction (cs.HC)","Robotics (cs.RO),  Human-Computer Interaction (cs.HC)"
+arXiv:2512.21288,Model Merging via Multi-Teacher Knowledge Distillation,通过多教师知识蒸馏实现模型合并,"Seyed Arshan Dalili, Mehrdad Mahdavi",https://arxiv.org/pdf/2512.21288,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21287,Post-Processing Mask-Based Table Segmentation for Structural Coordinate Extraction,基于后处理掩码的表格分割用于结构坐标提取,Suren Bandara,https://arxiv.org/pdf/2512.21287,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21284,Surgical Scene Segmentation using a Spike-Driven Video Transformer with Real-Time Potential,使用具有实时潜力的脉冲驱动视频变压器进行手术场景分割,"Shihao Zou, Jingjing Li, Wei Ji, Jincai Huang, Kai Wang, Guo Dan, Weixin Si, Yi Pan",https://arxiv.org/pdf/2512.21284,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21280,"SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance",SMART SLM：结构化记忆与推理变压器，一种用于精准文档辅助的小型语言模型,"Divij Dudeja, Mayukha Pal",https://arxiv.org/pdf/2512.21280,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21276,GriDiT: Factorized Grid-Based Diffusion for Efficient Long Image Sequence Generation,GriDiT：基于网格的因子化扩散用于高效长图像序列生成,"Snehal Singh Tomar, Alexandros Graikos, Arjun Krishna, Dimitris Samaras, Klaus Mueller",https://arxiv.org/pdf/2512.21276,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21268,ACD: Direct Conditional Control for Video Diffusion Models via Attention Supervision,ACD：通过注意力监督实现视频扩散模型的直接条件控制,"Weiqi Li, Zehao Zhang, Liang Lin, Guangrun Wang",https://arxiv.org/pdf/2512.21268,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21264,AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI,AnyAD：统一的多模态异常检测在不完整的多序列MRI中,"Changwei Wu, Yifei Chen, Yuxin Du, Mingxuan Liu, Jinying Zong, Beining Wu, Jie Dong, Feiwei Qin, Yunkang Cao, Qiyuan Tian",https://arxiv.org/pdf/2512.21264,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21257,ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling,ReaSeq：通过推理释放世界知识用于序列建模,"Chuan Wang, Gaoming Yang, Han Wu, Jiakai Tang, Jiahao Yu, Jian Wu, Jianwu Hu, Junjun Zheng, Shuwen Xiao, Yeqiu Yang, Yuning Jiang, Ahjol Nurlanbek, Binbin Cao, Bo Zheng, Fangmei Zhu, Gaoming Zhou, Huimin Yi, Huiping Chu, Jin Huang, Jinzhe Shan, Kenan Cui, Longbin Li, Silu Zhou, Wen Chen, Xia Ming, Xiang Gao, Xin Yao, Xingyu Wen, Yan Zhang, Yiwen Hu, Yulin Wang, Ziheng Bao, Zongyuan Wu",https://arxiv.org/pdf/2512.21257,"Subjects:
+Information Retrieval (cs.IR); Computation and Language (cs.CL)","Information Retrieval (cs.IR),  Computation and Language (cs.CL)"
+arXiv:2512.21252,DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation,DreaMontage：任意帧引导的一次性视频生成,"Jiawei Liu, Junqiao Li, Jiangfan Deng, Gen Li, Siyu Zhou, Zetao Fang, Shanshan Lao, Zengde Deng, Jianing Zhu, Tingting Ma, Jiayi Li, Yunqiu Wang, Qian He, Xinglong Wu",https://arxiv.org/pdf/2512.21252,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21251,Uncertainty in security: managing cyber senescence,安全中的不确定性：管理网络衰老,Martijn Dekker,https://arxiv.org/pdf/2512.21251,"Subjects:
+Cryptography and Security (cs.CR)",Cryptography and Security (cs.CR)
+arXiv:2512.21250,CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents,CoTDeceptor：对抗CoT增强的LLM代码代理的对抗性代码混淆,"Haoyang Li, Mingjin Li, Jinxin Zuo, Siqi Li, Xiao Li, Hao Wu, Yueming Lu, Xiaochuan He",https://arxiv.org/pdf/2512.21250,"Subjects:
+Cryptography and Security (cs.CR); Multiagent Systems (cs.MA)","Cryptography and Security (cs.CR),  Multiagent Systems (cs.MA)"
+arXiv:2512.21248,Industrial Ouroboros: Deep Lateral Movement via Living Off the Plant,工业衔尾蛇：利用现有工业环境进行深度横向移动,Richard Derbyshire,https://arxiv.org/pdf/2512.21248,"Subjects:
+Cryptography and Security (cs.CR)",Cryptography and Security (cs.CR)
+arXiv:2512.21246,Learning Factors in AI-Augmented Education: A Comparative Study of Middle and High School Students,人工智能增强教育中的学习因素：中学生与高中生的比较研究,"Gaia Ebli, Bianca Raimondi, Maurizio Gabbrielli",https://arxiv.org/pdf/2512.21246,"Subjects:
+Human-Computer Interaction (cs.HC); Artificial Intelligence (cs.AI)","Human-Computer Interaction (cs.HC),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21244,ARX-Implementation of encrypted nonlinear dynamic controllers using observer form,使用观测器形式实现加密非线性动态控制器的ARX实现,"Deuksun Hong, Donghyeon Song, Mingyu Jeong, Junsoo Kim",https://arxiv.org/pdf/2512.21244,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.21243,LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation,LookPlanGraph：基于VLM图增强的具身指令跟随方法,"Anatoly O. Onishchenko, Alexey K. Kovalev, Aleksandr I. Panov",https://arxiv.org/pdf/2512.21243,"Subjects:
+Robotics (cs.RO); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Robotics (cs.RO),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.21241,Improving the Convergence Rate of Ray Search Optimization for Query-Efficient Hard-Label Attacks,提高射线搜索优化的收敛率以实现查询高效的硬标签攻击,"Xinjie Xu, Shuyu Cheng, Dongwei Xu, Qi Xuan, Chen Ma",https://arxiv.org/pdf/2512.21241,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Cryptography and Security (cs.CR); Computer Vision and Pattern Recognition (cs.CV)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Cryptography and Security (cs.CR),  Computer Vision and Pattern Recognition (cs.CV)"
+arXiv:2512.21238,Assessing the Software Security Comprehension of Large Language Models,评估大型语言模型的软件安全理解能力,"Mohammed Latif Siddiq, Natalie Sekerak, Antonio Karam, Maria Leal, Arvin Islam-Gomes, Joanna C. S. Santos",https://arxiv.org/pdf/2512.21238,"Subjects:
+Software Engineering (cs.SE); Cryptography and Security (cs.CR); Machine Learning (cs.LG)","Software Engineering (cs.SE),  Cryptography and Security (cs.CR),  Machine Learning (cs.LG)"
+arXiv:2512.21237,SegMo: Segment-aligned Text to 3D Human Motion Generation,SegMo：分段对齐的文本到3D人体运动生成,"Bowen Dang, Lin Wu, Xiaohang Yang, Zheng Yuan, Zhixiang Chen",https://arxiv.org/pdf/2512.21237,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21236,Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking,施法SPELL：句子配对探索以突破大语言模型的限制,"Yifan Huang, Xiaojun Jia, Wenbo Guo, Yuqiang Sun, Yihao Huang, Chong Wang, Yang Liu",https://arxiv.org/pdf/2512.21236,"Subjects:
+Cryptography and Security (cs.CR); Artificial Intelligence (cs.AI); Software Engineering (cs.SE)","Cryptography and Security (cs.CR),  Artificial Intelligence (cs.AI),  Software Engineering (cs.SE)"
+arXiv:2512.21235,RoboCade: Gamifying Robot Data Collection,RoboCade：机器人数据收集的游戏化,"Suvir Mirchandani, Mia Tang, Jiafei Duan, Jubayer Ibn Hamid, Michael Cho, Dorsa Sadigh",https://arxiv.org/pdf/2512.21235,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.21233,UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer,UniTacHand：统一的空间触觉表示用于人类到机器人手部技能迁移,"Chi Zhang, Penglin Cai, Haoqi Yuan, Chaoyi Xu, Zongqing Lu",https://arxiv.org/pdf/2512.21233,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.21231,MiST: Understanding the Role of Mid-Stage Scientific Training in Developing Chemical Reasoning Models,MiST：理解中期科学训练在化学推理模型开发中的作用,"Andres M Bran, Tong Xie, Shai Pranesh, Jeffrey Meng, Xuan Vu Nguyen, Jeremy Goumaz, David Ming Segura, Ruizhi Xu, Dongzhan Zhou, Wenjie Zhang, Bram Hoex, Philippe Schwaller",https://arxiv.org/pdf/2512.21231,"Subjects:
+Machine Learning (cs.LG); Materials Science (cond-mat.mtrl-sci)","Machine Learning (cs.LG),  Materials Science (cond-mat.mtrl-sci)"
+arXiv:2512.21226,Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot,蜗牛机器人相对定位系统设计：一种模块化自重构机器人,"Shuhan Zhang, Tin Lun Lam",https://arxiv.org/pdf/2512.21226,"Subjects:
+Robotics (cs.RO); Systems and Control (eess.SY)","Robotics (cs.RO),  Systems and Control (eess.SY)"
+arXiv:2512.21221,Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval,利用轻量级实体提取实现可扩展的事件驱动图像检索,"Dao Sy Duy Minh, Huynh Trung Kiet, Nguyen Lam Phu Quy, Phu-Hoa Pham, Tran Chi Nguyen",https://arxiv.org/pdf/2512.21221,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)","Computer Vision and Pattern Recognition (cs.CV),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21220,RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic,RoboSafe：通过可执行安全逻辑保护具身智能体,"Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, Zhenfei Yin, Tianlin Li, Jian Yang, Yaodong Yang, Aishan Liu, Xianglong Liu",https://arxiv.org/pdf/2512.21220,"Subjects:
+Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Robotics (cs.RO)","Artificial Intelligence (cs.AI),  Computer Vision and Pattern Recognition (cs.CV),  Robotics (cs.RO)"
+arXiv:2512.21219,Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3,基于ESP32-C3的人形机器人平衡控制无线压力中心反馈系统,"Muhtadin, Faris Rafi Pramana, Dion Hayu Fandiantoro, Moh Ismarintan Zazuli, Atar Fuady Babgei",https://arxiv.org/pdf/2512.21219,"Subjects:
+Robotics (cs.RO); Systems and Control (eess.SY)","Robotics (cs.RO),  Systems and Control (eess.SY)"
+arXiv:2512.21218,Latent Implicit Visual Reasoning,潜在隐式视觉推理,"Kelvin Li, Chuyi Shang, Leonid Karlinsky, Rogerio Feris, Trevor Darrell, Roei Herzig",https://arxiv.org/pdf/2512.21218,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21214,Microtopia: Exploring the Impact of Interdisciplinary Projects on Ethnic Minority Female Pupils' Perceptions of Computer Science,微观乌托邦：探索跨学科项目对少数民族女学生计算机科学认知的影响,"Nadine Aburumman, Ju-Ling Shih, Cigdem Sengul, Monica Pereira",https://arxiv.org/pdf/2512.21214,"Subjects:
+Computers and Society (cs.CY)",Computers and Society (cs.CY)
+arXiv:2512.21209,Human Motion Estimation with Everyday Wearables,基于日常可穿戴设备的人体运动估计,"Siqi Zhu, Yixuan Li, Junfu Li, Qi Wu, Zan Wang, Haozhe Ma, Wei Liang",https://arxiv.org/pdf/2512.21209,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21208,Analytic and Variational Stability of Deep Learning Systems,深度学习系统的解析与变分稳定性,Ronald Katende,https://arxiv.org/pdf/2512.21208,"Subjects:
+Machine Learning (cs.LG); Dynamical Systems (math.DS); Optimization and Control (math.OC)","Machine Learning (cs.LG),  Dynamical Systems (math.DS),  Optimization and Control (math.OC)"
+arXiv:2512.21204,SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation,SpidR-Adapt：面向少样本适应的通用语音表示模型,"Mahi Luthra, Jiayi Shen, Maxime Poli, Angelo Ortiz, Yosuke Higuchi, Youssef Benchekroun, Martin Gleize, Charles-Eric Saint-James, Dongyan Lin, Phillip Rust, Angel Villar, Surya Parimi, Vanessa Stark, Rashel Moritz, Juan Pino, Yann LeCun, Emmanuel Dupoux",https://arxiv.org/pdf/2512.21204,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21201,Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation,薛定谔导航器：通过未来集合想象实现零样本物体导航,"Yu He, Da Huang, Zhenyang Liu, Zixiao Gu, Qiang Sun, Guangnan Ye, Yanwei Fu",https://arxiv.org/pdf/2512.21201,"Subjects:
+Robotics (cs.RO); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)","Robotics (cs.RO),  Artificial Intelligence (cs.AI),  Computer Vision and Pattern Recognition (cs.CV)"
+arXiv:2512.21200,A Multimodal Human-Centered Framework for Assessing Pedestrian Well-Being in the Wild,多模态以人为中心的框架：评估野外行人福祉,"Yasaman Hakiminejad, Arash Tavakoli",https://arxiv.org/pdf/2512.21200,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.21198,Safe Navigation with Zonotopic Tubes: An Elastic Tube-based MPC Framework,基于区域管的安全导航：弹性管状MPC框架,"Niyousha Ghiasi, Bahare Kiumarsi, Hamidreza Modares",https://arxiv.org/pdf/2512.21198,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.21196,Flocking phase transition and threat responses in bio-inspired autonomous drone swarms,仿生自主无人机群的集群相变与威胁响应,"Matthieu Verdoucq, Dari Trendafilov, Clément Sire, Ramón Escobedo, Guy Theraulaz, Gautier Hattenberger",https://arxiv.org/pdf/2512.21196,"Subjects:
+Robotics (cs.RO); Systems and Control (eess.SY); Adaptation and Self-Organizing Systems (nlin.AO)","Robotics (cs.RO),  Systems and Control (eess.SY),  Adaptation and Self-Organizing Systems (nlin.AO)"
+arXiv:2512.21195,An O($nlogn$) approximate knapsack algorithm,一个O(n log n)近似背包算法,Nick Dawes,https://arxiv.org/pdf/2512.21195,"Subjects:
+Data Structures and Algorithms (cs.DS)",Data Structures and Algorithms (cs.DS)
+arXiv:2512.21194,VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs,VisRes Bench：评估视觉语言模型视觉推理能力的基准,"Brigitta Malagurski Törtei, Yasser Dahou, Ngoc Dung Huynh, Wamiq Reyaz Para, Phúc H. Lê Khac, Ankit Singh, Sofian Chaybouti, Sanath Narayan",https://arxiv.org/pdf/2512.21194,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21185,UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement,UltraShape 1.0：通过可扩展几何优化实现高保真三维形状生成,"Tanghui Jia, Dongyu Yan, Dehao Hao, Yang Li, Kaiyi Zhang, Xianyi He, Lanjiong Li, Jinnan Chen, Lutao Jiang, Qishen Yin, Long Quan, Ying-Cong Chen, Li Yuan",https://arxiv.org/pdf/2512.21185,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Graphics (cs.GR)","Computer Vision and Pattern Recognition (cs.CV),  Graphics (cs.GR)"
+arXiv:2512.21183,Towards Arbitrary Motion Completing via Hierarchical Continuous Representation,基于层次化连续表示的任意运动补全研究,"Chenghao Xu, Guangtao Lyu, Qi Liu, Jiexi Yan, Muli Yang, Cheng Deng",https://arxiv.org/pdf/2512.21183,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21174,A Turn Toward Better Alignment: Few-Shot Generative Adaptation with Equivariant Feature Rotation,迈向更优对齐：基于等变特征旋转的小样本生成适应,"Chenghao Xu, Qi Liu, Jiexi Yan, Muli Yang, Cheng Deng",https://arxiv.org/pdf/2512.21174,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21170,A Unified Framework for EEG Seizure Detection Using Universum-Integrated Generalized Eigenvalues Proximal Support Vector Machine,基于结合Universum的广义特征值近邻支持向量机的脑电癫痫检测统一框架,"Yogesh Kumar, Vrushank Ahire, M. A. Ganaie",https://arxiv.org/pdf/2512.21170,"Subjects:
+Machine Learning (cs.LG)",Machine Learning (cs.LG)
+arXiv:2512.21166,A Community-Enhanced Graph Representation Model for Link Prediction,社区增强型图表示模型用于链接预测,"Lei Wang, Darong Lai",https://arxiv.org/pdf/2512.21166,"Subjects:
+Social and Information Networks (cs.SI); Machine Learning (cs.LG)","Social and Information Networks (cs.SI),  Machine Learning (cs.LG)"
+arXiv:2512.21165,BALLAST: Bandit-Assisted Learning for Latency-Aware Stable Timeouts in Raft,BALLAST：基于老虎机辅助学习的Raft延迟感知稳定超时机制,Qizhi Wang,https://arxiv.org/pdf/2512.21165,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21164,Mixed Precision General Alternating-Direction Implicit Method for Solving Large Sparse Linear Systems,混合精度通用交替方向隐式方法用于求解大规模稀疏线性系统,"Jifeng Ge, Bastien Vieublé, Juan Zhang",https://arxiv.org/pdf/2512.21164,"Subjects:
+Numerical Analysis (math.NA)",Numerical Analysis (math.NA)
+arXiv:2512.21153,ElfCore: A 28nm Neural Processor Enabling Dynamic Structured Sparse Training and Online Self-Supervised Learning with Activity-Dependent Weight Update,ElfCore：一种28nm神经处理器，支持动态结构稀疏训练和基于活动依赖权重更新的在线自监督学习,"Zhe Su, Giacomo Indiveri",https://arxiv.org/pdf/2512.21153,"Subjects:
+Hardware Architecture (cs.AR); Machine Learning (cs.LG)","Hardware Architecture (cs.AR),  Machine Learning (cs.LG)"
+arXiv:2512.21152,MODE: Multi-Objective Adaptive Coreset Selection,MODE：多目标自适应核心集选择,"Tanmoy Mukherjee, Pierre Marquis, Zied Bouraoui",https://arxiv.org/pdf/2512.21152,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21150,ORCA: Object Recognition and Comprehension for Archiving Marine Species,ORCA：用于海洋物种存档的物体识别与理解,"Yuk-Kwan Wong, Haixin Liang, Zeyu Ma, Yiwei Chen, Ziqiang Zheng, Rinaldi Gotama, Pascal Sebastian, Lauren D. Sparks, Sai-Kit Yeung",https://arxiv.org/pdf/2512.21150,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21144,Encrypted Traffic Detection in Resource Constrained IoT Networks: A Diffusion Model and LLM Integrated Framework,资源受限物联网网络中的加密流量检测：基于扩散模型与大语言模型的集成框架,"Hongjuan Li, Hui Kang, Chenbang Liu, Ruolin Wang, Jiahui Li, Geng Sun, Jiacheng Wang, Shuang Liang, Shiwen Mao",https://arxiv.org/pdf/2512.21144,"Subjects:
+Networking and Internet Architecture (cs.NI)",Networking and Internet Architecture (cs.NI)
+arXiv:2512.21138,Emotion Diffusion in Real and Simulated Social Graphs: Structural Limits of LLM-Based Social Simulation,真实与模拟社交图谱中的情感扩散：基于大语言模型的社交模拟的结构限制,Qiqi Qiang,https://arxiv.org/pdf/2512.21138,"Subjects:
+Social and Information Networks (cs.SI)",Social and Information Networks (cs.SI)
+arXiv:2512.21137,Declarative distributed broadcast using three-valued modal logic and semitopologies,基于三值模态逻辑与半拓扑结构的声明式分布式广播,Murdoch J. Gabbay,https://arxiv.org/pdf/2512.21137,"Subjects:
+Logic in Computer Science (cs.LO); Distributed, Parallel, and Cluster Computing (cs.DC)","Logic in Computer Science (cs.LO),  Distributed, Parallel, and Cluster Computing (cs.DC)"
+arXiv:2512.21135,TGC-Net: A Structure-Aware and Semantically-Aligned Framework for Text-Guided Medical Image Segmentation,TGC-Net：一种结构感知与语义对齐的文本引导医学图像分割框架,"Gaoren Lin, Huangxuan Zhao, Yuan Xiong, Lefei Zhang, Bo Du, Wentao Zhu",https://arxiv.org/pdf/2512.21135,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)","Computer Vision and Pattern Recognition (cs.CV),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21133,SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation,SparScene：基于稀疏图学习的高效交通场景表示用于大规模轨迹生成,"Xiaoyu Mo, Jintian Ge, Zifan Wang, Chen Lv, Karl Henrik Johansson",https://arxiv.org/pdf/2512.21133,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.21132,AutoBaxBuilder: Bootstrapping Code Security Benchmarking,AutoBaxBuilder：代码安全基准测试的自举方法,"Tobias von Arx, Niels Mündler, Mark Vero, Maximilian Baader, Martin Vechev",https://arxiv.org/pdf/2512.21132,"Subjects:
+Cryptography and Security (cs.CR); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Programming Languages (cs.PL)","Cryptography and Security (cs.CR),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG),  Programming Languages (cs.PL)"
+arXiv:2512.21128,Approximation Schemes for Planar Graph Connectivity Problems,平面图连通性问题的近似算法,"Meike Neuwohner, Vera Traub, Rico Zenklusen",https://arxiv.org/pdf/2512.21128,"Subjects:
+Data Structures and Algorithms (cs.DS)",Data Structures and Algorithms (cs.DS)
+arXiv:2512.21127,A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care,英国国家医疗服务体系初级护理中大语言模型药物安全审查的真实世界评估,"Oliver Normand, Esther Borsi, Mitch Fruin, Lauren E Walker, Jamie Heagerty, Chris C. Holmes, Anthony J Avery, Iain E Buchan, Harry Coppock",https://arxiv.org/pdf/2512.21127,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.21126,MarineEval: Assessing the Marine Intelligence of Vision-Language Models,MarineEval：评估视觉-语言模型的海洋智能,"YuK-Kwan Wong, Tuan-An To, Jipeng Zhang, Ziqiang Zheng, Sai-Kit Yeung",https://arxiv.org/pdf/2512.21126,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Databases (cs.DB)","Computer Vision and Pattern Recognition (cs.CV),  Databases (cs.DB)"
+arXiv:2512.21120,ClarifyMT-Bench: Benchmarking and Improving Multi-Turn Clarification for Conversational Large Language Models,ClarifyMT-Bench：对话型大语言模型多轮澄清的基准测试与改进,"Sichun Luo, Yi Huang, Mukai Li, Shichang Meng, Fengyuan Liu, Zefa Hu, Junlan Feng, Qi Liu",https://arxiv.org/pdf/2512.21120,"Subjects:
+Computation and Language (cs.CL); Information Retrieval (cs.IR)","Computation and Language (cs.CL),  Information Retrieval (cs.IR)"
+arXiv:2512.21118,STLDM: Spatio-Temporal Latent Diffusion Model for Precipitation Nowcasting,STLDM：用于降水临近预报的时空潜在扩散模型,"Shi Quan Foo, Chi-Ho Wong, Zhihan Gao, Dit-Yan Yeung, Ka-Hing Wong, Wai-Kin Wong",https://arxiv.org/pdf/2512.21118,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Computer Vision and Pattern Recognition (cs.CV)"
+arXiv:2512.21116,Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching,Synecdoche：通过直接数据包序列模式匹配实现高效且准确的网络内流量分类,"Minyuan Xiao, Yunchun Li, Yuchen Zhao, Tong Guan, Mingyuan Xia, Wei Li",https://arxiv.org/pdf/2512.21116,"Subjects:
+Networking and Internet Architecture (cs.NI)",Networking and Internet Architecture (cs.NI)
+arXiv:2512.21113,A Mechanistic Analysis of Transformers for Dynamical Systems,动态系统的Transformer模型机制分析,"Gregory Duthé, Nikolaos Evangelou, Wei Liu, Ioannis G. Kevrekidis, Eleni Chatzi",https://arxiv.org/pdf/2512.21113,"Subjects:
+Machine Learning (cs.LG); Computational Engineering, Finance, and Science (cs.CE)","Machine Learning (cs.LG),  Computational Engineering, Finance, and Science (cs.CE)"
+arXiv:2512.21112,Coding-Logic Correspondence: Turning Information and Communication Networks into Logical Formulae via Hypergraph Heyting Algebra,编码-逻辑对应：通过超图希廷代数将信息与通信网络转化为逻辑公式,Cheuk Ting Li,https://arxiv.org/pdf/2512.21112,"Subjects:
+Information Theory (cs.IT); Logic (math.LO)","Information Theory (cs.IT),  Logic (math.LO)"
+arXiv:2512.21110,Beyond Context: Large Language Models Failure to Grasp Users Intent,超越上下文：大语言模型未能把握用户意图,"Ahmed M. Hussain, Salahuddin Salahuddin, Panos Papadimitratos",https://arxiv.org/pdf/2512.21110,"Subjects:
+Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Cryptography and Security (cs.CR); Computers and Society (cs.CY)","Artificial Intelligence (cs.AI),  Computation and Language (cs.CL),  Cryptography and Security (cs.CR),  Computers and Society (cs.CY)"
+arXiv:2512.21109,Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives,基于仿射空间导数网络的鲁棒高效MuJoCo模型预测控制,"Chen Liang, Daniel Rakita",https://arxiv.org/pdf/2512.21109,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.21107,Semi-Supervised Learning for Large Language Models Safety and Content Moderation,用于大语言模型安全性和内容审核的半监督学习,"Eduard Stefan Dinuta, Iustin Sirbu, Traian Rebedea",https://arxiv.org/pdf/2512.21107,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.21106,Semantic Refinement with LLMs for Graph Representations,基于大语言模型的图表示语义优化,"Safal Thapaliya, Zehong Wang, Jiazheng Li, Ziming Li, Yanfang Ye, Chuxu Zhang",https://arxiv.org/pdf/2512.21106,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.21105,Volatile Organic Compounds for Stress Detection: A Scoping Review and Exploratory Feasibility Study with Low-Cost Sensors,挥发性有机化合物在压力检测中的应用：低成本传感器的范围综述与可行性探索研究,"Nicolai Plintz, Marcus Vetter, Dirk Ifenthaler",https://arxiv.org/pdf/2512.21105,"Subjects:
+Human-Computer Interaction (cs.HC)",Human-Computer Interaction (cs.HC)
+arXiv:2512.21104,FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting,FreeInpaint：图像修复中的无调优提示对齐与视觉合理性增强,"Chao Gong, Dong Li, Yingwei Pan, Jingjing Chen, Ting Yao, Tao Mei",https://arxiv.org/pdf/2512.21104,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21102,Shared Representation Learning for High-Dimensional Multi-Task Forecasting under Resource Contention in Cloud-Native Backends,云原生后端资源竞争下的高维多任务预测共享表示学习,"Zixiao Huang, Jixiao Yang, Sijia Li, Chi Zhang, Jinyu Chen, Chengda Xu",https://arxiv.org/pdf/2512.21102,"Subjects:
+Machine Learning (cs.LG)",Machine Learning (cs.LG)
+arXiv:2512.21099,TexAvatars : Hybrid Texel-3D Representations for Stable Rigging of Photorealistic Gaussian Head Avatars,TexAvatars：用于逼真高斯头部化身稳定绑定的混合纹理-3D表示,"Jaeseong Lee, Junyeong Ahn, Taewoong Kang, Jaegul Choo",https://arxiv.org/pdf/2512.21099,"Subjects:
+Graphics (cs.GR); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)","Graphics (cs.GR),  Artificial Intelligence (cs.AI),  Computer Vision and Pattern Recognition (cs.CV)"
+arXiv:2512.21095,UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters,UniRec-0.1B：包含0.1B参数的统一文本与公式识别,"Yongkun Du, Zhineng Chen, Yazhen Xie, Weikang Baiand Hao Feng, Wei Shi, Yuchen Su, Can Huang, Yu-Gang Jiang",https://arxiv.org/pdf/2512.21095,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21094,T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation,T2AV-Compass：面向文本到音视频生成的统一评估方法,"Zhe Cao, Tao Wang, Jiaming Wang, Yanghai Wang, Yuanxing Zhang, Jialu Chen, Miao Deng, Jiahao Wang, Yubin Guo, Chenxi Liao, Yize Zhang, Zhaoxiang Zhang, Jiaheng Liu",https://arxiv.org/pdf/2512.21094,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21085,Global End-Effector Pose Control of an Underactuated Aerial Manipulator via Reinforcement Learning,基于强化学习的欠驱动空中机械臂末端执行器位姿全局控制,"Shlok Deshmukh, Javier Alonso-Mora, Sihao Sun",https://arxiv.org/pdf/2512.21085,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.21084,Verification of E-Voting Algorithms in Dafny,Dafny中的电子投票算法验证,"Robert Büttner, Fabian Franz Dießl, Patrick Janoschek, Ivana Kostadinovic, Henrik Oback, Kilian Voß, Franziska Alber, Roland Herrmann, Sibylle Möhle, Philipp Rümmer (University of Regensburg, Regensburg, Germany)",https://arxiv.org/pdf/2512.21084,"Subjects:
+Logic in Computer Science (cs.LO)",Logic in Computer Science (cs.LO)
+arXiv:2512.21083,Hierarchical Modeling Approach to Fast and Accurate Table Recognition,分层建模方法实现快速准确的表格识别,Takaya Kawakatsu,https://arxiv.org/pdf/2512.21083,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)","Computer Vision and Pattern Recognition (cs.CV),  Machine Learning (cs.LG)"
+arXiv:2512.21081,Dyna-Style Reinforcement Learning Modeling and Control of Non-linear Dynamics,动态风格强化学习对非线性动力系统的建模与控制,"Karim Abdelsalam, Zeyad Gamal, Ayman El-Badawy",https://arxiv.org/pdf/2512.21081,"Subjects:
+Systems and Control (eess.SY); Machine Learning (cs.LG)","Systems and Control (eess.SY),  Machine Learning (cs.LG)"
+arXiv:2512.21080,LLM Personas as a Substitute for Field Experiments in Method Benchmarking,作为领域实验替代方案的LLM角色基准测试方法,Enoch Hyunwook Kang,https://arxiv.org/pdf/2512.21080,"Subjects:
+Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Econometrics (econ.EM)","Artificial Intelligence (cs.AI),  Machine Learning (cs.LG),  Econometrics (econ.EM)"
+arXiv:2512.21078,UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer,UniPR-3D：基于视觉几何基础Transformer的通用视觉位置识别,"Tianchen Deng, Xun Chen, Ziming Li, Hongming Shen, Danwei Wang, Javier Civera, Hesheng Wang",https://arxiv.org/pdf/2512.21078,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21076,Blurb-Refined Inference from Crowdsourced Book Reviews using Hierarchical Genre Mining with Dual-Path Graph Convolutions,基于双路径图卷积分层类型挖掘的众包图书评论摘要优化推理,"Suraj Kumar, Utsav Kumar Nareti, Soumi Chattopadhyay, Chandranath Adak, Prolay Mallick",https://arxiv.org/pdf/2512.21076,"Subjects:
+Information Retrieval (cs.IR); Machine Learning (cs.LG); Multimedia (cs.MM)","Information Retrieval (cs.IR),  Machine Learning (cs.LG),  Multimedia (cs.MM)"
+arXiv:2512.21075,Understanding Scaling Laws in Deep Neural Networks via Feature Learning Dynamics,通过特征学习动态理解深度神经网络中的缩放定律,"Zihan Yao, Ruoyu Wu, Tianxiang Gao",https://arxiv.org/pdf/2512.21075,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Probability (math.PR); Machine Learning (stat.ML)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Probability (math.PR),  Machine Learning (stat.ML)"
+arXiv:2512.21066,Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation,代理式可解释人工智能（Agentic XAI）方法探索更优解释,"Tomoaki Yamaguchi, Yutong Zhou, Masahiro Ryo, Keisuke Katsura",https://arxiv.org/pdf/2512.21066,"Subjects:
+Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC)","Artificial Intelligence (cs.AI),  Human-Computer Interaction (cs.HC)"
+arXiv:2512.21065,Language-Guided Grasp Detection with Coarse-to-Fine Learning for Robotic Manipulation,基于语言引导的粗到精学习用于机器人抓取检测,"Zebin Jiang, Tianle Jin, Xiangtong Yao, Alois Knoll, Hu Cao",https://arxiv.org/pdf/2512.21065,"Subjects:
+Robotics (cs.RO); Computer Vision and Pattern Recognition (cs.CV)","Robotics (cs.RO),  Computer Vision and Pattern Recognition (cs.CV)"
+arXiv:2512.21064,Multimodal Skeleton-Based Action Representation Learning via Decomposition and Composition,通过分解与组合的多模态骨架动作表示学习,"Hongsong Wang, Heng Fei, Bingxuan Dai, Jie Gui",https://arxiv.org/pdf/2512.21064,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21063,LSTM-Based Modeling and Reinforcement Learning Control of a Magnetically Actuated Catheter,基于LSTM的建模与磁驱动导管的强化学习控制,"Arya Rashidinejad Meibodi, Mahbod Gholamali Sinaki, Khalil Alipour",https://arxiv.org/pdf/2512.21063,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.21058,Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control,超越像素模拟：通过诊断语义标记和原型控制的病理图像生成,"Minghao Han, YiChen Liu, Yizhou Liu, Zizhi Chen, Jingqun Tang, Xuecheng Wu, Dingkang Yang, Lihua Zhang",https://arxiv.org/pdf/2512.21058,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21055,Making AI Work: An Autoethnography of a Workaround in Higher Education,让AI发挥作用：高等教育中权宜之计的自动民族志研究,"Shang Chieh Lee, Bhuva Narayan, Simon Buckingham Shum, Stella Ng, A. Baki Kocaballi",https://arxiv.org/pdf/2512.21055,"Subjects:
+Computers and Society (cs.CY); Human-Computer Interaction (cs.HC)","Computers and Society (cs.CY),  Human-Computer Interaction (cs.HC)"
+arXiv:2512.21054,DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors,DexAvatar：基于手部和身体姿态先验的3D手语重建,"Kaustubh Kundu, Hrishav Bakul Barua, Lucy Robertson-Bell, Zhixi Cai, Kalin Stefanov",https://arxiv.org/pdf/2512.21054,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)","Computer Vision and Pattern Recognition (cs.CV),  Artificial Intelligence (cs.AI),  Human-Computer Interaction (cs.HC),  Machine Learning (cs.LG)"
+arXiv:2512.21053,Optical Flow-Guided 6DoF Object Pose Tracking with an Event Camera,基于事件相机的光流引导6自由度物体姿态跟踪,"Zibin Liu, Banglei Guan, Yang Shang, Shunkun Liang, Zhenbao Yu, Qifeng Yu",https://arxiv.org/pdf/2512.21053,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21050,Matrix Completion Via Reweighted Logarithmic Norm Minimization,基于加权对数范数最小化的矩阵补全,"Zhijie Wang, Liangtian He, Qinghua Zhang, Jifei Miao, Liang-Jian Deng, Jun Liu",https://arxiv.org/pdf/2512.21050,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21048,zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy,zkFL-Health：区块链支持的零知识联邦学习用于医疗AI隐私保护,"Savvy Sharma, George Petrovic, Sarthak Kaushik",https://arxiv.org/pdf/2512.21048,"Subjects:
+Cryptography and Security (cs.CR); Distributed, Parallel, and Cluster Computing (cs.DC); Machine Learning (cs.LG)","Cryptography and Security (cs.CR),  Distributed, Parallel, and Cluster Computing (cs.DC),  Machine Learning (cs.LG)"
+arXiv:2512.21043,Tracing Energy Flow: Learning Tactile-based Grasping Force Control to Prevent Slippage in Dynamic Object Interaction,追踪能量流动：学习基于触觉的抓取力控制以防止动态物体交互中的滑动,"Cheng-Yu Kuo, Hirofumi Shin, Takamitsu Matsubara",https://arxiv.org/pdf/2512.21043,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.21041,When LLMs fall short in Deductive Coding: Model Comparison and Human AI Collaboration Workflow Design,当大语言模型在演绎编码中表现不足：模型比较与人机协作工作流设计,"Zijian Li, Luzhen Tang, Mengyu Xia, Xinyu Li, Naping Chen, Dragan Gašević, Yizhou Fan",https://arxiv.org/pdf/2512.21041,"Subjects:
+Human-Computer Interaction (cs.HC)",Human-Computer Interaction (cs.HC)
+arXiv:2512.21040,A Large-Depth-Range Layer-Based Hologram Dataset for Machine Learning-Based 3D Computer-Generated Holography,用于机器学习驱动3D计算机生成全息图的大深度范围分层全息图数据集,"Jaehong Lee, You Chan No, YoungWoo Kim, Duksu Kim",https://arxiv.org/pdf/2512.21040,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Optics (physics.optics)","Computer Vision and Pattern Recognition (cs.CV),  Optics (physics.optics)"
+arXiv:2512.21039,Agentic Multi-Persona Framework for Evidence-Aware Fake News Detection,面向证据感知的虚假新闻检测的代理多角色框架,"Roopa Bukke, Soumya Pandey, Suraj Kumar, Soumi Chattopadhyay, Chandranath Adak",https://arxiv.org/pdf/2512.21039,"Subjects:
+Information Retrieval (cs.IR); Machine Learning (cs.LG)","Information Retrieval (cs.IR),  Machine Learning (cs.LG)"
+arXiv:2512.21038,Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising,下一尺度预测：真实世界图像去噪的自监督方法,"Yiwen Shan, Haiyu Zhao, Peng Hu, Xi Peng, Yuanbiao Gou",https://arxiv.org/pdf/2512.21038,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21034,A Design Study Process Model for Medical Visualization,医疗可视化的设计研究过程模型,"Mengjie Fan, Liang Zhou",https://arxiv.org/pdf/2512.21034,"Subjects:
+Human-Computer Interaction (cs.HC); Graphics (cs.GR)","Human-Computer Interaction (cs.HC),  Graphics (cs.GR)"
+arXiv:2512.21032,Multi-Attribute guided Thermal Face Image Translation based on Latent Diffusion Model,基于潜在扩散模型的多属性引导热成像人脸图像转换,"Mingshu Cai, Osamu Yoshie, Yuya Ieiri",https://arxiv.org/pdf/2512.21032,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21030,Partitioned robustness analysis of networks with uncertain links,具有不确定链接的网络的分区鲁棒性分析,"Simone Mariano, Chung-Yao Kao, Michael Cantoni",https://arxiv.org/pdf/2512.21030,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.21028,Artificial or Just Artful? Do LLMs Bend the Rules in Programming?,人工还是艺术？大语言模型在编程中是否违背规则？,"Oussama Ben Sghaier, Kevin Delcourt, Houari Sahraoui",https://arxiv.org/pdf/2512.21028,"Subjects:
+Software Engineering (cs.SE)",Software Engineering (cs.SE)
+arXiv:2512.21024,Policy-Conditioned Policies for Multi-Agent Task Solving,基于策略条件的多智能体任务求解策略,"Yue Lin, Shuhui Zhu, Wenhao Li, Ang Li, Dan Qiao, Pascal Poupart, Hongyuan Zha, Baoxiang Wang",https://arxiv.org/pdf/2512.21024,"Subjects:
+Computer Science and Game Theory (cs.GT); Artificial Intelligence (cs.AI)","Computer Science and Game Theory (cs.GT),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21021,Towards Better Search with Domain-Aware Text Embeddings for C2C Marketplaces,面向C2C市场的领域感知文本嵌入以实现更优搜索,"Andre Rusli, Miao Cao, Shoma Ishimoto, Sho Akiyama, Max Frenzel",https://arxiv.org/pdf/2512.21021,"Subjects:
+Information Retrieval (cs.IR); Machine Learning (cs.LG)","Information Retrieval (cs.IR),  Machine Learning (cs.LG)"
+arXiv:2512.21019,Efficient and Robust Video Defense Framework against 3D-field Personalized Talking Face,针对3D场个性化说话人脸的高效且鲁棒的视频防御框架,"Rui-qing Sun, Xingshan Yao, Tian Lan, Hui-Yang Zhao, Jia-Ling Shi, Chen-Hao Cui, Zhijing Wu, Chen Yang, Xian-Ling Mao",https://arxiv.org/pdf/2512.21019,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21017,Rethinking Supervised Fine-Tuning: Emphasizing Key Answer Tokens for Improved LLM Accuracy,重新思考监督微调：强调关键答案标记以提高大语言模型准确性,"Xiaofeng Shi, Qian Kou, Yuduo Li, Hua Zhou",https://arxiv.org/pdf/2512.21017,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21015,FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing,FluencyVE：结合时序感知Mamba与旁路注意力的视频编辑,"Mingshu Cai, Yixuan Li, Osamu Yoshie, Yuya Ieiri",https://arxiv.org/pdf/2512.21015,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21011,Granular-ball Guided Masking: Structure-aware Data Augmentation,粒球引导掩码：结构感知的数据增强,"Shuyin Xia, Fan Chen, Dawei Dai, Meng Yang, Junwei Han, Xinbo Gao, Guoyin Wang",https://arxiv.org/pdf/2512.21011,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21010,LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics,LLM瑞士轮：通过竞争性瑞士系统动力学聚合多基准性能,"Jiashuo Liu, Jiayun Wu, Chunjie Wu, Jingkai Liu, Zaiyuan Wang, Huan Zhou, Wenhao Huang, Hongseok Namkoong",https://arxiv.org/pdf/2512.21010,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Performance (cs.PF)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Performance (cs.PF)"
+arXiv:2512.21009,ESCHER: Efficient and Scalable Hypergraph Evolution Representation with Application to Triad Counting,ESCHER：高效可扩展的超图演化表示及其在三元组计数中的应用,"S. M. Shovan, Arindam Khanda, Sanjukta Bhowmick, Sajal K. Das",https://arxiv.org/pdf/2512.21009,"Subjects:
+Distributed, Parallel, and Cluster Computing (cs.DC); Data Structures and Algorithms (cs.DS)","Distributed, Parallel, and Cluster Computing (cs.DC),  Data Structures and Algorithms (cs.DS)"
+arXiv:2512.21008,GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs,GateBreaker：针对专家混合大语言模型的门控引导攻击,"Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Stjepan Picek, Ahmad-Reza Sadeghi",https://arxiv.org/pdf/2512.21008,"Subjects:
+Cryptography and Security (cs.CR)",Cryptography and Security (cs.CR)
+arXiv:2512.21004,Learning from Next-Frame Prediction: Autoregressive Video Modeling Encodes Effective Representations,从下一帧预测中学习：自回归视频建模编码有效表示,"Jinghan Li, Yang Jin, Hao Jiang, Yadong Mu, Yang Song, Kun Xu",https://arxiv.org/pdf/2512.21004,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21003,MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds,MVInverse：秒级前馈多视角逆向渲染,"Xiangzuo Wu, Chengwei Ren, Jun Zhou, Xiu Li, Yuan Liu",https://arxiv.org/pdf/2512.21003,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.21002,Distilling the Essence: Efficient Reasoning Distillation via Sequence Truncation,提炼本质：通过序列截断实现高效推理蒸馏,"Wei-Rui Chen, Vignesh Kothapalli, Ata Fatahibaarzi, Hejian Sang, Shao Tang, Qingquan Song, Zhipeng Wang, Muhammad Abdul-Mageed",https://arxiv.org/pdf/2512.21002,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21000,CoSeNet: A Novel Approach for Optimal Segmentation of Correlation Matrices,CoSeNet：相关矩阵最优分割的新方法,"Alberto. Palomo-Alonso, David Casillas-Perez, Silvia Jimenez-Fernandez, Antonio Portilla-Figueras, Sancho Salcedo-Sanz",https://arxiv.org/pdf/2512.21000,"Subjects:
+Machine Learning (cs.LG)",Machine Learning (cs.LG)
+arXiv:2512.20997,LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT,基于LLM的代理AI在工业物联网中的感知服务质量网络切片管理,"Xudong Wang, Lei Feng, Ruichen Zhang, Fanqin Zhou, Hongyang Du, Wenjing Li, Dusit Niyato, Abbas Jamalipour, Ping Zhang",https://arxiv.org/pdf/2512.20997,"Subjects:
+Networking and Internet Architecture (cs.NI)",Networking and Internet Architecture (cs.NI)
+arXiv:2512.20996,TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control,TrafficSimAgent：具有MCP控制的自主交通模拟分层代理框架,"Yuwei Du, Jun Zhang, Jie Feng, Zhicheng Liu, Jian Yuan, Yong Li",https://arxiv.org/pdf/2512.20996,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20992,Multimodal Sensing for Robot-Assisted Sub-Tissue Feature Detection in Physiotherapy Palpation,多模态感知在理疗触诊机器人辅助亚组织特征检测中的应用,"Tian-Ao Ren, Jorge Garcia, Seongheon Hong, Jared Grinberg, Hojung Choi, Julia Di, Hao Li, Dmitry Grinberg, Mark R. Cutkosky",https://arxiv.org/pdf/2512.20992,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.20991,FinAgent: An Agentic AI Framework Integrating Personal Finance and Nutrition Planning,FinAgent：整合个人财务与营养规划的代理AI框架,"Toqeer Ali Syed, Abdulaziz Alshahrani, Ali Ullah, Ali Akarma, Sohail Khan, Muhammad Nauman, Salman Jan",https://arxiv.org/pdf/2512.20991,"Subjects:
+Artificial Intelligence (cs.AI); Multiagent Systems (cs.MA)","Artificial Intelligence (cs.AI),  Multiagent Systems (cs.MA)"
+arXiv:2512.20990,Mental Health Self-Disclosure on Social Media throughout the Pandemic Period,疫情期间社交媒体上的心理健康自我披露,"Dino Husnic, Stefan Cobeli, Shweta Yadav",https://arxiv.org/pdf/2512.20990,"Subjects:
+Social and Information Networks (cs.SI)",Social and Information Networks (cs.SI)
+arXiv:2512.20988,PUFM++: Point Cloud Upsampling via Enhanced Flow Matching,PUFM++：通过增强流匹配的点云上采样,"Zhi-Song Liu, Chenhang He, Roland Maier, Andreas Rupp",https://arxiv.org/pdf/2512.20988,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20986,AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs,AegisAgent：针对LLM-HARs中提示注入攻击的自主防御代理,"Yihan Wang, Huanqi Yang, Shantanu Pal, Weitao Xu",https://arxiv.org/pdf/2512.20986,"Subjects:
+Cryptography and Security (cs.CR)",Cryptography and Security (cs.CR)
+arXiv:2512.20985,A Blockchain-Monitored Agentic AI Architecture for Trusted Perception-Reasoning-Action Pipelines,一种基于区块链监控的智能体AI架构，用于可信的感知-推理-行动流水线,"Salman Jan, Hassan Ali Razzaqi, Ali Akarma, Mohammad Riyaz Belgaum",https://arxiv.org/pdf/2512.20985,"Subjects:
+Artificial Intelligence (cs.AI); Multiagent Systems (cs.MA)","Artificial Intelligence (cs.AI),  Multiagent Systems (cs.MA)"
+arXiv:2512.20984,Knowledge-Driven 3D Semantic Spectrum Map: KE-VQ-Transformer Based UAV Semantic Communication and Map Completion,知识驱动的三维语义频谱图：基于KE-VQ-Transformer的无人机语义通信与地图补全,"Wei Wu, Lingyi Wang, Fuhui Zhou, Zhaohui Yang, Qihui Wu",https://arxiv.org/pdf/2512.20984,"Subjects:
+Information Theory (cs.IT); Signal Processing (eess.SP)","Information Theory (cs.IT),  Signal Processing (eess.SP)"
+arXiv:2512.20983,Automatic Replication of LLM Mistakes in Medical Conversations,医疗对话中大语言模型错误的自动复制,"Oleksii Proniakin, Diego Fajardo, Ruslan Nazarenko, Razvan Marinescu",https://arxiv.org/pdf/2512.20983,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.20980,X-ray Insights Unleashed: Pioneering the Enhancement of Multi-Label Long-Tail Data,X射线洞察力的释放：多标签长尾数据增强的开创性研究,"Xinquan Yang, Jinheng Xie, Yawen Huang, Yuexiang Li, Huimin Huang, Hao Zheng, Xian Wu, Yefeng Zheng, Linlin Shen",https://arxiv.org/pdf/2512.20980,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20976,XGrid-Mapping: Explicit Implicit Hybrid Grid Submaps for Efficient Incremental Neural LiDAR Mapping,XGrid-映射：显式隐式混合网格子图的高效增量神经激光雷达建图,"Zeqing Song, Zhongmiao Yan, Junyuan Deng, Songpengcheng Xia, Xiang Mu, Jingyi Xu, Qi Wu, Ling Pei",https://arxiv.org/pdf/2512.20976,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20975,SPOT!: Map-Guided LLM Agent for Unsupervised Multi-CCTV Dynamic Object Tracking,SPOT!：基于地图引导的大语言模型代理用于无监督多摄像头动态目标跟踪,"Yujin Noh, Inho Jake Park, Chigon Hwang",https://arxiv.org/pdf/2512.20975,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20974,Generalised Linear Models in Deep Bayesian RL with Learnable Basis Functions,具有可学习基函数的深度贝叶斯强化学习中的广义线性模型,"Jingyang You, Hanna Kurniawati",https://arxiv.org/pdf/2512.20974,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Robotics (cs.RO)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Robotics (cs.RO)"
+arXiv:2512.20973,DAO-Agent: Zero Knowledge-Verified Incentives for Decentralized Multi-Agent Coordination,DAO-代理：零知识验证的去中心化多智能体协调激励机制,"Yihan Xia, Taotao Wang, Wenxin Xu, Shengli Zhang",https://arxiv.org/pdf/2512.20973,"Subjects:
+Multiagent Systems (cs.MA)",Multiagent Systems (cs.MA)
+arXiv:2512.20970,Universal Transient Stability Analysis: A Large Language Model-Enabled Dynamics Prediction Framework,通用暂态稳定性分析：基于大语言模型的动力学预测框架,"Chao Shen, Ke Zuo, Mingyang Sun",https://arxiv.org/pdf/2512.20970,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.20968,Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality,网格注意力：一种新的通信高效分布式注意力机制，具有改进的数据局部性,"Sirui Chen, Jingji Chen, Siqi Zhu, Ziheng Jiang, Yanghua Peng, Xuehai Qian",https://arxiv.org/pdf/2512.20968,"Subjects:
+Distributed, Parallel, and Cluster Computing (cs.DC); Artificial Intelligence (cs.AI)","Distributed, Parallel, and Cluster Computing (cs.DC),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20967,Deadline-Aware Online Scheduling for LLM Fine-Tuning with Spot Market Predictions,基于现货市场预测的大语言模型微调截止时间感知在线调度,"Linggao Kong, Yuedong Xu, Lei Jiao, Chuan Xu",https://arxiv.org/pdf/2512.20967,"Subjects:
+Distributed, Parallel, and Cluster Computing (cs.DC); Machine Learning (cs.LG)","Distributed, Parallel, and Cluster Computing (cs.DC),  Machine Learning (cs.LG)"
+arXiv:2512.20966,Decentralized water-level balancing for irrigation channels in storage critical operations,存储关键操作中灌溉渠道的去中心化水位平衡,"Timm Strecker, Michael Cantoni",https://arxiv.org/pdf/2512.20966,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.20964,Neutralization of IMU-Based GPS Spoofing Detection using external IMU sensor and feedback methodology,使用外部IMU传感器和反馈方法中和基于IMU的GPS欺骗检测,"Ji Hyuk Jung, Ji Won Yoon",https://arxiv.org/pdf/2512.20964,"Subjects:
+Cryptography and Security (cs.CR)",Cryptography and Security (cs.CR)
+arXiv:2512.20963,Generalization of Diffusion Models Arises with a Balanced Representation Space,扩散模型的泛化能力源于平衡的表示空间,"Zekai Zhang, Xiao Li, Xiang Li, Lianghe Shi, Meng Wu, Molei Tao, Qing Qu",https://arxiv.org/pdf/2512.20963,"Subjects:
+Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV)","Machine Learning (cs.LG),  Computer Vision and Pattern Recognition (cs.CV)"
+arXiv:2512.20962,Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems,时间分桶平衡记录：资源受限系统的有界存储临时令牌,"Shaun Scovil, Bhargav Chickmagalur Nanjundappa",https://arxiv.org/pdf/2512.20962,"Subjects:
+Data Structures and Algorithms (cs.DS)",Data Structures and Algorithms (cs.DS)
+arXiv:2512.20960,Fairness in the k-Server Problem,k-服务器问题中的公平性,"Mohammadreza Daneshvaramoli, Helia Karisani, Mohammad Hajiesmaili, Shahin Kamali, Cameron Musco",https://arxiv.org/pdf/2512.20960,"Subjects:
+Data Structures and Algorithms (cs.DS); Discrete Mathematics (cs.DM)","Data Structures and Algorithms (cs.DS),  Discrete Mathematics (cs.DM)"
+arXiv:2512.20959,Can Agentic AI Match the Performance of Human Data Scientists?,智能体AI能否匹配人类数据科学家的性能？,"An Luo, Jin Du, Fangqiao Tian, Xun Xian, Robert Specht, Ganghua Wang, Xuan Bi, Charles Fleming, Jayanth Srinivasa, Ashish Kundu, Mingyi Hong, Jie Ding",https://arxiv.org/pdf/2512.20959,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Methodology (stat.ME)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Methodology (stat.ME)"
+arXiv:2512.20958,ReACT-Drug: Reaction-Template Guided Reinforcement Learning for de novo Drug Design,ReACT-Drug：基于反应模板引导的强化学习用于从头药物设计,"R Yadunandan, Nimisha Ghosh",https://arxiv.org/pdf/2512.20958,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20957,One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents,一个工具就足够：用于仓库级大语言模型代理的强化学习,"Zhaoxi Zhang, Yitong Duan, Yanzhi Zhang, Yiming Xu, Jiyan He, Yunfang Wu",https://arxiv.org/pdf/2512.20957,"Subjects:
+Software Engineering (cs.SE); Artificial Intelligence (cs.AI)","Software Engineering (cs.SE),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20956,Solving Functional PDEs with Gaussian Processes and Applications to Functional Renormalization Group Equations,用高斯过程求解函数型偏微分方程及其在函数重整化群方程中的应用,"Xianjin Yang, Matthieu Darcy, Matthew Hudes, Francis J. Alexander, Gregory Eyink, Houman Owhadi",https://arxiv.org/pdf/2512.20956,"Subjects:
+Machine Learning (cs.LG)",Machine Learning (cs.LG)
+arXiv:2512.20954,Reflection Pretraining Enables Token-Level Self-Correction in Biological Sequence Models,反射预训练在生物序列模型中实现令牌级自我校正,"Xiang Zhang, Jiaqi Wei, Yuejin Yang, Zijie Qiu, Yuhan Chen, Zhiqiang Gao, Muhammad Abdul-Mageed, Laks V. S. Lakshmanan, Wanli Ouyang, Chenyu You, Siqi Sun",https://arxiv.org/pdf/2512.20954,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20953,Diving into 3D Parallelism with Heterogeneous Spot Instance GPUs: Design and Implications,异构竞价实例GPU的三维并行性探索：设计与影响,"Yuxiao Wang, Yuedong Xu, Qingyang Duan, Yuxuan Liu, Lei Jiao, Yinghao Yu, Jun Wu",https://arxiv.org/pdf/2512.20953,"Subjects:
+Distributed, Parallel, and Cluster Computing (cs.DC); Networking and Internet Architecture (cs.NI)","Distributed, Parallel, and Cluster Computing (cs.DC),  Networking and Internet Architecture (cs.NI)"
+arXiv:2512.20951,From Human Bias to Robot Choice: How Occupational Contexts and Racial Priming Shape Robot Selection,从人类偏见到机器人选择：职业背景与种族启动如何塑造机器人选择,"Jiangen He, Wanqi Zhang, Jessica Barfield",https://arxiv.org/pdf/2512.20951,"Subjects:
+Robotics (cs.RO); Human-Computer Interaction (cs.HC)","Robotics (cs.RO),  Human-Computer Interaction (cs.HC)"
+arXiv:2512.20950,MultiMind at SemEval-2025 Task 7: Crosslingual Fact-Checked Claim Retrieval via Multi-Source Alignment,MultiMind在SemEval-2025任务7中的跨语言事实核查声明检索：基于多源对齐,"Mohammad Mahdi Abootorabi, Alireza Ghahramani Kure, Mohammadali Mohammadkhani, Sina Elahimanesh, Mohammad Ali Ali Panah",https://arxiv.org/pdf/2512.20950,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Information Retrieval (cs.IR); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI),  Information Retrieval (cs.IR),  Machine Learning (cs.LG)"
+arXiv:2512.20949,Neural Probe-Based Hallucination Detection for Large Language Models,基于神经探测的大语言模型幻觉检测,"Shize Liang, Hongzhi Wang",https://arxiv.org/pdf/2512.20949,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20948,"Foundation Model-based Evaluation of Neuropsychiatric Disorders: A Lifespan-Inclusive, Multi-Modal, and Multi-Lingual Study",基于基础模型的神经精神疾病评估：一项涵盖全生命周期的多模态多语言研究,"Zhongren Dong, Haotian Guo, Weixiang Xu, Huan Zhao, Zixing Zhang",https://arxiv.org/pdf/2512.20948,"Subjects:
+Computation and Language (cs.CL); Sound (cs.SD)","Computation and Language (cs.CL),  Sound (cs.SD)"
+arXiv:2512.20946,SLIDE: Simultaneous Model Downloading and Inference at the Wireless Network Edge,SLIDE：在无线网络边缘实现模型下载与推理同步,"Guanqiao Qu, Tao Li, Qian Chen, Xianhao Chen, Sheng Zhou",https://arxiv.org/pdf/2512.20946,"Subjects:
+Networking and Internet Architecture (cs.NI)",Networking and Internet Architecture (cs.NI)
+arXiv:2512.20944,SACodec: Asymmetric Quantization with Semantic Anchoring for Low-Bitrate High-Fidelity Neural Speech Codecs,SACodec：基于语义锚定的非对称量化低比特率高保真神经语音编解码器,"Zhongren Dong, Bin Wang, Jing Han, Haotian Guo, Xiaojun Mo, Yimin Cao, Zixing Zhang",https://arxiv.org/pdf/2512.20944,"Subjects:
+Sound (cs.SD)",Sound (cs.SD)
+arXiv:2512.20943,AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences,AirGS：用于自由视角视频体验的实时四维高斯流,"Zhe Wang, Jinghang Li, Yifei Zhu",https://arxiv.org/pdf/2512.20943,"Subjects:
+Graphics (cs.GR); Distributed, Parallel, and Cluster Computing (cs.DC); Machine Learning (cs.LG); Multimedia (cs.MM); Networking and Internet Architecture (cs.NI); Image and Video Processing (eess.IV)","Graphics (cs.GR),  Distributed, Parallel, and Cluster Computing (cs.DC),  Machine Learning (cs.LG),  Multimedia (cs.MM),  Networking and Internet Architecture (cs.NI),  Image and Video Processing (eess.IV)"
+arXiv:2512.20941,A Multi-fidelity Double-Delta Wing Dataset and Empirical Scaling Laws for GNN-based Aerodynamic Field Surrogate,多保真度双三角翼数据集及基于GNN的气动场代理经验缩放定律,"Yiren Shen, Juan J. Alonso",https://arxiv.org/pdf/2512.20941,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Fluid Dynamics (physics.flu-dyn)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Fluid Dynamics (physics.flu-dyn)"
+arXiv:2512.20940,ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments,ETP-R1：通过强化微调实现连续环境中的视觉语言导航拓扑规划,"Shuhao Ye, Sitong Mao, Yuxiang Cui, Xuan Yu, Shichao Zhai, Wen Chen, Shunbo Zhou, Rong Xiong, Yue Wang",https://arxiv.org/pdf/2512.20940,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.20939,Stochastic well-structured transition systems,随机结构化转移系统,James Aspnes,https://arxiv.org/pdf/2512.20939,"Subjects:
+Distributed, Parallel, and Cluster Computing (cs.DC); Computational Complexity (cs.CC)","Distributed, Parallel, and Cluster Computing (cs.DC),  Computational Complexity (cs.CC)"
+arXiv:2512.20938,Pioneering Multimodal Emotion Recognition in the Era of Large Models: From Closed Sets to Open Vocabularies,大模型时代多模态情感识别的开拓：从封闭集到开放词汇表,"Jing Han, Zhiqiang Gao, Shihao Gao, Jialing Liu, Hongyu Chen, Zixing Zhang, Björn W. Schuller",https://arxiv.org/pdf/2512.20938,"Subjects:
+Human-Computer Interaction (cs.HC)",Human-Computer Interaction (cs.HC)
+arXiv:2512.20937,Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection,超越人工制品：面向可靠AI生成图像检测的现实中心包络建模,"Ruiqi Liu, Yi Han, Zhengbo Zhang, Liwei Yao, Zhiyuan Yan, Jialiang Shen, ZhiJin Chen, Boyi Sun, Lubin Weng, Jing Dong, Yan Wang, Shu Wu",https://arxiv.org/pdf/2512.20937,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20936,Reasoning-Driven Amodal Completion: Collaborative Agents and Perceptual Evaluation,推理驱动的非模态补全：协作代理与感知评估,"Hongxing Fan, Shuyu Zhao, Jiayang Ao, Lu Sheng",https://arxiv.org/pdf/2512.20936,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20934,Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning,归纳式视觉编程：从经验演化工具库进行空间推理,"Shengguang Wu, Xiaohan Wang, Yuhui Zhang, Hao Zhu, Serena Yeung-Levy",https://arxiv.org/pdf/2512.20934,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Multiagent Systems (cs.MA)","Computer Vision and Pattern Recognition (cs.CV),  Artificial Intelligence (cs.AI),  Computation and Language (cs.CL),  Multiagent Systems (cs.MA)"
+arXiv:2512.20932,Guardrailed Elasticity Pricing: A Churn-Aware Forecasting Playbook for Subscription Strategy,有轨弹性定价：面向订阅策略的流失感知预测手册,Deepit Sapru,https://arxiv.org/pdf/2512.20932,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20931,Certifiable Alignment of GNSS and Local Frames via Lagrangian Duality,通过拉格朗日对偶性实现GNSS与局部坐标系的可验证对齐,"Baoshan Song, Matthew Giamou, Penggao Yan, Chunxi Xia, Li-Ta Hsu",https://arxiv.org/pdf/2512.20931,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.20927,Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting,分位数渲染：在三维高斯泼溅中高效嵌入高维特征,"Yoonwoo Jeong, Cheng Sun, Frank Wang, Minsu Cho, Jaesung Choe",https://arxiv.org/pdf/2512.20927,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20926,"Uncovering Hierarchical Structure in LLM Embeddings with $δ$-Hyperbolicity, Ultrametricity, and Neighbor Joining",通过δ-双曲性、超度量性和邻接连接揭示LLM嵌入中的层次结构,"Prakash Chourasia, Sarwan Ali, Murray Patterson",https://arxiv.org/pdf/2512.20926,"Subjects:
+Computational Geometry (cs.CG)",Computational Geometry (cs.CG)
+arXiv:2512.20921,Self-supervised Multiplex Consensus Mamba for General Image Fusion,自监督多路共识Mamba用于通用图像融合,"Yingying Wang, Rongjin Zhuang, Hui Zheng, Xuanhua He, Ke Cao, Xiaotong Tu, Xinghao Ding",https://arxiv.org/pdf/2512.20921,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20920,RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks,RevFFN：基于可逆模块的混合专家大语言模型内存高效全参数微调,"Ningyuan Liu, Jing Yang, Kaitong Cai, Keze Wang",https://arxiv.org/pdf/2512.20920,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20916,MMSRARec: Summarization and Retrieval Augumented Sequential Recommendation Based on Multimodal Large Language Model,MMSRARec：基于多模态大语言模型的摘要与检索增强序列推荐,"Haoyu Wang, Yitong Wang, Jining Wang",https://arxiv.org/pdf/2512.20916,"Subjects:
+Information Retrieval (cs.IR); Multimedia (cs.MM)","Information Retrieval (cs.IR),  Multimedia (cs.MM)"
+arXiv:2512.20915,Towards a General Framework for Predicting and Explaining the Hardness of Graph-based Combinatorial Optimization Problems using Machine Learning and Association Rule Mining,基于机器学习与关联规则挖掘的图基组合优化问题难度预测与解释通用框架,"Bharat Sharman, Elkafi Hassini",https://arxiv.org/pdf/2512.20915,"Subjects:
+Machine Learning (cs.LG); Combinatorics (math.CO)","Machine Learning (cs.LG),  Combinatorics (math.CO)"
+arXiv:2512.20908,Where Did This Sentence Come From? Tracing Provenance in LLM Reasoning Distillation,这句话来自哪里？大语言模型推理蒸馏溯源研究,"Kaiyuan Liu, Shaotian Yan, Rui Miao, Bing Wang, Chen Shen, Jun Zhang, Jieping Ye",https://arxiv.org/pdf/2512.20908,"Subjects:
+Computation and Language (cs.CL)",Computation and Language (cs.CL)
+arXiv:2512.20907,PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding,PanoGrounder：通过全景场景表示连接二维与三维的基于视觉语言模型三维视觉定位,"Seongmin Jung, Seongho Choi, Gunwoo Jeon, Minsu Cho, Jongwoo Lim",https://arxiv.org/pdf/2512.20907,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20905,DiEC: Diffusion Embedded Clustering,扩散嵌入聚类（DiEC）,Haidong Hu,https://arxiv.org/pdf/2512.20905,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20904,Efficient Computation of Integer-constrained Cones for Conformal Parameterizations,保形参数化中整数约束锥的高效计算,"Wei Du, Qing Fang, Ligang Liu, Xiao-Ming Fu",https://arxiv.org/pdf/2512.20904,"Subjects:
+Graphics (cs.GR)",Graphics (cs.GR)
+arXiv:2512.20902,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction,具身人工智能增强的物联网医疗边缘计算：无人机轨迹优化与任务卸载及移动性预测,"Siqi Mu, Shuo Wen, Yang Lu, Ruihong Jiang, Bo Ai",https://arxiv.org/pdf/2512.20902,"Subjects:
+Networking and Internet Architecture (cs.NI); Artificial Intelligence (cs.AI)","Networking and Internet Architecture (cs.NI),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20901,Benchmarking and Enhancing VLM for Compressed Image Understanding,压缩图像理解的视觉语言模型基准测试与增强,"Zifu Zhang, Tongda Xu, Siqi Li, Shengxi Li, Yue Zhang, Mai Xu, Yan Wang",https://arxiv.org/pdf/2512.20901,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20900,When Experts Speak:Sequential LLM-Bayesian Learning for Startup Success Prediction,专家意见分析：序列大语言模型-贝叶斯学习用于初创企业成功预测,"Yidong Chai, Yanguang Liu, Xuan Tian, Jiaheng Xie, Yonghang Zhou",https://arxiv.org/pdf/2512.20900,"Subjects:
+Computational Engineering, Finance, and Science (cs.CE)","Computational Engineering, Finance, and Science (cs.CE)"
+arXiv:2512.20898,DGSAN: Dual-Graph Spatiotemporal Attention Network for Pulmonary Nodule Malignancy Prediction,DGSAN：双图时空注意力网络用于肺结节恶性预测,"Xiao Yu, Zhaojie Fang, Guanyu Zhou, Yin Shen, Huoling Luo, Ye Li, Ahmed Elazab, Xiang Wan, Ruiquan Ge, Changmiao Wang",https://arxiv.org/pdf/2512.20898,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)","Computer Vision and Pattern Recognition (cs.CV),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20896,Accurate and Diverse Recommendations via Propensity-Weighted Linear Autoencoders,基于倾向加权线性自编码器的准确且多样推荐,"Kazuma Onishi, Katsuhiko Hayashi, Hidetaka Kamigaito",https://arxiv.org/pdf/2512.20896,"Subjects:
+Information Retrieval (cs.IR)",Information Retrieval (cs.IR)
+arXiv:2512.20893,Time-Efficient Evaluation and Enhancement of Adversarial Robustness in Deep Neural Networks,深度神经网络对抗鲁棒性的高效评估与增强,Runqi Lin,https://arxiv.org/pdf/2512.20893,"Subjects:
+Machine Learning (cs.LG)",Machine Learning (cs.LG)
+arXiv:2512.20892,Beyond Weight Adaptation: Feature-Space Domain Injection for Cross-Modal Ship Re-Identification,超越权重适应：特征空间域注入用于跨模态船舶重识别,"Tingfeng Xian, Wenlve Zhou, Zhiheng Zhou, Zhelin Li",https://arxiv.org/pdf/2512.20892,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20888,Stretchable and High-Precision Optical Tactile Sensor for Trajectory Tracking of Parallel Mechanisms,可拉伸高精度光学触觉传感器用于并联机构轨迹跟踪,"Yiding Nie, Dongliang Fan, Jiatai Huang, Chunyu Liu, Jian S. Dai",https://arxiv.org/pdf/2512.20888,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.20885,From GNNs to Symbolic Surrogates via Kolmogorov-Arnold Networks for Delay Prediction,从图神经网络到符号替代模型：基于Kolmogorov-Arnold网络的延迟预测,"Sami Marouani, Kamal Singh, Baptiste Jeudy, Amaury Habrard",https://arxiv.org/pdf/2512.20885,"Subjects:
+Machine Learning (cs.LG); Networking and Internet Architecture (cs.NI)","Machine Learning (cs.LG),  Networking and Internet Architecture (cs.NI)"
+arXiv:2512.20884,The Silent Scholar Problem: A Probabilistic Framework for Breaking Epistemic Asymmetry in LLM Agents,沉默学者问题：打破大语言模型代理认知不对称的概率框架,"Zan-Kai Chong, Hiroyuki Ohsaki, Bryan Ng",https://arxiv.org/pdf/2512.20884,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20883,Uplink RSMA Performance Analysis with Rate Adaptation: A Stochastic Geometry Approach,基于速率自适应的上行链路RSMA性能分析：随机几何方法,"Xinyi Guo, Li You, Qiong Liu, Xiqi Gao, Xiang-Gen Xia",https://arxiv.org/pdf/2512.20883,"Subjects:
+Information Theory (cs.IT)",Information Theory (cs.IT)
+arXiv:2512.20880,Accelerating Underground Pumped Hydro Energy Storage Scheduling with Decision-Focused Learning,基于决策聚焦学习的地下抽水蓄能调度加速,"Honghui Zheng, Pietro Favaro, Yury Dvorkin, Ján Drgoňa",https://arxiv.org/pdf/2512.20880,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.20877,Architectural Trade-offs in Small Language Models Under Compute Constraints,计算资源受限下小型语言模型的架构权衡,Shivraj Singh Bhatti,https://arxiv.org/pdf/2512.20877,"Subjects:
+Computation and Language (cs.CL); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Machine Learning (cs.LG)"
+arXiv:2512.20876,Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task,本体感觉增强视觉语言模型在机器人任务中的描述生成与子任务分割,"Kanata Suzuki, Shota Shimizu, Tetsuya Ogata",https://arxiv.org/pdf/2512.20876,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.20873,Systemization of Knowledge: Resilience and Fault Tolerance in Cyber-Physical Systems,知识系统化：网络物理系统的弹性与容错性,Rahul Bulusu,https://arxiv.org/pdf/2512.20873,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.20872,Better Call Graphs: A New Dataset of Function Call Graphs for Malware Classification,更优的调用图数据集：面向恶意软件分类的函数调用图新数据集,"Jakir Hossain, Gurvinder Singh, Lukasz Ziarek, Ahmet Erdem Sarıyüce",https://arxiv.org/pdf/2512.20872,"Subjects:
+Cryptography and Security (cs.CR); Machine Learning (cs.LG)","Cryptography and Security (cs.CR),  Machine Learning (cs.LG)"
+arXiv:2512.20871,NeRV360: Neural Representation for 360-Degree Videos with a Viewport Decoder,NeRV360：基于视口解码器的360度视频神经表示方法,"Daichi Arai, Kyohei Unno, Yasuko Sugito, Yuichi Kusakabe",https://arxiv.org/pdf/2512.20871,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Multimedia (cs.MM); Image and Video Processing (eess.IV)","Computer Vision and Pattern Recognition (cs.CV),  Multimedia (cs.MM),  Image and Video Processing (eess.IV)"
+arXiv:2512.20869,In-Place BWT and Lyndon Array Construction in Constant Space,常数空间内的原地Burrows-Wheeler变换与Lyndon数组构建,"Felipe A. Louza, Arnaud Lefebvre",https://arxiv.org/pdf/2512.20869,"Subjects:
+Data Structures and Algorithms (cs.DS)",Data Structures and Algorithms (cs.DS)
+arXiv:2512.20868,Early warning signals for loss of control,失控的早期预警信号,"Jasper J. van Beers, Marten Scheffer, Prashant Solanki, Ingrid A. van de Leemput, Egbert H. van Nes, Coen C. de Visser",https://arxiv.org/pdf/2512.20868,"Subjects:
+Robotics (cs.RO); Systems and Control (eess.SY)","Robotics (cs.RO),  Systems and Control (eess.SY)"
+arXiv:2512.20866,Lightweight framework for underground pipeline recognition and spatial localization based on multi-view 2D GPR images,基于多视角2D地质雷达图像的地下管线识别与空间定位轻量级框架,"Haotian Lv, Chao Li, Jiangbo Dai, Yuhui Zhang, Zepeng Fan, Yiqiu Tan, Dawei Wang, Binglei Xie",https://arxiv.org/pdf/2512.20866,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)","Computer Vision and Pattern Recognition (cs.CV),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20865,Robustness Certificates for Neural Networks against Adversarial Attacks,神经网络对抗对抗攻击的鲁棒性认证,"Sara Taheri, Mahalakshmi Sabanayagam, Debarghya Ghoshdastidar, Majid Zamani",https://arxiv.org/pdf/2512.20865,"Subjects:
+Machine Learning (cs.LG); Systems and Control (eess.SY)","Machine Learning (cs.LG),  Systems and Control (eess.SY)"
+arXiv:2512.20864,(Im)possibility of Incentive Design for Challenge-based Blockchain Protocols,基于挑战机制的区块链协议激励设计（不）可能性,"Suhyeon Lee, Dieu-Huyen Nguyen, Donghwan Lee",https://arxiv.org/pdf/2512.20864,"Subjects:
+Computer Science and Game Theory (cs.GT)",Computer Science and Game Theory (cs.GT)
+arXiv:2512.20861,Memory-Efficient Acceleration of Block Low-Rank Foundation Models on Resource Constrained GPUs,资源受限GPU上块低秩基础模型的内存高效加速,"Pierre Abillama, Changwoo Lee, Juechu Dong, David Blaauw, Dennis Sylvester, Hun-Seok Kim",https://arxiv.org/pdf/2512.20861,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20860,"pokiSEC: A Multi-Architecture, Containerized Ephemeral Malware Detonation Sandbox",pokiSEC：多架构容器化临时恶意软件引爆沙箱,"Alejandro Avina, Yashas Hariprasad, Naveen Kumar Chaudhary",https://arxiv.org/pdf/2512.20860,"Subjects:
+Cryptography and Security (cs.CR); Operating Systems (cs.OS)","Cryptography and Security (cs.CR),  Operating Systems (cs.OS)"
+arXiv:2512.20858,ALIVE: An Avatar-Lecture Interactive Video Engine with Content-Aware Retrieval for Real-Time Interaction,ALIVE：支持内容感知检索的虚拟人讲座交互视频引擎实时交互系统,"Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang",https://arxiv.org/pdf/2512.20858,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20856,NVIDIA Nemotron 3: Efficient and Open Intelligence,NVIDIA Nemotron 3：高效开源智能模型,"NVIDIA: Aaron Blakeman, Aaron Grattafiori, Aarti Basant, Abhibha Gupta, Abhinav Khattar, Adi Renduchintala, Aditya Vavre, Akanksha Shukla, Akhiad Bercovich, Aleksander Ficek, Aleksandr Shaposhnikov, Alex Kondratenko, Alexander Bukharin, Alexandre Milesi, Ali Taghibakhshi, Alisa Liu, Amelia Barton, Ameya Sunil Mahabaleshwarkar, Amir Klein, Amit Zuker, Amnon Geifman, Amy Shen, Anahita Bhiwandiwalla, Andrew Tao, Anjulie Agrusa, Ankur Verma, Ann Guan, Anubhav Mandarwal, Arham Mehta, Ashwath Aithal, Ashwin Poojary, Asif Ahamed, Asit Mishra, Asma Kuriparambil Thekkumpate, Ayush Dattagupta, Banghua Zhu, Bardiya Sadeghi, Barnaby Simkin, Ben Lanir, Benedikt Schifferer, Besmira Nushi, Bilal Kartal, Bita Darvish Rouhani, Boris Ginsburg, Brandon Norick, Brandon Soubasis, Branislav Kisacanin, Brian Yu, Bryan Catanzaro, Carlo del Mundo, Chantal Hwang, Charles Wang, Cheng-Ping Hsieh, Chenghao Zhang, Chenhan Yu, Chetan Mungekar, Chintan Patel, Chris Alexiuk, Christopher Parisien, Collin Neale, Cyril Meurillon, Damon Mosk-Aoyama, Dan Su, Dane Corneil, Daniel Afrimi, Daniel Lo, Daniel Rohrer, Daniel Serebrenik, Daria Gitman, Daria Levy, Darko Stosic, David Mosallanezhad, Deepak Narayanan, Dhruv Nathawani, Dima Rekesh, Dina Yared, Divyanshu Kakwani, Dong Ahn, Duncan Riach, Dusan Stosic, Edgar Minasyan, Edward Lin, Eileen Long, Eileen Peters Long, Elad Segal, Elena Lantz, Ellie Evans, Elliott Ning, Eric Chung, Eric Harper, Eric Tramel, Erick Galinkin, Erik Pounds, Evan Briones, Evelina Bakhturina, Evgeny Tsykunov, Faisal Ladhak, Fay Wang, Fei Jia",https://arxiv.org/pdf/2512.20856,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.20854,How important is Recall for Measuring Retrieval Quality?,召回率对检索质量评估的重要性研究,"Shelly Schwartz, Oleg Vasilyev, Randy Sawaya",https://arxiv.org/pdf/2512.20854,"Subjects:
+Computation and Language (cs.CL); Information Retrieval (cs.IR)","Computation and Language (cs.CL),  Information Retrieval (cs.IR)"
+arXiv:2512.20848,"Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",Nemotron 3 Nano：面向智能体推理的开源高效混合专家型Mamba-Transformer模型,"NVIDIA: Aaron Blakeman, Aaron Grattafiori, Aarti Basant, Abhibha Gupta, Abhinav Khattar, Adi Renduchintala, Aditya Vavre, Akanksha Shukla, Akhiad Bercovich, Aleksander Ficek, Aleksandr Shaposhnikov, Alex Kondratenko, Alexander Bukharin, Alexandre Milesi, Ali Taghibakhshi, Alisa Liu, Amelia Barton, Ameya Sunil Mahabaleshwarkar, Amir Klein, Amit Zuker, Amnon Geifman, Amy Shen, Anahita Bhiwandiwalla, Andrew Tao, Ann Guan, Anubhav Mandarwal, Arham Mehta, Ashwath Aithal, Ashwin Poojary, Asif Ahamed, Asma Kuriparambil Thekkumpate, Ayush Dattagupta, Banghua Zhu, Bardiya Sadeghi, Barnaby Simkin, Ben Lanir, Benedikt Schifferer, Besmira Nushi, Bilal Kartal, Bita Darvish Rouhani, Boris Ginsburg, Brandon Norick, Brandon Soubasis, Branislav Kisacanin, Brian Yu, Bryan Catanzaro, Carlo del Mundo, Chantal Hwang, Charles Wang, Cheng-Ping Hsieh, Chenghao Zhang, Chenhan Yu, Chetan Mungekar, Chintan Patel, Chris Alexiuk, Christopher Parisien, Collin Neale, Damon Mosk-Aoyama, Dan Su, Dane Corneil, Daniel Afrimi, Daniel Rohrer, Daniel Serebrenik, Daria Gitman, Daria Levy, Darko Stosic, David Mosallanezhad, Deepak Narayanan, Dhruv Nathawani, Dima Rekesh, Dina Yared, Divyanshu Kakwani, Dong Ahn, Duncan Riach, Dusan Stosic, Edgar Minasyan, Edward Lin, Eileen Long, Eileen Peters Long, Elena Lantz, Ellie Evans, Elliott Ning, Eric Chung, Eric Harper, Eric Tramel, Erick Galinkin, Erik Pounds, Evan Briones, Evelina Bakhturina, Faisal Ladhak, Fay Wang, Fei Jia, Felipe Soares, Feng Chen, Ferenc Galko, Frankie Siino, Gal Hubara Agam, Ganesh Ajjanagadde, Gantavya Bhatt",https://arxiv.org/pdf/2512.20848,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.20847,YCB-Handovers Dataset: Analyzing Object Weight Impact on Human Handovers to Adapt Robotic Handover Motion,YCB-Handovers数据集：分析物体重量对人类交接动作的影响以适应机器人交接运动,"Parag Khanna, Karen Jane Dsouza, Chunyu Wang, Mårten Björkman, Christian Smith",https://arxiv.org/pdf/2512.20847,"Subjects:
+Robotics (cs.RO); Human-Computer Interaction (cs.HC)","Robotics (cs.RO),  Human-Computer Interaction (cs.HC)"
+arXiv:2512.20845,MAR:Multi-Agent Reflexion Improves Reasoning Abilities in LLMs,MAR：多智能体反思提升大语言模型推理能力,"Onat Ozer, Grace Wu, Yuchen Wang, Daniel Dosti, Honghao Zhang, Vivi De La Rue",https://arxiv.org/pdf/2512.20845,"Subjects:
+Artificial Intelligence (cs.AI); Multiagent Systems (cs.MA)","Artificial Intelligence (cs.AI),  Multiagent Systems (cs.MA)"
+arXiv:2512.20844,Parameter-free inexact block Schur complement preconditioning for linear poroelasticity under a hybrid Bernardi-Raugel and weak Galerkin finite element discretization,混合Bernardi-Raugel与弱Galerkin有限元离散下线性渗透弹性问题的无参数不精确块Schur补预处理,"Weizhang Huang, Zhuoran Wang",https://arxiv.org/pdf/2512.20844,"Subjects:
+Numerical Analysis (math.NA)",Numerical Analysis (math.NA)
+arXiv:2512.20840,Computing nonlinear Schrödinger equations with Hermite functions beyond harmonic traps,基于厄米特函数超越谐振子势的非线性薛定谔方程计算方法,"Valeria Banica, Georg Maierhofer, Katharina Schratz",https://arxiv.org/pdf/2512.20840,"Subjects:
+Numerical Analysis (math.NA)",Numerical Analysis (math.NA)
+arXiv:2512.20839,Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference,面向高效快速视觉-语言模型推理的输入自适应视觉预处理,"Putu Indah Githa Cahyani, Komang David Dananjaya Suartana, Novanto Yudistira",https://arxiv.org/pdf/2512.20839,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20833,CHAMMI-75: pre-training multi-channel models with heterogeneous microscopy images,CHAMMI-75：基于异质显微图像的多通道模型预训练,"Vidit Agrawal (1,2), John Peters (1,2), Tyler N. Thompson (1,2), Mohammad Vali Sanian (3,4), Chau Pham (5), Nikita Moshkov (6), Arshad Kazi (1,2), Aditya Pillai (1,2), Jack Freeman (1), Byunguk Kang (7,8), Samouil L. Farhi (8), Ernest Fraenkel (7), Ron Stewart (1), Lassi Paavolainen (3,4), Bryan A. Plummer (5), Juan C. Caicedo (1,2) ((1) Morgridge Institute for Research, Madison, WI, USA, (2) University of Wisconsin-Madison, Madison, WI, USA, (3) Institute for Molecular Medicine Finland (FIMM), Helsinki, Finland, (4) University of Helsinki, Helsinki, Finland, (5) Boston University, Boston, MA, USA, (6) Institute of Computational Biology, Helmholtz Munich, Neuherberg, Germany, (7) Massachusetts Institute of Technology, Cambridge, MA, USA, (8) Broad Institute of MIT and Harvard, Cambridge, MA, USA)",https://arxiv.org/pdf/2512.20833,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)","Computer Vision and Pattern Recognition (cs.CV),  Machine Learning (cs.LG)"
+arXiv:2512.20831,Context-Sensitive Abstractions for Reinforcement Learning with Parameterized Actions,面向参数化动作强化学习的上下文敏感抽象方法,"Rashmeet Kaur Nayyar, Naman Shah, Siddharth Srivastava",https://arxiv.org/pdf/2512.20831,"Subjects:
+Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.20823,"NotSoTiny: A Large, Living Benchmark for RTL Code Generation",NotSoTiny：RTL代码生成的大规模活跃基准测试集,"Razine Moundir Ghorab, Emanuele Parisi, Cristian Gutierrez, Miquel Alberti-Binimelis, Miquel Moreto, Dario Garcia-Gasulla, Gokcen Kestor",https://arxiv.org/pdf/2512.20823,"Subjects:
+Hardware Architecture (cs.AR); Artificial Intelligence (cs.AI)","Hardware Architecture (cs.AR),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20822,MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs,MediEval：面向大语言模型患者情境化与知识基础推理的统一医疗基准,"Zhan Qu, Michael Färber",https://arxiv.org/pdf/2512.20822,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20821,Defending against adversarial attacks using mixture of experts,基于专家混合模型的对抗攻击防御方法,"Mohammad Meymani, Roozbeh Razavi-Far",https://arxiv.org/pdf/2512.20821,"Subjects:
+Machine Learning (cs.LG)",Machine Learning (cs.LG)
+arXiv:2512.20817,EssayCBM: Rubric-Aligned Concept Bottleneck Models for Transparent Essay Grading,EssayCBM：面向透明化作文评分的评分标准对齐概念瓶颈模型,"Kumar Satvik Chaudhary, Chengshuai Zhao, Fan Zhang, Yung Hin Tse, Garima Agrawal, Yuli Deng, Huan Liu",https://arxiv.org/pdf/2512.20817,"Subjects:
+Computation and Language (cs.CL)",Computation and Language (cs.CL)
+arXiv:2512.20815,Learning to Sense for Driving: Joint Optics-Sensor-Model Co-Design for Semantic Segmentation,面向驾驶感知的学习：语义分割的光学-传感器-模型联合设计,Reeshad Khan amd John Gauch,https://arxiv.org/pdf/2512.20815,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20814,FedMPDD: Communication-Efficient Federated Learning with Privacy Preservation Attributes via Projected Directional Derivative,FedMPDD：基于投影方向导数的通信高效联邦学习与隐私保护属性,"Mohammadreza Rostami, Solmaz S. Kia",https://arxiv.org/pdf/2512.20814,"Subjects:
+Machine Learning (cs.LG)",Machine Learning (cs.LG)
+arXiv:2512.20813,GraphFire-X: Physics-Informed Graph Attention Networks and Structural Gradient Boosting for Building-Scale Wildfire Preparedness at the Wildland-Urban Interface,GraphFire-X：基于物理信息图注意力网络与结构梯度提升的建筑尺度野火预防系统,"Miguel Esparza, Vamshi Battal, Ali Mostafavi",https://arxiv.org/pdf/2512.20813,"Subjects:
+Machine Learning (cs.LG)",Machine Learning (cs.LG)
+arXiv:2512.20812,Semantic Deception: When Reasoning Models Can't Compute an Addition,语义欺骗：当推理模型无法执行加法运算时,"Nathaniël de Leeuw, Marceau Nahon, Mathis Reymond, Raja Chatila, Mehdi Khamassi",https://arxiv.org/pdf/2512.20812,"Subjects:
+Computation and Language (cs.CL)",Computation and Language (cs.CL)
+arXiv:2512.20808,Hardware-Algorithm Co-Design for Hyperdimensional Computing Based on Memristive System-on-Chip,基于忆阻系统芯片的高维计算软硬件协同设计,"Yi Huang, Alireza Jaberi Rad, Qiangfei Xia",https://arxiv.org/pdf/2512.20808,"Subjects:
+Emerging Technologies (cs.ET)",Emerging Technologies (cs.ET)
+arXiv:2512.20806,Safety Alignment of LMs via Non-cooperative Games,基于非合作博弈的语言模型安全对齐方法,"Anselm Paulus, Ilia Kulikov, Brandon Amos, Rémi Munos, Ivan Evtimov, Kamalika Chaudhuri, Arman Zharmagambetov",https://arxiv.org/pdf/2512.20806,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20798,A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents,自主AI代理输出驱动约束违规评估基准,"Miles Q. Li, Benjamin C. M. Fung, Martin Weiss, Pulei Xiong, Khalil Al-Hussaeni, Claude Fachkha",https://arxiv.org/pdf/2512.20798,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20797,Assessing Coronary Microvascular Dysfunction using Angiography-based Data-driven Methods,基于血管造影数据驱动方法的冠状动脉微血管功能障碍评估,"Haizhou Yang, Jiyang Zhang, Brahmajee K. Nallamothu, Krishna Garikipati, C. Alberto Figueroa",https://arxiv.org/pdf/2512.20797,"Subjects:
+Computational Engineering, Finance, and Science (cs.CE)","Computational Engineering, Finance, and Science (cs.CE)"
+arXiv:2512.20796,Measuring Mechanistic Independence: Can Bias Be Removed Without Erasing Demographics?,机制独立性度量：在不抹除人口统计信息的情况下能否消除偏差？,"Zhengyang Shan, Aaron Mueller",https://arxiv.org/pdf/2512.20796,"Subjects:
+Computation and Language (cs.CL)",Computation and Language (cs.CL)
+arXiv:2512.20795,RHAPSODY: Execution of Hybrid AI-HPC Workflows at Scale,RHAPSODY：大规模混合AI-HPC工作流执行框架,"Aymen Alsaadi, Mason Hooten, Mariya Goliyad, Andre Merzky, Andrew Shao, Mikhail Titov, Tianle Wang, Yian Chen, Maria Kalantzi, Kent Lee, Andrew Park, Indira Pimpalkhare, Nick Radcliffe, Colin Wahl, Pete Mendygral, Matteo Turilli, Shantenu Jha",https://arxiv.org/pdf/2512.20795,"Subjects:
+Distributed, Parallel, and Cluster Computing (cs.DC)","Distributed, Parallel, and Cluster Computing (cs.DC)"
+arXiv:2512.20794,Investigating Model Editing for Unlearning in Large Language Models,面向大语言模型遗忘的模型编辑方法研究,"Shariqah Hossain, Lalana Kagal",https://arxiv.org/pdf/2512.20794,"Subjects:
+Computation and Language (cs.CL)",Computation and Language (cs.CL)
+arXiv:2512.20789,X-GridAgent: An LLM-Powered Agentic AI System for Assisting Power Grid Analysis,X-GridAgent：基于大语言模型的电力系统分析智能代理系统,"Yihan (Logon)Wen, Xin Chen",https://arxiv.org/pdf/2512.20789,"Subjects:
+Systems and Control (eess.SY); Artificial Intelligence (cs.AI)","Systems and Control (eess.SY),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20785,Symbolic regression for defect interactions in 2D materials,二维材料缺陷相互作用的符号回归方法,"Mikhail Lazarev, Andrey Ustyuzhanin",https://arxiv.org/pdf/2512.20785,"Subjects:
+Machine Learning (cs.LG); Materials Science (cond-mat.mtrl-sci)","Machine Learning (cs.LG),  Materials Science (cond-mat.mtrl-sci)"
+arXiv:2512.20783,NULLBUS: Multimodal Mixed-Supervision for Breast Ultrasound Segmentation via Nullable Global-Local Prompts,NULLBUS：通过可空的全局-局部提示实现乳腺超声分割的多模态混合监督,"Raja Mallina, Bryar Shareef",https://arxiv.org/pdf/2512.20783,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Computer Vision and Pattern Recognition (cs.CV),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.20781,Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints,软过滤：通过规定性和禁止性约束引导零样本组合图像检索,"Youjin Jung, Seongwoo Cho, Hyun-seok Min, Sungchul Choi",https://arxiv.org/pdf/2512.20781,"Subjects:
+Information Retrieval (cs.IR)",Information Retrieval (cs.IR)
+arXiv:2512.20780,Large Language Models Approach Expert Pedagogical Quality in Math Tutoring but Differ in Instructional and Linguistic Profiles,大型语言模型在数学辅导中接近专家教学质量，但在教学和语言特征上存在差异,"Ramatu Oiza Abdulsalam, Segun Aroyehun",https://arxiv.org/pdf/2512.20780,"Subjects:
+Computation and Language (cs.CL); Computers and Society (cs.CY)","Computation and Language (cs.CL),  Computers and Society (cs.CY)"
+arXiv:2512.20778,Towards Optimal Performance and Action Consistency Guarantees in Dec-POMDPs with Inconsistent Beliefs and Limited Communication,在信念不一致和通信受限的Dec-POMDP中实现最优性能与动作一致性保证,"Moshe Rafaeli Shimron, Vadim Indelman",https://arxiv.org/pdf/2512.20778,"Subjects:
+Multiagent Systems (cs.MA); Artificial Intelligence (cs.AI); Robotics (cs.RO)","Multiagent Systems (cs.MA),  Artificial Intelligence (cs.AI),  Robotics (cs.RO)"
+arXiv:2512.20777,Improving Matrix Exponential for Generative AI Flows: A Taylor-Based Approach Beyond Paterson--Stockmeyer,改进生成式AI流的矩阵指数：超越Paterson-Stockmeyer的泰勒方法,"Jorge Sastre, Daniel Faronbi, José Miguel Alonso, Peter Traver, Javier Ibáñez, Nuria Lloret",https://arxiv.org/pdf/2512.20777,"Subjects:
+Machine Learning (cs.LG); Numerical Analysis (math.NA)","Machine Learning (cs.LG),  Numerical Analysis (math.NA)"
+arXiv:2512.20775,Sark: Oblivious Integrity Without Global State,Sark：无需全局状态的隐私保护完整性验证,"Alex Lynham, David Alesch, Ziyi Li, Geoff Goodell",https://arxiv.org/pdf/2512.20775,"Subjects:
+Cryptography and Security (cs.CR); Computers and Society (cs.CY)","Cryptography and Security (cs.CR),  Computers and Society (cs.CY)"
+arXiv:2512.20773,Adversarial Training for Failure-Sensitive User Simulation in Mental Health Dialogue Optimization,对抗训练：用于心理健康对话优化中故障敏感用户模拟,"Ziyi Zhu, Olivier Tieleman, Caitlin A. Stamatis, Luka Smyth, Thomas D. Hull, Daniel R. Cahn, Matteo Malgaroli",https://arxiv.org/pdf/2512.20773,"Subjects:
+Computation and Language (cs.CL)",Computation and Language (cs.CL)
+arXiv:2512.20770,OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective,OccuFly：从空中视角进行语义场景补全的三维视觉基准,"Markus Gross, Sai B. Matha, Aya Fahmy, Rui Song, Daniel Cremers, Henri Meess",https://arxiv.org/pdf/2512.20770,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20769,A General Purpose Method for Robotic Interception of Non-Cooperative Dynamic Targets,一种通用的非合作动态目标机器人拦截方法,"Tanmay P. Patel, Erica L. Tevere, Erik H. Kramer, Rudranarayan M. Mukherjee",https://arxiv.org/pdf/2512.20769,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.20763,Streamfunction-vorticity formulation for incompressible viscid and inviscid flows on general surfaces,不可压缩粘性与非粘性流体在一般曲面上的流函数-涡量公式,"Tim Brüers, Christoph Lehrenfeld, Max Wardetzky",https://arxiv.org/pdf/2512.20763,"Subjects:
+Numerical Analysis (math.NA)",Numerical Analysis (math.NA)
+arXiv:2512.20762,Subgroup Discovery with the Cox Model,基于Cox模型的子群发现,"Zachary Izzo, Iain Melvin",https://arxiv.org/pdf/2512.20762,"Subjects:
+Machine Learning (cs.LG); Statistics Theory (math.ST); Machine Learning (stat.ML)","Machine Learning (cs.LG),  Statistics Theory (math.ST),  Machine Learning (stat.ML)"
+arXiv:2512.20761,TS-Arena Technical Report -- A Pre-registered Live Forecasting Platform,TS-Arena技术报告——预注册实时预测平台,"Marcel Meyer, Sascha Kaltenpoth, Kevin Zalipski, Henrik Albers, Oliver Müller",https://arxiv.org/pdf/2512.20761,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20760,Generalization of RLVR Using Causal Reasoning as a Testbed,使用因果推理作为测试平台的RLVR泛化研究,"Brian Lu, Hongyu Zhao, Shuo Sun, Hao Peng, Rui Ding, Hongyuan Mei",https://arxiv.org/pdf/2512.20760,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computation and Language (cs.CL)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Computation and Language (cs.CL)"
+arXiv:2512.20757,TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior,TokSuite：测量分词器选择对语言模型行为的影响,"Gül Sena Altıntaş, Malikeh Ehghaghi, Brian Lester, Fengyuan Liu, Wanru Zhao, Marco Ciccone, Colin Raffel",https://arxiv.org/pdf/2512.20757,"Subjects:
+Computation and Language (cs.CL); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Machine Learning (cs.LG)"
+arXiv:2512.20755,Bridging Efficiency and Safety: Formal Verification of Neural Networks with Early Exits,效率与安全的桥梁：具有早停机制的神经网络形式验证,"Yizhak Yisrael Elboher, Avraham Raviv, Amihay Elboher, Zhouxing Shi, Omri Azencot, Hillel Kugler, Guy Katz",https://arxiv.org/pdf/2512.20755,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20750,On stability of Weak Greedy Algorithm in the presence of noise,噪声环境下弱贪心算法的稳定性分析,V.N. Temlyakov,https://arxiv.org/pdf/2512.20750,"Subjects:
+Numerical Analysis (math.NA); Functional Analysis (math.FA)","Numerical Analysis (math.NA),  Functional Analysis (math.FA)"
+arXiv:2512.20749,Stabilizing Multimodal Autoencoders: A Theoretical and Empirical Analysis of Fusion Strategies,稳定多模态自编码器：融合策略的理论与实证分析,"Diyar Altinses, Andreas Schwung",https://arxiv.org/pdf/2512.20749,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20748,Fixed-time control with prescribed performance for path following of underwater gliders,水下滑翔机路径跟踪的固定时间控制与规定性能,"Hanzhi Yang, Nina Mahmoudian",https://arxiv.org/pdf/2512.20748,"Subjects:
+Systems and Control (eess.SY); Robotics (cs.RO); Optimization and Control (math.OC)","Systems and Control (eess.SY),  Robotics (cs.RO),  Optimization and Control (math.OC)"
+arXiv:2512.20746,TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection,TrashDet：迭代神经架构搜索的高效废弃物检测,"Tony Tran, Bin Hu",https://arxiv.org/pdf/2512.20746,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)","Computer Vision and Pattern Recognition (cs.CV),  Machine Learning (cs.LG)"
+arXiv:2512.20745,AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent,AgentMath：通过工具增强代理提升大语言模型的数学推理能力,"Haipeng Luo, Huawen Feng, Qingfeng Sun, Can Xu, Kai Zheng, Yufei Wang, Tao Yang, Han Hu, Yansong Tang, Di Wang",https://arxiv.org/pdf/2512.20745,"Subjects:
+Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Machine Learning (cs.LG)","Artificial Intelligence (cs.AI),  Computation and Language (cs.CL),  Machine Learning (cs.LG)"
+arXiv:2512.20739,AI-Driven Green Cognitive Radio Networks for Sustainable 6G Communication,面向可持续6G通信的AI驱动绿色认知无线电网络,"Anshul Sharma, Shujaatali Badami, Biky Chouhan, Pushpanjali Pandey, Brijeena Rana, Navneet Kaur",https://arxiv.org/pdf/2512.20739,"Subjects:
+Networking and Internet Architecture (cs.NI); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Networking and Internet Architecture (cs.NI),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.20737,A dichotomy of finite element spaces and its application to an energy-conservative scheme for the regularized long wave equation,有限元空间的二分法及其在正则化长波方程能量守恒方案中的应用,"Dimitrios Antonopoulos, Dimitrios Mitsotakis",https://arxiv.org/pdf/2512.20737,"Subjects:
+Numerical Analysis (math.NA)",Numerical Analysis (math.NA)
+arXiv:2512.20735,VL4Gaze: Unleashing Vision-Language Models for Gaze Following,VL4Gaze：释放视觉-语言模型在注视跟踪中的潜力,"Shijing Wang, Chaoqun Cui, Yaping Huang, Hyung Jin Chang, Yihua Cheng",https://arxiv.org/pdf/2512.20735,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV)",Computer Vision and Pattern Recognition (cs.CV)
+arXiv:2512.20733,Towards a Security Plane for 6G Ecosystems,面向6G生态系统的安全平面研究,"Xavi Masip-Bruin, Eva Rodríguez, Admela Jukan, Panos Trakadas",https://arxiv.org/pdf/2512.20733,"Subjects:
+Cryptography and Security (cs.CR); Networking and Internet Architecture (cs.NI)","Cryptography and Security (cs.CR),  Networking and Internet Architecture (cs.NI)"
+arXiv:2512.20732,FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs,FEM-Bench：评估代码生成大语言模型的结构化科学推理基准,"Saeed Mohammadzadeh, Erfan Hamdi, Joel Shor, Emma Lejeune",https://arxiv.org/pdf/2512.20732,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Software Engineering (cs.SE)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Software Engineering (cs.SE)"
+arXiv:2512.20729,Shifted Partial Derivative Polynomial Rank and Codimension,移位偏导数多项式秩与余维数,Darren J. Edwards,https://arxiv.org/pdf/2512.20729,"Subjects:
+Computational Complexity (cs.CC)",Computational Complexity (cs.CC)
+arXiv:2512.20724,SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention,SA-DiffuSeq：通过稀疏注意力解决长文档生成的计算与可扩展性挑战,"Alexandros Christoforos, Chadbourne Davis",https://arxiv.org/pdf/2512.20724,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20723,From artificial to organic: Rethinking the roots of intelligence for digital health,从人工到有机：重新思考数字健康领域智能的根源,"Prajwal Ghimire, Keyoumars Ashkan",https://arxiv.org/pdf/2512.20723,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20719,Optimized Rolling Allocation of Outages for Damage Assesment,停电优化滚动分配用于损害评估,"Hritik Gopal Shah, Catherine Tajmajer, Elli Ntakou",https://arxiv.org/pdf/2512.20719,"Subjects:
+Systems and Control (eess.SY)",Systems and Control (eess.SY)
+arXiv:2512.20715,SoK: Speedy Secure Finality,SoK：快速安全最终性,"Yash Saraswat, Abhimanyu Nag",https://arxiv.org/pdf/2512.20715,"Subjects:
+Cryptography and Security (cs.CR); Distributed, Parallel, and Cluster Computing (cs.DC)","Cryptography and Security (cs.CR),  Distributed, Parallel, and Cluster Computing (cs.DC)"
+arXiv:2512.20714,From Pilots to Practices: A Scoping Review of GenAI-Enabled Personalization in Computer Science Education,从试点到实践：生成式AI赋能计算机科学教育个性化研究的综述,"Iman Reihanian, Yunfei Hou, Qingquan Sun",https://arxiv.org/pdf/2512.20714,"Subjects:
+Artificial Intelligence (cs.AI); Computers and Society (cs.CY); Human-Computer Interaction (cs.HC)","Artificial Intelligence (cs.AI),  Computers and Society (cs.CY),  Human-Computer Interaction (cs.HC)"
+arXiv:2512.20712,Real-World Adversarial Attacks on RF-Based Drone Detectors,针对基于射频的无人机探测器的现实对抗攻击,"Omer Gazit, Yael Itzhakev, Yuval Elovici, Asaf Shabtai",https://arxiv.org/pdf/2512.20712,"Subjects:
+Cryptography and Security (cs.CR); Machine Learning (cs.LG)","Cryptography and Security (cs.CR),  Machine Learning (cs.LG)"
+arXiv:2512.20711,Anytime Metaheuristic Framework for Global Route Optimization in Expected-Time Mobile Search,预期时间移动搜索中全局路径优化的实时元启发式框架,"Jan Mikula (1 and 2), Miroslav Kulich (1) ((1) Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague, (2) Department of Cybernetics, Faculty of Electrical Engineering, Czech Technical University in Prague)",https://arxiv.org/pdf/2512.20711,"Subjects:
+Robotics (cs.RO)",Robotics (cs.RO)
+arXiv:2512.20705,Anota: Identifying Business Logic Vulnerabilities via Annotation-Based Sanitization,Anota：基于注释的业务逻辑漏洞识别,"Meng Wang, Philipp Görz, Joschua Schilling, Keno Hassler, Liwei Guo, Thorsten Holz, Ali Abbasi",https://arxiv.org/pdf/2512.20705,"Subjects:
+Cryptography and Security (cs.CR)",Cryptography and Security (cs.CR)
+arXiv:2512.20703,Process Analytics -- Data-driven Business Process Management,流程分析：数据驱动的业务流程管理,"Matthias Stierle, Karsten Kraume, Martin Matzner",https://arxiv.org/pdf/2512.20703,"Subjects:
+Software Engineering (cs.SE); Emerging Technologies (cs.ET)","Software Engineering (cs.SE),  Emerging Technologies (cs.ET)"
+arXiv:2512.20688,Mechanism-Based Intelligence (MBI): Differentiable Incentives for Rational Coordination and Guaranteed Alignment in Multi-Agent Systems,基于机制的智能（MBI）：多智能体系统中理性协调的可微激励与保证对齐,Stefano Grassi,https://arxiv.org/pdf/2512.20688,"Subjects:
+Computer Science and Game Theory (cs.GT); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Multiagent Systems (cs.MA)","Computer Science and Game Theory (cs.GT),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG),  Multiagent Systems (cs.MA)"
+arXiv:2512.20687,PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient Language Generation,PHOTON：面向极速且内存高效的分层自回归语言生成,"Yuma Ichikawa, Naoya Takagi, Takumi Nakagawa, Yuzi Kanazawa, Akira Sakai",https://arxiv.org/pdf/2512.20687,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Distributed, Parallel, and Cluster Computing (cs.DC)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Computation and Language (cs.CL),  Distributed, Parallel, and Cluster Computing (cs.DC)"
+arXiv:2512.20679,"Signal, Noise, and Burnout: A Human-Information Interaction Analysis of Voter Verification in a High-Volatility Environment",信号、噪声与倦怠：高波动环境中选民验证的人机交互分析,Kijung Lee,https://arxiv.org/pdf/2512.20679,"Subjects:
+Social and Information Networks (cs.SI); Human-Computer Interaction (cs.HC)","Social and Information Networks (cs.SI),  Human-Computer Interaction (cs.HC)"
+arXiv:2512.20677,Automated Red-Teaming Framework for Large Language Model Security Assessment: A Comprehensive Attack Generation and Detection System,大语言模型安全评估的自动化红队框架：全面攻击生成与检测系统,"Zhang Wei, Peilu Hu, Shengning Lang, Hao Yan, Li Mei, Yichao Zhang, Chen Yang, Junfeng Hao, Zhimo Han",https://arxiv.org/pdf/2512.20677,"Subjects:
+Cryptography and Security (cs.CR); Computation and Language (cs.CL)","Cryptography and Security (cs.CR),  Computation and Language (cs.CL)"
+arXiv:2512.20675,Revisiting the Learning Objectives of Vision-Language Reward Models,视觉-语言奖励模型的学习目标再审视,"Simon Roy, Samuel Barbeau, Giovanni Beltrame, Christian Desrosiers, Nicolas Thome",https://arxiv.org/pdf/2512.20675,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20674,HyDRA: Hierarchical and Dynamic Rank Adaptation for Mobile Vision Language Model,HyDRA：面向移动视觉语言模型的分层与动态秩适应,"Yuanhao Xi, Xiaohuan Bing, Ramin Yahyapour",https://arxiv.org/pdf/2512.20674,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Computer Vision and Pattern Recognition (cs.CV)"
+arXiv:2512.20671,Bridging the AI Trustworthiness Gap between Functions and Norms,弥合功能与规范之间的人工智能可信度差距,"Daan Di Scala, Sophie Lathouwers, Michael van Bekkum",https://arxiv.org/pdf/2512.20671,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20670,Disentangling Fact from Sentiment: A Dynamic Conflict-Consensus Framework for Multimodal Fake News Detection,事实与情感的解耦：多模态虚假新闻检测的动态冲突-共识框架,"Weilin Zhou, Zonghao Ying, Junjie Mu, Shengwei Tian, Quanchen Zou, Deyue Zhang, Dongdong Yang, Xiangzheng Zhang",https://arxiv.org/pdf/2512.20670,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20669,Improving Cardiac Risk Prediction Using Data Generation Techniques,利用数据生成技术提升心脏风险预测,"Alexandre Cabodevila, Pedro Gamallo-Fernandez, Juan C. Vidal, Manuel Lama",https://arxiv.org/pdf/2512.20669,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20668,Forward Only Learning for Orthogonal Neural Networks of any Depth,正交神经网络的前向仅学习方法（任意深度）,"Paul Caillon, Alex Colagrande, Erwan Fagnou, Blaise Delattre, Alexandre Allauzen",https://arxiv.org/pdf/2512.20668,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20666,Dominating vs. Dominated: Generative Collapse in Diffusion Models,主导与被主导：扩散模型中的生成崩溃现象,"Hayeon Jeong, Jong-Seok Lee",https://arxiv.org/pdf/2512.20666,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20664,Eidoku: A Neuro-Symbolic Verification Gate for LLM Reasoning via Structural Constraint Satisfaction,Eidoku：通过结构约束满足实现大语言模型推理的神经符号验证门,Shinobu Miya,https://arxiv.org/pdf/2512.20664,"Subjects:
+Artificial Intelligence (cs.AI); Logic in Computer Science (cs.LO)","Artificial Intelligence (cs.AI),  Logic in Computer Science (cs.LO)"
+arXiv:2512.20662,"Quantifying Laziness, Decoding Suboptimality, and Context Degradation in Large Language Models",量化大语言模型中的惰性、次优解与上下文退化,"Yiqing Ma, Jung-Hua Liu",https://arxiv.org/pdf/2512.20662,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20661,From Fake Focus to Real Precision: Confusion-Driven Adversarial Attention Learning in Transformers,从虚假关注到真实精度：基于混淆驱动的对抗性注意力学习,Yawei Liu,https://arxiv.org/pdf/2512.20661,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20660,Managing the Stochastic: Foundations of Learning in Neuro-Symbolic Systems for Software Engineering,管理随机性：软件工程神经符号系统的学习基础,Matthew Thompson,https://arxiv.org/pdf/2512.20660,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Software Engineering (cs.SE)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Software Engineering (cs.SE)"
+arXiv:2512.20657,Graph Neural Networks for Source Detection: A Review and Benchmark Study,图神经网络在溯源检测中的应用：综述与基准研究,"Martin Sterchi, Nathan Brack, Lorenz Hilfiker",https://arxiv.org/pdf/2512.20657,"Subjects:
+Social and Information Networks (cs.SI); Machine Learning (cs.LG)","Social and Information Networks (cs.SI),  Machine Learning (cs.LG)"
+arXiv:2512.20655,MaskOpt: A Large-Scale Mask Optimization Dataset to Advance AI in Integrated Circuit Manufacturing,MaskOpt：推动集成电路制造AI发展的大规模掩码优化数据集,"Yuting Hu, Lei Zhuang, Hua Xiang, Jinjun Xiong, Gi-Joon Nam",https://arxiv.org/pdf/2512.20655,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Computer Vision and Pattern Recognition (cs.CV)"
+arXiv:2512.20654,Q-RUN: Quantum-Inspired Data Re-uploading Networks,Q-RUN：受量子启发的数据重上传网络,"Wenbo Qiao, Shuaixian Wang, Peng Zhang, Yan Ming, Jiaming Zhao",https://arxiv.org/pdf/2512.20654,"Subjects:
+Machine Learning (cs.LG); Quantum Physics (quant-ph)","Machine Learning (cs.LG),  Quantum Physics (quant-ph)"
+arXiv:2512.20652,AI-Driven Decision-Making System for Hiring Process,招聘流程的人工智能驱动决策系统,"Vira Filatova, Andrii Zelenchuk, Dmytro Filatov",https://arxiv.org/pdf/2512.20652,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20651,Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial General Intelligence,Memory Bear AI：从记忆到认知的人工通用智能突破,"Deliang Wen, Ke Sun",https://arxiv.org/pdf/2512.20651,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20650,"Mixture of Attention Schemes (MoAS): Learning to Route Between MHA, GQA, and MQA",注意力方案混合（MoAS）：在MHA、GQA和MQA之间学习路由,Esmail Gumaan,https://arxiv.org/pdf/2512.20650,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20649,AIAuditTrack: A Framework for AI Security system,AIAuditTrack：人工智能安全系统框架,"Zixun Luo, Yuhang Fan, Yufei Li, Youzhi Zhang, Hengyu Lin, Ziqi Wang",https://arxiv.org/pdf/2512.20649,"Subjects:
+Artificial Intelligence (cs.AI); Cryptography and Security (cs.CR)","Artificial Intelligence (cs.AI),  Cryptography and Security (cs.CR)"
+arXiv:2512.20647,Reasoning Relay: Evaluating Stability and Interchangeability of Large Language Models in Mathematical Reasoning,推理接力：评估大语言模型在数学推理中的稳定性与可替换性,"Leo Lu, Jonathan Zhang, Sean Chua, Spencer Kim, Kevin Zhu, Sean O'Brien, Vasu Sharma",https://arxiv.org/pdf/2512.20647,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20643,Forecasting N-Body Dynamics: A Comparative Study of Neural Ordinary Differential Equations and Universal Differential Equations,N体动力学预测：神经常微分方程与通用微分方程的比较研究,"Suriya R S, Prathamesh Dinesh Joshi, Rajat Dandekar, Raj Dandekar, Sreedath Panat",https://arxiv.org/pdf/2512.20643,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computational Physics (physics.comp-ph)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Computational Physics (physics.comp-ph)"
+arXiv:2512.20641,Topology and Network Dynamics of the Lightning Network: A Comprehensive Analysis,闪电网络的拓扑与网络动力学：全面分析,"Danila Valko, Jorge Marx Gómez",https://arxiv.org/pdf/2512.20641,"Subjects:
+Social and Information Networks (cs.SI); Cryptography and Security (cs.CR)","Social and Information Networks (cs.SI),  Cryptography and Security (cs.CR)"
+arXiv:2512.20640,Reflection-Driven Self-Optimization 6G Agentic AI RAN via Simulation-in-the-Loop Workflows,基于仿真回路工作流的反射驱动自优化6G代理AI无线接入网,"Yunhao Hu, Xinchen Lyu, Chenshan Ren, Keda Chen, Qimei Cui, Xiaofeng Tao",https://arxiv.org/pdf/2512.20640,"Subjects:
+Networking and Internet Architecture (cs.NI); Multiagent Systems (cs.MA)","Networking and Internet Architecture (cs.NI),  Multiagent Systems (cs.MA)"
+arXiv:2512.20639,MILP-driven Network Planning Framework for Energy Efficiency and Coverage Maximization in IoT Mesh Networks,面向物联网网状网络能效与覆盖最大化的MILP驱动网络规划框架,"Ishmal Sohail, Attiq Zeeshan, M. Umar Khan, Syed Zubair, Rana Fayyaz Ahmad, Faizan Hamayat",https://arxiv.org/pdf/2512.20639,"Subjects:
+Networking and Internet Architecture (cs.NI)",Networking and Internet Architecture (cs.NI)
+arXiv:2512.20638,Uncovering Competency Gaps in Large Language Models and Their Benchmarks,揭示大语言模型及其基准测试中的能力差距,"Matyas Bohacek, Nino Scherrer, Nicholas Dufour, Thomas Leung, Christoph Bregler, Stephanie C. Y. Chan",https://arxiv.org/pdf/2512.20638,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Computation and Language (cs.CL),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.20637,Cross-Domain Elephant Flow Detection: A Unified Machine Learning Approach with Application-Aware and Security Features,跨域大象流检测：一种融合应用感知与安全特征的统一机器学习方法,"Tabidah Usmani (National University of Computer and Emerging Sciences), Sara Zahid (National University of Computer and Emerging Sciences), Amna Javaid (National University of Computer and Emerging Sciences)",https://arxiv.org/pdf/2512.20637,"Subjects:
+Networking and Internet Architecture (cs.NI)",Networking and Internet Architecture (cs.NI)
+arXiv:2512.20636,Data-Free Pruning of Self-Attention Layers in LLMs,无需数据的LLM自注意力层剪枝方法,"Dhananjay Saikumar, Blesson Varghese",https://arxiv.org/pdf/2512.20636,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20635,SHRP: Specialized Head Routing and Pruning for Efficient Encoder Compression,SHRP：面向高效编码器压缩的专用头路由与剪枝方法,"Zeli Su, Ziyin Zhang, Wenzheng Zhang, Zhou Liu, Guixian Xu, Wentao Zhang",https://arxiv.org/pdf/2512.20635,"Subjects:
+Machine Learning (cs.LG)",Machine Learning (cs.LG)
+arXiv:2512.20634,Real Time Detection and Quantitative Analysis of Spurious Forgetting in Continual Learning,持续学习中虚假遗忘的实时检测与量化分析,Weiwei Wang,https://arxiv.org/pdf/2512.20634,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computation and Language (cs.CL)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Computation and Language (cs.CL)"
+arXiv:2512.20633,Enhancing Lung Cancer Treatment Outcome Prediction through Semantic Feature Engineering Using Large Language Models,通过大语言模型语义特征工程提升肺癌治疗效果预测,"MunHwan Lee, Shaika Chowdhury, Xiaodi Li, Sivaraman Rajaganapathy, Eric W Klee, Ping Yang, Terence Sio, Liewei Wang, James Cerhan, Nansu NA Zong",https://arxiv.org/pdf/2512.20633,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20632,Erkang-Diagnosis-1.1 Technical Report,Erkang-Diagnosis-1.1技术报告,"Jianbing Ma, Ao Feng, Zhenjie Gao, Xinyu Song, Li Su, Bin Chen, Wei Wang, Jiamin Wu",https://arxiv.org/pdf/2512.20632,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20631,Zero-Training Temporal Drift Detection for Transformer Sentiment Models: A Comprehensive Analysis on Authentic Social Media Streams,面向Transformer情感模型的零训练时间漂移检测：基于真实社交媒体流的全面分析,"Aayam Bansal, Ishaan Gangwani",https://arxiv.org/pdf/2512.20631,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computation and Language (cs.CL)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI),  Computation and Language (cs.CL)"
+arXiv:2512.20630,MicroProbe: Efficient Reliability Assessment for Foundation Models with Minimal Data,MicroProbe：基于极少量数据的基础模型高效可靠性评估,"Aayam Bansal, Ishaan Gangwani",https://arxiv.org/pdf/2512.20630,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20629,Learning Evolving Latent Strategies for Multi-Agent Language Systems without Model Fine-Tuning,无需模型微调的多智能体语言系统演化潜在策略学习,Wenlong Tang,https://arxiv.org/pdf/2512.20629,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20628,"Proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025)",第20届知识、信息与创意支持系统国际会议论文集（KICSS 2025）,"Edited by Tessai Hayama (Nagaoka University of Technology, Japan), Takayuki Ito (Kyoto University, Japan), Takahiro Uchiya (Nagoya Institute of Technology, Japan), Motoki Miura (Chiba Institute of Technology, Japan), Takahiro Kawaji (University of Kurume, Japan), Takaya Yuizono (Japan Advanced Institute of Science and Technology, Japan), Atsuo Yoshitaka (Japan Advanced Institute of Science and Technology, Japan), Tokuro Matsuo (Advanced Institute of Industrial Technology, Japan), Shun Okuhara (Mie University, Japan), Jawad Haqbeen (Kyoto University, Japan), Sofia Sahab (Kyoto University, Japan), Wen Gu (Nagoya Institute of Technology, Japan), Shiyao Ding (Kyoto University, Japan)",https://arxiv.org/pdf/2512.20628,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20627,Efficient Asynchronous Federated Evaluation with Strategy Similarity Awareness for Intent-Based Networking in Industrial Internet of Things,面向工业物联网意图驱动网络的策略相似性感知高效异步联邦评估,"Shaowen Qin, Jianfeng Zeng, Haodong Guo, Xiaohuan Li, Jiawen Kang, Qian Chen, Dusit Niyato",https://arxiv.org/pdf/2512.20627,"Subjects:
+Networking and Internet Architecture (cs.NI); Artificial Intelligence (cs.AI)","Networking and Internet Architecture (cs.NI),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20626,MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation,MegaRAG：基于多模态知识图谱的检索增强生成,"Chi-Hsiang Hsiao, Yi-Cheng Wang, Tzung-Sheng Lin, Yi-Ren Yeh, Chu-Song Chen",https://arxiv.org/pdf/2512.20626,"Subjects:
+Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV); Information Retrieval (cs.IR)","Artificial Intelligence (cs.AI),  Computation and Language (cs.CL),  Computer Vision and Pattern Recognition (cs.CV),  Information Retrieval (cs.IR)"
+arXiv:2512.20625,Parameter-Efficient Neural CDEs via Implicit Function Jacobians,通过隐函数雅可比矩阵实现参数高效的神经CDE,"Ilya Kuleshov, Alexey Zaytsev",https://arxiv.org/pdf/2512.20625,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)","Machine Learning (cs.LG),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20624,Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation Optimization in UAV-Assisted 6G Network Deployment,量子启发式多智能体强化学习在无人机辅助6G网络部署中的探索利用优化,"Mazyar Taghavi, Javad Vahidi",https://arxiv.org/pdf/2512.20624,"Subjects:
+Artificial Intelligence (cs.AI); Optimization and Control (math.OC)","Artificial Intelligence (cs.AI),  Optimization and Control (math.OC)"
+arXiv:2512.20623,BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization,BitRL-Light：基于深度强化学习的1位LLM代理用于节能智能家居照明优化,"Ravi Gupta, Shabista Haider",https://arxiv.org/pdf/2512.20623,"Subjects:
+Artificial Intelligence (cs.AI)",Artificial Intelligence (cs.AI)
+arXiv:2512.20622,How Feasible are Passive Network Attacks on 5G Networks and Beyond? A Survey,5G及未来网络中被动网络攻击的可行性研究：综述,"Atmane Ayoub Mansour Bahar, Andrés Alayón Glazunov, Romaric Duvignau",https://arxiv.org/pdf/2512.20622,"Subjects:
+Networking and Internet Architecture (cs.NI); Cryptography and Security (cs.CR)","Networking and Internet Architecture (cs.NI),  Cryptography and Security (cs.CR)"
+arXiv:2512.20621,Cooperation Through Indirect Reciprocity in Child-Robot Interactions,儿童与机器人互动中的间接互惠合作机制,"Isabel Neto, Alexandre S. Pires, Filipa Correia, Fernando P. Santos",https://arxiv.org/pdf/2512.20621,"Subjects:
+Human-Computer Interaction (cs.HC); Artificial Intelligence (cs.AI)","Human-Computer Interaction (cs.HC),  Artificial Intelligence (cs.AI)"
+arXiv:2512.20620,Uncovering Patterns of Brain Activity from EEG Data Consistently Associated with Cybersickness Using Neural Network Interpretability Maps,利用神经网络可解释性图谱揭示与网络病一致相关的脑电活动模式,"Jacqueline Yau, Katherine J. Mimnaugh, Evan G. Center, Timo Ojala, Steven M. LaValle, Wenzhen Yuan, Nancy Amato, Minje Kim, Kara Federmeier",https://arxiv.org/pdf/2512.20620,"Subjects:
+Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)","Human-Computer Interaction (cs.HC),  Machine Learning (cs.LG)"
+arXiv:2512.19976,Prediction Air Temperature in Geothermal Heat Exchangers Using Pseudorandom Numbers: The New DARL Model,使用伪随机数预测地热换热器中空气温度：新型DARL模型,"C. Ramírez-Dolores, J.C. Zamora-Luria, J.A. Altamirano-Acosta, L. Sarao-Cruz, P. Jiménez-Palma, J. Moreno-Falconi",https://arxiv.org/pdf/2512.19976,"Subjects:
+Computers and Society (cs.CY); Numerical Analysis (math.NA)","Computers and Society (cs.CY),  Numerical Analysis (math.NA)"
+arXiv:2510.25787,Unsupervised local learning based on voltage-dependent synaptic plasticity for resistive and ferroelectric synapses,基于电压依赖性突触可塑性的无监督局部学习：用于电阻和铁电突触,"Nikhil Garg, Ismael Balafrej, Joao Henrique Quintino Palhares, Laura Bégon-Lours, Davide Florini, Donato Francesco Falcone, Tommaso Stecconi, Valeria Bragaglia, Bert Jan Offrein, Jean-Michel Portal, Damien Querlioz, Yann Beilliard, Dominique Drouin, Fabien Alibart",https://arxiv.org/pdf/2510.25787,"Subjects:
+Neural and Evolutionary Computing (cs.NE); Artificial Intelligence (cs.AI); Emerging Technologies (cs.ET); Machine Learning (cs.LG); Systems and Control (eess.SY)","Neural and Evolutionary Computing (cs.NE),  Artificial Intelligence (cs.AI),  Emerging Technologies (cs.ET),  Machine Learning (cs.LG),  Systems and Control (eess.SY)"
+arXiv:2510.07611,Inspection Planning Primitives with Implicit Models,基于隐式模型的检测规划基元,"Jingyang You, Hanna Kurniawati, Lashika Medagoda",https://arxiv.org/pdf/2510.07611,"Subjects:
+Robotics (cs.RO); Artificial Intelligence (cs.AI)","Robotics (cs.RO),  Artificial Intelligence (cs.AI)"
+arXiv:2509.18121,Energy-convergence trade off for the training of neural networks on bio-inspired hardware,仿生硬件上神经网络训练的能量-收敛性权衡,"Nikhil Garg, Paul Uriarte Vicandi, Yanming Zhang, Alexandre Baigol, Donato Francesco Falcone, Saketh Ram Mamidala, Bert Jan Offrein, Laura Bégon-Lours",https://arxiv.org/pdf/2509.18121,"Subjects:
+Emerging Technologies (cs.ET); Machine Learning (cs.LG); Systems and Control (eess.SY)","Emerging Technologies (cs.ET),  Machine Learning (cs.LG),  Systems and Control (eess.SY)"
+arXiv:2406.19667,Versatile CMOS Analog LIF Neuron for Memristor-Integrated Neuromorphic Circuits,适用于忆阻器集成神经形态电路的通用CMOS模拟LIF神经元,"Nikhil Garg, Davide Florini, Patrick Dufour, Eloir Muhr, Mathieu Faye, Marc Bocquet, Damien Querlioz, Yann Beilliard, Dominique Drouin, Fabien Alibart, Jean-Michel Portal",https://arxiv.org/pdf/2406.19667,"Subjects:
+Emerging Technologies (cs.ET); Systems and Control (eess.SY)","Emerging Technologies (cs.ET),  Systems and Control (eess.SY)"
+arXiv:2512.21335,Autonomous Uncertainty Quantification for Computational Point-of-care Sensors,计算即时护理传感器的自主不确定性量化,"Artem Goncharov, Rajesh Ghosh, Hyou-Arm Joung, Dino Di Carlo, Aydogan Ozcan",https://arxiv.org/pdf/2512.21335,"Subjects:
+Medical Physics (physics.med-ph); Machine Learning (cs.LG); Applied Physics (physics.app-ph); Biological Physics (physics.bio-ph)","Medical Physics (physics.med-ph),  Machine Learning (cs.LG),  Applied Physics (physics.app-ph),  Biological Physics (physics.bio-ph)"
+arXiv:2512.21320,An Allele-Centric Pan-Graph-Matrix Representation for Scalable Pangenome Analysis,面向可扩展泛基因组分析的等位基因中心泛图矩阵表示,Roberto Garrone,https://arxiv.org/pdf/2512.21320,"Subjects:
+Genomics (q-bio.GN); Databases (cs.DB); Data Structures and Algorithms (cs.DS)","Genomics (q-bio.GN),  Databases (cs.DB),  Data Structures and Algorithms (cs.DS)"
+arXiv:2512.21316,"Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks",经济生产力的规模法则：LLM辅助咨询、数据分析和管理任务的实验证据,Ali Merali,https://arxiv.org/pdf/2512.21316,"Subjects:
+General Economics (econ.GN); Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC)","General Economics (econ.GN),  Artificial Intelligence (cs.AI),  Human-Computer Interaction (cs.HC)"
+arXiv:2512.21304,A Note on Publicly Verifiable Quantum Money with Low Quantum Computational Resources,关于低量子计算资源的公开可验证量子货币的注记,"Fabrizio Genovese, Lev Stambler",https://arxiv.org/pdf/2512.21304,"Subjects:
+Quantum Physics (quant-ph); Cryptography and Security (cs.CR)","Quantum Physics (quant-ph),  Cryptography and Security (cs.CR)"
+arXiv:2512.21269,The Dynamical Anatomy of Anderson Acceleration:From Adaptive Momentum to Variable-Mass ODEs,安德森加速的动力学解剖：从自适应动量到变质量ODE,"Kewang Chen, Yongqiu Jiang, Kees Vuik",https://arxiv.org/pdf/2512.21269,"Subjects:
+Optimization and Control (math.OC); Numerical Analysis (math.NA)","Optimization and Control (math.OC),  Numerical Analysis (math.NA)"
+arXiv:2512.21266,"$\mathcal{K}$-Lorentzian Polynomials, Semipositive Cones, and Cone-Stable EVI Systems",K-洛伦兹多项式、半正锥体与锥体稳定EVI系统,Papri Dey,https://arxiv.org/pdf/2512.21266,"Subjects:
+Optimization and Control (math.OC); Systems and Control (eess.SY); Dynamical Systems (math.DS)","Optimization and Control (math.OC),  Systems and Control (eess.SY),  Dynamical Systems (math.DS)"
+arXiv:2512.21227,PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation,PhononBench：用于晶体生成动力学稳定性的大规模声子基准,"Xiao-Qi Han, Ze-Feng Gao, Peng-Jie Guo, Zhong-Yi Lu",https://arxiv.org/pdf/2512.21227,"Subjects:
+Materials Science (cond-mat.mtrl-sci); Artificial Intelligence (cs.AI)","Materials Science (cond-mat.mtrl-sci),  Artificial Intelligence (cs.AI)"
+arXiv:2512.21211,Causal-driven attribution (CDA): Estimating channel influence without user-level data,因果驱动归因（CDA）：无需用户级数据的渠道影响力估计,"Georgios Filippou, Boi Mai Quach, Diana Lenghel, Arthur White, Ashish Kumar Jha",https://arxiv.org/pdf/2512.21211,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG)","Machine Learning (stat.ML),  Machine Learning (cs.LG)"
+arXiv:2512.21203,Cruising the Spectrum: Joint Spectrum Mobility and Antenna Array Management for Mobile (cm/mm)Wave Connectivity,频谱巡航：移动（厘米/毫米）波连接的联合频谱移动与天线阵列管理,"Ece Bingöl, Eylem Ekici, Mehmet C. Vuran",https://arxiv.org/pdf/2512.21203,"Subjects:
+Signal Processing (eess.SP); Networking and Internet Architecture (cs.NI)","Signal Processing (eess.SP),  Networking and Internet Architecture (cs.NI)"
+arXiv:2512.21193,Adjusted Kolmogorov Complexity of Binary Words with Empirical Entropy Normalization,二进制词的调整科尔莫戈罗夫复杂度与经验熵归一化,Brani Vidakovic,https://arxiv.org/pdf/2512.21193,"Subjects:
+Computation (stat.CO); Computational Complexity (cs.CC); Information Theory (cs.IT)","Computation (stat.CO),  Computational Complexity (cs.CC),  Information Theory (cs.IT)"
+arXiv:2512.21180,Equivariant Multiscale Learned Invertible Reconstruction for Cone Beam CT: From Simulated to Real Data,等变多尺度学习可逆重建在锥束CT中的应用：从模拟到真实数据,"Nikita Moriakov, Efstratios Gavves, Jonathan H. Mason, Carmen Seller-Oria, Jonas Teuwen, Jan-Jakob Sonke",https://arxiv.org/pdf/2512.21180,"Subjects:
+Medical Physics (physics.med-ph); Computer Vision and Pattern Recognition (cs.CV)","Medical Physics (physics.med-ph),  Computer Vision and Pattern Recognition (cs.CV)"
+arXiv:2512.21051,Energy-Gain Control of Time-Varying Systems: Receding Horizon Approximation,时变系统的能量增益控制：滚动时域近似,"Jintao Sun, Michael Cantoni",https://arxiv.org/pdf/2512.21051,"Subjects:
+Optimization and Control (math.OC); Systems and Control (eess.SY)","Optimization and Control (math.OC),  Systems and Control (eess.SY)"
+arXiv:2512.21047,Device-Independent Anonymous Communication in Quantum Networks,量子网络中的设备无关匿名通信,"Srijani Das, Manasi Patra, Tuhin Paul, Anish Majumdar, Ramij Rahaman",https://arxiv.org/pdf/2512.21047,"Subjects:
+Quantum Physics (quant-ph); Cryptography and Security (cs.CR)","Quantum Physics (quant-ph),  Cryptography and Security (cs.CR)"
+arXiv:2512.21033,Quantum Homotopy Algorithm for Solving Nonlinear PDEs and Flow Problems,求解非线性PDE和流体问题的量子同伦算法,"Sachin S. Bharadwaj, Balasubramanya Nadiga, Stephan Eidenbenz, Katepalli R. Sreenivasan",https://arxiv.org/pdf/2512.21033,"Subjects:
+Quantum Physics (quant-ph); Computational Engineering, Finance, and Science (cs.CE); Applied Physics (physics.app-ph); Computational Physics (physics.comp-ph); Fluid Dynamics (physics.flu-dyn)","Quantum Physics (quant-ph),  Computational Engineering, Finance, and Science (cs.CE),  Applied Physics (physics.app-ph),  Computational Physics (physics.comp-ph),  Fluid Dynamics (physics.flu-dyn)"
+arXiv:2512.21029,Critical Points of Degenerate Metrics on Algebraic Varieties: A Tale of Overparametrization,代数簇上退化度量的临界点：过参数化的故事,"Giovanni Luca Marchetti, Erin Connelly, Paul Breiding, Kathlén Kohn",https://arxiv.org/pdf/2512.21029,"Subjects:
+Algebraic Geometry (math.AG); Machine Learning (cs.LG)","Algebraic Geometry (math.AG),  Machine Learning (cs.LG)"
+arXiv:2512.21020,Enhancing diffusion models with Gaussianization preprocessing,通过高斯化预处理增强扩散模型,"Li Cunzhi, Louis Kang, Hideaki Shimazaki",https://arxiv.org/pdf/2512.21020,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG)","Machine Learning (stat.ML),  Machine Learning (cs.LG)"
+arXiv:2512.21005,Learning from Neighbors with PHIBP: Predicting Infectious Disease Dynamics in Data-Sparse Environments,基于PHIBP的邻居学习：在数据稀疏环境中预测传染病动态,"Edwin Fong, Lancelot F. James, Juho Lee",https://arxiv.org/pdf/2512.21005,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG); Probability (math.PR)","Machine Learning (stat.ML),  Machine Learning (cs.LG),  Probability (math.PR)"
+arXiv:2512.20981,Leveraging Overfitting for Low-Complexity and Modality-Agnostic Joint Source-Channel Coding,利用过拟合实现低复杂度和模态无关的联合信源信道编码,"Haotian Wu, Gen Li, Pier Luigi Dragotti, Deniz Gündüz",https://arxiv.org/pdf/2512.20981,"Subjects:
+Image and Video Processing (eess.IV); Information Theory (cs.IT)","Image and Video Processing (eess.IV),  Information Theory (cs.IT)"
+arXiv:2512.20978,GenTSE: Enhancing Target Speaker Extraction via a Coarse-to-Fine Generative Language Model,GenTSE：通过粗到细生成语言模型增强目标语音提取,"Haoyang Li, Xuyi Zhuang, Azmat Adnan, Ye Ni, Wei Rao, Shreyas Gopal, Eng Siong Chng",https://arxiv.org/pdf/2512.20978,"Subjects:
+Audio and Speech Processing (eess.AS); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Audio and Speech Processing (eess.AS),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.20929,Decoding Predictive Inference in Visual Language Processing via Spatiotemporal Neural Coherence,通过时空神经一致性解码视觉语言处理中的预测推理,"Sean C. Borneman, Julia Krebs, Ronnie B. Wilbur, Evie A. Malaia",https://arxiv.org/pdf/2512.20929,"Subjects:
+Neurons and Cognition (q-bio.NC); Computation and Language (cs.CL)","Neurons and Cognition (q-bio.NC),  Computation and Language (cs.CL)"
+arXiv:2512.20924,Clever Hans in Chemistry: Chemist Style Signals Confound Activity Prediction on Public Benchmarks,化学中的聪明汉斯：化学家风格信号混淆公共基准上的活性预测,"Andrew D. Blevins, Ian K. Quigley",https://arxiv.org/pdf/2512.20924,"Subjects:
+Biomolecules (q-bio.BM); Machine Learning (cs.LG); Chemical Physics (physics.chem-ph)","Biomolecules (q-bio.BM),  Machine Learning (cs.LG),  Chemical Physics (physics.chem-ph)"
+arXiv:2512.20850,Implicit Numerical Scheme for the Hamilton-Jacobi-Bellman Quasi-Variational Inequality in the Optimal Market-Making Problem with Alpha Signal,具有阿尔法信号的最优做市问题中哈密顿-雅可比-贝尔曼拟变分不等式的隐式数值方案,Alexey Meteykin,https://arxiv.org/pdf/2512.20850,"Subjects:
+Mathematical Finance (q-fin.MF); Numerical Analysis (math.NA)","Mathematical Finance (q-fin.MF),  Numerical Analysis (math.NA)"
+arXiv:2512.20811,Weighted MCC: A Robust Measure of Multiclass Classifier Performance for Observations with Individual Weights,加权MCC：用于具有个体权重观测的多类分类器性能的稳健度量,"Rommel Cortez, Bala Krishnamoorthy",https://arxiv.org/pdf/2512.20811,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG)","Machine Learning (stat.ML),  Machine Learning (cs.LG)"
+arXiv:2512.20791,Extragradient methods with complexity guarantees for hierarchical variational inequalities,具有复杂度保证的分层变分不等式的外梯度方法,"Pavel Dvurechensky, Meggie Marschner, Shimrit Shtern, Mathias Staudigl",https://arxiv.org/pdf/2512.20791,"Subjects:
+Optimization and Control (math.OC); Systems and Control (eess.SY)","Optimization and Control (math.OC),  Systems and Control (eess.SY)"
+arXiv:2512.20747,A Physics Informed Neural Network For Deriving MHD State Vectors From Global Active Regions Observations,用于从全球活动区域观测推导磁流体动力学状态向量的物理信息神经网络,"Subhamoy Chatterjee, Mausumi Dikpati",https://arxiv.org/pdf/2512.20747,"Subjects:
+Solar and Stellar Astrophysics (astro-ph.SR); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)","Solar and Stellar Astrophysics (astro-ph.SR),  Artificial Intelligence (cs.AI),  Machine Learning (cs.LG)"
+arXiv:2512.20722,Learning-Enabled Elastic Network Topology for Distributed ISAC Service Provisioning,面向分布式ISAC服务供应的学习驱动弹性网络拓扑,"Jie Chen, Xianbin Wang",https://arxiv.org/pdf/2512.20722,"Subjects:
+Signal Processing (eess.SP); Information Theory (cs.IT)","Signal Processing (eess.SP),  Information Theory (cs.IT)"
+arXiv:2512.20686,Sequential Apportionment from Stationary Divisor Methods,基于静态除数方法的序列分配,"Michael A. Jones, Brittany Ohlinger, Jennifer Wilson",https://arxiv.org/pdf/2512.20686,"Subjects:
+General Mathematics (math.GM); Cryptography and Security (cs.CR)","General Mathematics (math.GM),  Cryptography and Security (cs.CR)"
+arXiv:2512.20685,Diffusion Models in Simulation-Based Inference: A Tutorial Review,基于模拟的推断中的扩散模型：教程综述,"Jonas Arruda, Niels Bracher, Ullrich Köthe, Jan Hasenauer, Stefan T. Radev",https://arxiv.org/pdf/2512.20685,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG); Methodology (stat.ME)","Machine Learning (stat.ML),  Machine Learning (cs.LG),  Methodology (stat.ME)"
+arXiv:2512.20682,Fast and Exact Least Absolute Deviations Line Fitting via Piecewise Affine Lower-Bounding,通过分段仿射下界实现快速精确的最小绝对偏差直线拟合,"Stefan Volz, Martin Storath, Andreas Weinmann",https://arxiv.org/pdf/2512.20682,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG); Optimization and Control (math.OC)","Machine Learning (stat.ML),  Machine Learning (cs.LG),  Optimization and Control (math.OC)"
+arXiv:2512.20642,Flow Gym,Flow Gym,"Francesco Banelli, Antonio Terpin, Alan Bonomi, Raffaello D'Andrea",https://arxiv.org/pdf/2512.20642,"Subjects:
+Fluid Dynamics (physics.flu-dyn); Computer Vision and Pattern Recognition (cs.CV); Software Engineering (cs.SE); Computational Physics (physics.comp-ph)","Fluid Dynamics (physics.flu-dyn),  Computer Vision and Pattern Recognition (cs.CV),  Software Engineering (cs.SE),  Computational Physics (physics.comp-ph)"
