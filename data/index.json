@@ -1,7 +1,14 @@
 {
-  "generated_at": "2025-12-25T08:45:37.288280Z",
-  "date_count": 64,
+  "generated_at": "2025-12-29T10:15:29.597380Z",
+  "date_count": 65,
   "dates": [
+    {
+      "date": "2025-12-29",
+      "count": 360,
+      "files": [
+        "csv_file/2025-12/2025-12-29_360.csv"
+      ]
+    },
     {
       "date": "2025-12-25",
       "count": 356,
