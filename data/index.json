@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-01-09T10:16:29.720739Z",
-  "date_count": 68,
+  "generated_at": "2026-01-13T02:20:17.912838Z",
+  "date_count": 69,
   "dates": [
+    {
+      "date": "2026-01-12",
+      "count": 385,
+      "files": [
+        "csv_file/2026-01/2026-01-12_385.csv"
+      ]
+    },
     {
       "date": "2026-01-09",
       "count": 591,
